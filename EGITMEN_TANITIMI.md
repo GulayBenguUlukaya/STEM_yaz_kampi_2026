@@ -59,15 +59,15 @@ yapbozu otomatik olarak birleştirip her araştırmacının kullanabileceği tem
 **3️⃣ Anlam çıkarmak.** Sonra asıl eğlenceli kısım: bu veriden **bir hikâye** çıkarmak.
 Sevdiğim bir örnek:
 
-> Hücredeki genler tek başına değil, **takımlar hâlinde** çalışır — tıpkı bir futbol takımı
-> gibi. ⚽ "Hücre büyümesi takımı", "savunma (bağışıklık) takımı" gibi gen grupları vardır.
-> Ben de bir analiz yöntemiyle (adı **ssGSEA**) soruyorum: *Bu hücrede hangi takım sahaya
-> çıkmış, hangisi yedekte oturuyor?*
+> Hücredeki genler tek başına değil, **gruplar hâlinde** çalışır — tıpkı bir futbol takımı
+> gibi. ⚽ "Hücre büyümesi grubu", "savunma (bağışıklık) grubu" gibi **gen grupları** vardır.
+> Ben de yazdığım analizlerle soruyorum: *Bu hücrede hangi gen grubu işbaşında, hangisi
+> sessiz duruyor?*
 >
-> Örneğin bir tümörde **"büyüme takımı" aşırı aktifse**, bu bize hastalığın neden
+> Örneğin bir tümörde **"büyüme grubu" aşırı aktifse**, bu bize hastalığın neden
 > kontrolden çıktığına dair önemli bir ipucu verir.
 
-![Gen takımları / ssGSEA çubuk grafiği](images/04_gen_takimlari.png)
+![Gen gruplarının aktifliğini gösteren çubuk grafiği](images/04_gen_gruplari.png)
 
 Bu yolda kullandığım iki klasik görsel daha var. **Isı haritası** ile binlerce genin hasta ve
 sağlıklı kişilerde nasıl "yandığını" bir bakışta görürüm; **volkan grafiği** ile de 20.000 genin

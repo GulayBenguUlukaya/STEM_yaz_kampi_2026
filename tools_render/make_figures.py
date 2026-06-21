@@ -115,11 +115,11 @@ def fig_pathways():
     fig, ax = plt.subplots(figsize=(9, 5))
     ax.barh(np.array(isimler)[order], skor[order], color=np.array(renk)[order])
     ax.axvline(0, color="k", lw=1)
-    ax.set_xlabel("Takım sahada mı?  (sağ = aktif / sol = sessiz)")
-    ax.set_title("Hangi gen 'takımı' sahaya çıkmış?  (ssGSEA)\n"
-                 "Tümörde 'büyüme takımı' aşırı aktif — önemli bir ipucu! ",
+    ax.set_xlabel("Grup ne kadar aktif?  (sağ = aktif / sol = sessiz)")
+    ax.set_title("Hangi gen grubu işbaşında?\n"
+                 "Tümörde 'büyüme grubu' aşırı aktif — önemli bir ipucu! ",
                  fontsize=12, fontweight="bold")
-    save(fig, "04_gen_takimlari.png")
+    save(fig, "04_gen_gruplari.png")
 
 
 # 5) Pipeline akis semasi
