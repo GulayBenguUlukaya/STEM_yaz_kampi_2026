@@ -43,7 +43,7 @@ warnings.filterwarnings("ignore")
 os.chdir(REPO_ROOT_PLACEHOLDER)
 sys.path.insert(0, os.getcwd())
 import matplotlib
-matplotlib.use("Agg")
+get_ipython().run_line_magic("matplotlib", "inline")  # matplotlib grafiklerini (karmaşıklık matrisi, ağaç) göm
 import plotly.io as pio
 pio.renderers.default = "png"          # plotly grafiklerini statik PNG yap
 pio.templates.default = "plotly_white"
