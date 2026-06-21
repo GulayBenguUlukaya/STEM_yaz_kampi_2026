@@ -96,9 +96,7 @@ def dagilim_grafigi(df, x_sutunu, y_sutunu, renk_sutunu=None, baslik="Dağılım
     renk_sutunu : str veya None — noktaların renklendirileceği kategori sütunu
     baslik : str
 
-    Döndürür
-    --------
-    fig : plotly figürü
+    Not: Grafiği doğrudan ekrana çizer (bir değer döndürmez).
     """
     print(f"📈 Dağılım grafiği çiziliyor: {x_sutunu} - {y_sutunu}")
     fig = px.scatter(
@@ -107,7 +105,6 @@ def dagilim_grafigi(df, x_sutunu, y_sutunu, renk_sutunu=None, baslik="Dağılım
         labels={x_sutunu: x_sutunu, y_sutunu: y_sutunu},
     )
     fig.show()
-    return fig
 
 
 def kutu_grafigi(df, kategori_sutunu, sayisal_sutun, baslik="Kutu Grafiği"):
@@ -121,7 +118,6 @@ def kutu_grafigi(df, kategori_sutunu, sayisal_sutun, baslik="Kutu Grafiği"):
         points="all", title=baslik,
     )
     fig.show()
-    return fig
 
 
 def cubuk_grafigi(df, kategori_sutunu, deger_sutunu=None, baslik="Çubuk Grafiği"):
@@ -138,7 +134,6 @@ def cubuk_grafigi(df, kategori_sutunu, deger_sutunu=None, baslik="Çubuk Grafiğ
         fig = px.bar(ortalama, x=kategori_sutunu, y=deger_sutunu,
                      title=baslik + f" — {deger_sutunu} ortalaması")
     fig.show()
-    return fig
 
 
 def histogram(df, sutun, baslik="Histogram"):
@@ -147,7 +142,6 @@ def histogram(df, sutun, baslik="Histogram"):
     """
     fig = px.histogram(df, x=sutun, title=baslik, nbins=30)
     fig.show()
-    return fig
 
 
 def korelasyon_haritasi(df, baslik="Korelasyon Haritası"):
@@ -163,7 +157,6 @@ def korelasyon_haritasi(df, baslik="Korelasyon Haritası"):
         title=baslik,
     )
     fig.show()
-    return fig
 
 
 # ============================================================
@@ -274,7 +267,6 @@ def oznitelik_onemi_grafigi(model, oznitelik_adlari, en_iyi_n=10, baslik="Öznit
     )
     fig.update_layout(yaxis={"categoryorder": "total ascending"})
     fig.show()
-    return fig
 
 
 def karar_agaci_ciz(model, oznitelik_adlari, sinif_adlari):
