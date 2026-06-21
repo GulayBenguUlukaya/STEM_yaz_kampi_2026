@@ -7,6 +7,9 @@ Tüm defterler **Google Colab**'da, Türkçe ve adım adım çalışacak şekild
 > [`rendered/`](rendered/) klasöründeki defterler çalıştırılmış hâlde — grafikler ve
 > sonuçlar dâhil her şey doğrudan GitHub'da görünüyor.
 
+> 👩‍🔬 **Önce eğitmeninizle tanışın:** [Eğitmen Tanıtımı — Gülay Bengü Ulukaya](EGITMEN_TANITIMI.md)
+> (biyoinformatik nedir, gerçek hayatta ne işe yarar ve kod bilmek bütün bunları nasıl mümkün kılar?)
+
 ---
 
 ## 📒 Defterler
