@@ -41,7 +41,7 @@ Kısaca:
 2. `STEM_yaz_kampi_2026` klasörünü Google Drive'da **"Drive'ım"** içine al.
 3. `notebooks/gun1.ipynb` dosyasını **Google Colab** ile aç ve hücreleri sırayla çalıştır.
 
-📄 Yazılı kaynaklar: [Çalışma Kitapçığı](STEAM_Kampi_2026_Calisma_Kitapcigi.pdf) · [Özet](Ozet.pdf)
+📄 Yazılı kaynak: [Çalışma Kitapçığı](STEAM_Kampi_2026_Calisma_Kitapcigi.pdf)
 
 ---
 
