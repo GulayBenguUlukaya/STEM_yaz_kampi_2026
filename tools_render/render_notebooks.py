@@ -17,6 +17,9 @@ import copy
 import nbformat
 from nbclient import NotebookClient
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from augmentations import AUG, PREVIEW_BANNER
+
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NB_DIR = os.path.join(REPO_ROOT, "notebooks")
 OUT_DIR = os.path.join(REPO_ROOT, "rendered")
@@ -71,6 +74,41 @@ def localize_setup_cell(src: str) -> str:
     return "\n".join(kept).strip() + "\n"
 
 
+def _new_cell(ctype: str, src: str):
+    if ctype == "markdown":
+        return nbformat.v4.new_markdown_cell(src)
+    return nbformat.v4.new_code_cell(src)
+
+
+def apply_augmentations(nb, nb_name: str):
+    """
+    Eğitsel hücreleri ekler:
+      • her defterin başına ortak önizleme afişi (ilk hücreden sonra),
+      • AUG[nb_name] içindeki 'after' çapalarının ardına varyasyon/yorum hücreleri.
+    Çapalar yalnızca ORİJİNAL hücrelerle eşleştirilir (eklenenler tekrar eşleşmez).
+    """
+    inserts = AUG.get(nb_name, [])
+    used = set()
+    new_cells = []
+    for idx, cell in enumerate(nb.cells):
+        new_cells.append(cell)
+        if idx == 0:  # başlıktan hemen sonra önizleme afişi
+            new_cells.append(_new_cell("markdown", PREVIEW_BANNER))
+        src = "".join(cell.get("source", "")) if isinstance(cell.get("source"), list) else cell.get("source", "")
+        for k, ins in enumerate(inserts):
+            if k in used:
+                continue
+            if ins["after"] in src:
+                for ctype, csrc in ins["cells"]:
+                    new_cells.append(_new_cell(ctype, csrc))
+                used.add(k)
+                break  # bir hücre = en fazla bir çapa
+    nb.cells = new_cells
+    for k, ins in enumerate(inserts):
+        if k not in used:
+            print(f"⚠️  {nb_name}: çapa bulunamadı -> {ins['after'][:50]!r}", flush=True)
+
+
 def render(nb_name: str):
     src_path = os.path.join(NB_DIR, nb_name)
     nb = nbformat.read(src_path, as_version=4)
@@ -79,6 +117,9 @@ def render(nb_name: str):
     for cell in nb.cells:
         if cell.cell_type == "code" and is_colab_setup_cell("".join(cell.source)):
             cell.source = localize_setup_cell("".join(cell.source))
+
+    # 1.5) Eğitsel içerik ekle (varyasyonlar + yorumlama + sunum rehberleri)
+    apply_augmentations(nb, nb_name)
 
     # 2) Gizli init hücresi ekle (çalıştırma sonrası silinecek)
     answers = INPUT_ANSWERS.get(nb_name, [])

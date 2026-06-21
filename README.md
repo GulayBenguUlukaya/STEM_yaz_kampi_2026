@@ -61,8 +61,10 @@ STEM_yaz_kampi_2026/
 ```
 
 > ℹ️ `rendered/` içindeki defterler **otomatik çalıştırılmış kopyalardır** (yalnızca
-> önizleme amaçlı). Asıl çalışma için `notebooks/` içindeki Colab sürümlerini kullanın —
-> orijinaller hiç değiştirilmedi.
+> önizleme amaçlı) ve normal hücrelerin arasına eğitsel eklemeler içerir: 🔧 *deneyebileceğiniz
+> varyasyonlar* (çalıştırılmış çıktılarıyla), 📊 *sonuçların nasıl yorumlanacağı* ve mini
+> projelerde 🎤 *sunum & yorumlama rehberleri*. Asıl çalışma için `notebooks/` içindeki Colab
+> sürümlerini kullanın — orijinaller hiç değiştirilmedi.
 
 ---
 
@@ -79,7 +81,8 @@ python tools_render/make_figures.py            # EGITMEN_TANITIMI görsellerini 
 
 Araç, Colab'a özgü Google Drive bağlama hücresini yerelde çalışacak şekilde sadeleştirir,
 plotly grafiklerini GitHub'da görünmesi için statik PNG'ye çevirir ve `input()` hücrelerini
-örnek cevaplarla otomatik yanıtlar.
+örnek cevaplarla otomatik yanıtlar. Önizlemelere eklenen eğitsel içerik (varyasyonlar,
+yorumlama ve sunum rehberleri) `tools_render/augmentations.py` dosyasında tutulur.
 
 ---
 
