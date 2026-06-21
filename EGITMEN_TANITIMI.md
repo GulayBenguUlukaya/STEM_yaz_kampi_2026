@@ -1,5 +1,12 @@
 # 👩‍🔬 Eğitmeninizle Tanışın — Gülay Bengü Ulukaya
 
+<p align="center">
+  <img src="images/bengu.jpg" alt="Gülay Bengü Ulukaya" width="46%">
+  <img src="images/bings_ekibi_nyc.jpg" alt="New York'taki BiNGS ekibi" width="46%">
+</p>
+
+<p align="center"><sub><b>Solda:</b> Ben (İstanbul, Boğaziçi 🌉) &nbsp;·&nbsp; <b>Sağda:</b> New York'ta birlikte çalıştığım BiNGS ekibi (arkada Özgürlük Heykeli 🗽)</sub></p>
+
 Merhaba! 👋 Ben **Bengü**. Bu kamp boyunca sizinle birlikte koda, veriye ve biraz da
 yapay zekâya yolculuk yapacağız. Başlamadan önce, kim olduğumu ve **gerçek hayatta her gün
 ne iş yaptığımı** anlatmak istiyorum — çünkü bu hafta öğreneceğiniz şeylerin "ödev" değil,
@@ -20,6 +27,11 @@ gözüyle okuyup "şurada bir hata var" diyemez. İşte burada **bilgisayar ve k
 Biyoinformatik, kısaca: **biyolojinin ürettiği devasa veriyi bilgisayarla okuyup anlamlandırma
 işidir.**
 
+![DNA dört harfli bir koddur; dizileme makinesi onu milyonlarca parçaya böler](images/01_dna_okumalari.png)
+
+> 🧩 Dizileme makinesi DNA'yı milyonlarca **minik parçaya** böler. Bu parçaları doğru sırayla
+> birleştirip okunabilir hâle getirmek — işte bilgisayarın ve kodun ilk görevi bu.
+
 ---
 
 ## 🔬 İşimde ne yapıyorum?
@@ -30,6 +42,8 @@ laboratuvarına** veri analizinde yardım eden bir merkez. Yani benim işim, tek
 aynı anda çok sayıda araştırmacıya el veriyorum. 🤝
 
 Günlük işimi üç adımda anlatayım:
+
+![Biyoinformatik iş akışı: dizileme makinesi, ham veri, pipeline, analiz, grafik](images/05_is_akisi.png)
 
 **1️⃣ Veriyi makineden almak.** Laboratuvarda **DNA dizileme makinesi** denen bir cihaz var.
 Bu cihaz, bir hücrenin DNA'sını ya da RNA'sını okuyup **milyonlarca minik parçaya** ayrılmış
@@ -52,6 +66,17 @@ Sevdiğim bir örnek:
 >
 > Örneğin bir tümörde **"büyüme takımı" aşırı aktifse**, bu bize hastalığın neden
 > kontrolden çıktığına dair önemli bir ipucu verir.
+
+![Gen takımları / ssGSEA çubuk grafiği](images/04_gen_takimlari.png)
+
+Bu yolda kullandığım iki klasik görsel daha var. **Isı haritası** ile binlerce genin hasta ve
+sağlıklı kişilerde nasıl "yandığını" bir bakışta görürüm; **volkan grafiği** ile de 20.000 genin
+içinden gerçekten farklı olan birkaçını yakalarım:
+
+<p align="center">
+  <img src="images/02_gen_isi_haritasi.png" alt="Gen ifade ısı haritası" width="49%">
+  <img src="images/03_volkan_grafigi.png" alt="Volkan grafiği" width="49%">
+</p>
 
 Bütün bunları **kod yazarak** yapıyorum: veriyi temizliyorum, analiz ediyorum ve sonunda
 herkesin anlayabileceği **grafikler** hâline getiriyorum — tıpkı bu kampta yapacağınız gibi!

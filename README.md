@@ -74,6 +74,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy \
             "plotly<6" "kaleido==0.2.1" nbconvert nbformat nbclient ipykernel
 python -m ipykernel install --prefix .venv --name python3
 python tools_render/render_notebooks.py        # rendered/ klasörünü yeniden oluşturur
+python tools_render/make_figures.py            # EGITMEN_TANITIMI görsellerini üretir
 ```
 
 Araç, Colab'a özgü Google Drive bağlama hücresini yerelde çalışacak şekilde sadeleştirir,
