@@ -225,17 +225,29 @@ AUG["mini_proje2_saglik.ipynb"] = [
     {"after": "veri = load_breast_cancer(as_frame=True)",
      "cells": [P(
         "## 📂 Veriyi Tanıyalım — Wisconsin Göğüs Kanseri\n\n"
-        "Makine öğrenmesinin en ünlü **gerçek** veri setlerinden biri. Bir tümörden alınan hücre örneğinin "
-        "**mikroskop görüntüsü** sayısallaştırılmış; her hücre çekirdeğinin boyutu, dokusu, çevresi gibi "
-        "özellikleri ölçülmüş.\n\n"
+        "Makine öğrenmesinin en ünlü **gerçek** veri setlerinden biridir. Bir tümörden iğneyle alınan "
+        "hücre örneğinin **mikroskop görüntüsü** sayısallaştırılmış; her hücre çekirdeğinin boyutu, biçimi "
+        "ve dokusu ölçülmüş. Her satır **bir hastadır**.\n\n"
         "- **Hasta sayısı:** 569\n"
-        "- **Öznitelik:** 30 (10 temel ölçümün *ortalama* / *standart hata* / *‘en kötü’* değerleri)\n"
-        "- **Hedef:** `0 = kötü huylu (malignant, 212 hasta)`, `1 = iyi huylu (benign, 357 hasta)`\n\n"
-        "10 temel ölçüm: yarıçap (*radius*), doku (*texture*), çevre, alan, pürüzsüzlük, kompaktlık, "
-        "içbükeylik, içbükey nokta sayısı, simetri, fraktal boyut. Örn. `mean radius` = çekirdeklerin "
-        "ortalama yarıçapı, `worst radius` = en büyük çekirdeklerin yarıçapı.\n\n"
+        "- **Öznitelik (sütun):** 30 — 10 temel ölçümün *ortalama* (`mean`), *standart hata* (`error`) "
+        "ve *‘en kötü’* (`worst`) değerleri\n"
+        "- **Hedef:** `0 = kötü huylu (malignant)` → 212 hasta · `1 = iyi huylu (benign)` → 357 hasta\n\n"
+        "| Ölçüm (10 temel) | Anlamı |\n|---|---|\n"
+        "| `radius` (yarıçap) | Hücre çekirdeğinin büyüklüğü |\n"
+        "| `texture` (doku) | Gri tonların pürüzlülüğü |\n"
+        "| `perimeter` (çevre) | Çekirdeğin çevre uzunluğu |\n"
+        "| `area` (alan) | Çekirdeğin kapladığı alan |\n"
+        "| `smoothness` (pürüzsüzlük) | Kenar çizgisinin düzgünlüğü |\n"
+        "| `compactness` (kompaktlık) | Çevre²/alan oranı |\n"
+        "| `concavity` (içbükeylik) | Kenardaki çukurların derinliği |\n"
+        "| `concave points` | İçbükey (çukur) nokta sayısı |\n"
+        "| `symmetry` (simetri) | Çekirdeğin simetrikliği |\n"
+        "| `fractal dimension` | Kenar çizgisinin karmaşıklığı |\n\n"
+        "💡 Her ölçüm **3 biçimde** gelir: `mean radius` (ortalama), `radius error` (sapma), "
+        "`worst radius` (en kötü/en büyük). Genelde **‘worst’** değerleri kanseri en iyi ele verir.\n\n"
         "💬 **Akranlarına anlat:** *“Bilgisayara bir tümörün hücre ölçümlerini veriyoruz; o da iyi huylu "
-        "mu kötü huylu mu tahmin ediyor.”* ⚠️ Bu bir **eğitim** veri setidir; gerçek teşhisi her zaman bir hekim koyar.")]},
+        "mu kötü huylu mu tahmin ediyor — gerçek doktorlara yardımcı olacak şekilde.”* ⚠️ Bu bir **eğitim** "
+        "veri setidir; gerçek teşhisi her zaman bir hekim koyar.")]},
     {"after": "print(f'Kötü huylu: {kotu}",
      "cells": [P(
         "📊 **Sınıf dengesi + baseline ne diyor?** İyi huylu (~%63) kötü huyludan (~%37) fazla. "
@@ -309,18 +321,22 @@ AUG["mini_proje3_iklim.ipynb"] = [
     {"after": "iklim = veri_yukle('input_data/iklim_co2.csv')",
      "cells": [P(
         "## 📂 Veriyi Tanıyalım — Ülkelerin CO₂ Tarihi\n\n"
-        "9 ekonomi (Türkiye, Almanya, ABD, Çin, Hindistan, İran, Brezilya, Yunanistan) + **‘Dünya’** "
-        "toplamı için **1950–2024** arası yıllık veriler (gerçek dünya verisine dayanır).\n\n"
-        "- **Satır:** 675 (ülke × yıl)\n\n"
+        "Gerçek dünya verisine dayanan bu set; 9 ekonomi (Türkiye, Almanya, ABD, Çin, Hindistan, İran, "
+        "Brezilya, Yunanistan) + **‘Dünya’** toplamı için **1950–2024** arası yıllık değerleri tutar. "
+        "Her satır **bir ülke-yıl** kombinasyonudur.\n\n"
+        "- **Satır sayısı:** 675 (ülke × yıl)\n"
+        "- **Zaman aralığı:** 1950 – 2024 (75 yıl)\n"
+        "- **Ana fikir:** Aynı veriyi **iki ölçüyle** okuyacağız (toplam vs kişi başı) — ve sıralamanın "
+        "değişmesi bu projenin dersi\n\n"
         "| Sütun | Anlamı |\n|---|---|\n"
+        "| `ulke`, `yil` | Ülke ve yıl |\n"
         "| `co2_milyon_ton` | Yıllık **toplam** CO₂ salımı (milyon ton) |\n"
         "| `co2_kisi_basi` | **Kişi başına** CO₂ (ton/kişi) — ‘adalet’ ölçüsü |\n"
         "| `co2_gsyh_basi` | Ekonomik üretim başına CO₂ (verimlilik) |\n"
-        "| `nufus`, `gsyh` | Nüfus ve ekonomik büyüklük |\n"
+        "| `nufus`, `gsyh` | Nüfus ve ekonomik büyüklük (GSYH) |\n"
         "| `enerji_kisi_basi` | Kişi başı enerji tüketimi |\n"
         "| `sicaklik_degisimi` | O ülkenin salımlarının küresel ısınmaya **kümülatif** katkısı (°C) |\n\n"
-        "💡 Aynı veriyi **iki farklı ölçüyle** (toplam vs kişi başı) okuyacağız — ve sıralamanın değişmesi "
-        "bu projenin ana dersi. 💬 **Akranlarına anlat:** *“Kim ne kadar karbon saldı? Ama ‘kim daha sorumlu?’ "
+        "💬 **Akranlarına anlat:** *“Kim ne kadar karbon saldı? Ama ‘kim daha sorumlu?’ "
         "sorusunun cevabı, hangi ölçüye baktığına göre değişiyor.”*")]},
     {"after": "title='Türkiye Yıllık CO₂ Emisyonu (Milyon Ton)'",
      "cells": [
@@ -392,17 +408,25 @@ AUG["mini_proje4_eurovision.ipynb"] = [
     {"after": "esc = veri_yukle('input_data/eurovision.csv')",
      "cells": [P(
         "## 📂 Veriyi Tanıyalım — Eurovision (2000–2023)\n\n"
-        "İki veri seti birlikte kullanılıyor:\n"
-        "1. **`eurovision.csv`** — her satır bir ülkenin bir yıldaki katılımı (**916 satır, 50 ülke**). "
-        "Sanatçı, şarkı, final sırası/puanı, ev sahibi mi, sahne çıkış sırası, ev sahibine uzaklık (km), "
-        "‘ilk 10'a girdi mi’ gibi bilgiler.\n"
-        "2. **`eurovision_oylar.csv`** — her satır ‘X ülkesi Y ülkesine kaç puan verdi’ (**21.165 satır**). "
-        "Komşu oylamasını incelemek için.\n\n"
-        "Önemli sütunlar: `final_sira` (1 = birinci, **küçük = iyi!**), `final_puan`, `ev_sahibi`, "
-        "`ev_sahibi_uzaklik_km`, `ilk_10`, `tele_puan_final` (halk), `juri_puan_final` (jüri).\n\n"
+        "Bu projede **iki** gerçek veri seti birlikte kullanılır; her satırın ne olduğu farklıdır, dikkat:\n\n"
+        "- **`eurovision.csv`** — her satır **bir ülkenin bir yıldaki katılımı** (916 satır, 50 ülke, 2000–2023)\n"
+        "- **`eurovision_oylar.csv`** — her satır **‘X ülkesi → Y ülkesine kaç puan verdi’** (21.165 oy kaydı)\n\n"
+        "| Sütun (`eurovision.csv`) | Anlamı |\n|---|---|\n"
+        "| `ulke`, `yil`, `sanatci`, `sarki` | Kim, hangi yıl, hangi şarkıyla katıldı |\n"
+        "| `final_sira` | Final sıralaması (**1 = birinci, küçük = iyi!**) |\n"
+        "| `final_puan` | Finalde aldığı toplam puan |\n"
+        "| `ev_sahibi` | O yıl ev sahibi mi? (Doğru/Yanlış) |\n"
+        "| `ev_sahibi_uzaklik_km` | Ülkenin ev sahibine uzaklığı (km) |\n"
+        "| `final_cikis_sirasi` | Sahneye kaçıncı sırada çıktı |\n"
+        "| `tele_puan_final` / `juri_puan_final` | Halk (tele) ve jüri puanları |\n"
+        "| `ilk_10` | İlk 10'a girdi mi? (model hedefi) |\n\n"
+        "| Sütun (`eurovision_oylar.csv`) | Anlamı |\n|---|---|\n"
+        "| `oy_veren_ulke` → `oy_alan_ulke` | Kim kime puan verdi |\n"
+        "| `puan` | Verilen puan (0–12) |\n"
+        "| `uzaklik_km` | İki ülke arası uzaklık (komşu oylaması için) |\n\n"
+        "💡 Sıralamada **küçük sayı iyidir** (1 = şampiyon); grafiklerde y eksenini bu yüzden ters çeviririz.\n\n"
         "💬 **Akranlarına anlat:** *“Eurovision sadece şarkı yarışması mı, yoksa coğrafya ve siyaset de "
-        "işin içinde mi? Gerçek veriyle bakacağız.”* 💡 Sıralamada **küçük sayı iyidir** (1 = şampiyon); "
-        "grafiklerde y eksenini bu yüzden ters çeviriyoruz.")]},
+        "işin içinde mi? Gerçek veriyle bakacağız.”*")]},
     {"after": "veriyi_ozetle(esc)",
      "cells": [P(
         "📊 **Genel özet:** 916 katılım var ve bazı sütunlarda **eksik değerler** görürsün (örn. finale "
@@ -503,17 +527,21 @@ AUG["mini_proje5_hava.ipynb"] = [
     {"after": "hava = pd.read_csv('input_data/iller_hava.csv')",
      "cells": [P(
         "## 📂 Veriyi Tanıyalım — 3 İlin Hava Durumu (2020–2024)\n\n"
-        "**Malatya, İstanbul ve Erzurum** için 5 yıllık **günlük** hava kayıtları.\n\n"
-        "- **Satır:** 5.481 günlük gözlem (3 il × ~5 yıl)\n\n"
+        "**Malatya, İstanbul ve Erzurum** için 5 yıllık **günlük** hava kayıtları. Her satır "
+        "**bir ilin bir günüdür**.\n\n"
+        "- **Satır sayısı:** 5.481 günlük gözlem (3 il × ~5 yıl)\n"
+        "- **Zaman aralığı:** 2020 – 2024\n"
+        "- **Şehirler bilerek farklı:** Erzurum yüksek-soğuk (ort ~7,5 °C), İstanbul ılıman-nemli "
+        "(~15,4 °C), Malatya karasal (~15 °C)\n\n"
         "| Sütun | Anlamı |\n|---|---|\n"
+        "| `il` | Şehir (Malatya / İstanbul / Erzurum) |\n"
+        "| `tarih` | Gözlem günü |\n"
         "| `sicaklik_ort / min / max` | Günlük ortalama / en düşük / en yüksek sıcaklık (°C) |\n"
         "| `yagis` | Günlük yağış (mm) |\n"
-        "| `ruzgar_max` | En yüksek rüzgâr |\n"
-        "| `yil, ay, gun, mevsim` | Tarih bilgileri (modelde ipucu olur) |\n"
-        "| `il` | Şehir |\n\n"
-        "Şehirler bilerek farklı seçildi: **Erzurum** yüksek ve soğuk (ort ~7,5 °C), **İstanbul** ılıman ve "
-        "nemli (~15,4 °C), **Malatya** karasal (~15 °C). 💬 **Akranlarına anlat:** *“Dünün havasına bakıp "
-        "yarını tahmin edebilir miyiz? Hangi şehir daha ‘tahmin edilebilir’? Ve 5 yılda iklim ısındı mı?”*")]},
+        "| `ruzgar_max` | Günün en yüksek rüzgârı |\n"
+        "| `yil, ay, gun, mevsim` | Tarih bilgileri (modelde ipucu olur) |\n\n"
+        "💬 **Akranlarına anlat:** *“Dünün havasına bakıp yarını tahmin edebilir miyiz? Hangi şehir daha "
+        "‘tahmin edilebilir’? Ve 5 yılda iklim ısındı mı?”*")]},
     {"after": "baslik='İl Bazlı Sıcaklık Dağılımı (5 yıl)'",
      "cells": [
         P("📊 **İl sıcaklık kutu grafiği:** Her ilin sıcaklık **dağılımını** (sadece ortalamayı değil) "
