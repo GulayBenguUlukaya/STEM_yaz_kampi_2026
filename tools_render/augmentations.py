@@ -168,7 +168,7 @@ AUG["mini_proje1_uzay.ipynb"] = [
         "**sol-üst köşe** (kısa periyot + büyük yarıçap) bu gezegenlerdir. Gerçek gezegenlerin rastgele "
         "değil, **fiziksel bir örüntü** oluşturması, verinin anlamlı olduğunu gösterir — sunumda "
         "‘rastgele gürültü değil, gerçek gök bilimi’ diyebilirsin.")]},
-    {"after": "sinif_adlari=['Yanlış Pozitif', 'Gerçek 🪐']",
+    {"after": "sinif_adlari=['Yanlış Pozitif', 'Gerçek Gezegen']",
      "cells": [
         P("📊 **Karmaşıklık matrisi bu projede nasıl okunur?** Köşegen = doğru tahminler. Köşegen dışı "
           "iki hata **aynı değildir**: bir yanlış pozitifi ‘gerçek’ sanmak NASA'ya boşuna teleskop zamanı "
