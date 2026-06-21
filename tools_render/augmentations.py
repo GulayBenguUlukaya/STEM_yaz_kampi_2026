@@ -168,16 +168,18 @@ AUG["mini_proje1_uzay.ipynb"] = [
         "**sol-üst köşe** (kısa periyot + büyük yarıçap) bu gezegenlerdir. Gerçek gezegenlerin rastgele "
         "değil, **fiziksel bir örüntü** oluşturması, verinin anlamlı olduğunu gösterir — sunumda "
         "‘rastgele gürültü değil, gerçek gök bilimi’ diyebilirsin.")]},
-    {"after": "sinif_adlari=['Yanlış Pozitif', 'Gerçek Gezegen']",
+    {"after": "model = rastgele_orman_egit(X_egitim, y_egitim)",
      "cells": [
-        P("📊 **Karmaşıklık matrisi bu projede nasıl okunur?** Köşegen = doğru tahminler. Köşegen dışı "
-          "iki hata **aynı değildir**: bir yanlış pozitifi ‘gerçek’ sanmak NASA'ya boşuna teleskop zamanı "
-          "harcatır; gerçek bir gezegeni kaçırmak ise *yeni bir dünyayı* ıskalamaktır. Doğruluğu mutlaka "
-          "**baseline** (%62,5 ‘hepsine yanlış-pozitif de’) ile kıyasla."),
+        P("📊 **Karmaşıklık matrisi bu projede nasıl okunur?** Satırlar **gerçek** sınıfı (Gerçek Gezegen / "
+          "Gerçek Gezegen Değil), sütunlar modelin **tahminini** gösterir. Köşegen = doğru tahminler. Köşegen "
+          "dışı iki hata **aynı değildir**: gerçek olmayan bir sinyali ‘gerçek gezegen’ sanmak NASA'ya boşuna "
+          "teleskop zamanı harcatır; gerçek bir gezegeni kaçırmak ise *yeni bir dünyayı* ıskalamaktır. "
+          "Doğruluğu mutlaka **baseline** (%62,5 ‘hepsine gerçek değil de’) ile kıyasla."),
         P("🔧 **Modeli değiştir, karşılaştır.** Rastgele orman yerine tek karar ağacı ne yapıyor?"),
         ("code",
          "agac = karar_agaci_egit(X_egitim, y_egitim, max_derinlik=4)\n"
-         "model_degerlendir(agac, X_test, y_test, sinif_adlari=['Yanlış Pozitif', 'Gerçek'])"),
+         "model_degerlendir(agac, X_test, y_test,\n"
+         "                  sinif_adlari=['Gerçek Gezegen Değil', 'Gerçek Gezegen'])"),
         P("📊 Genelde orman biraz daha doğrudur; ağaç ise *neden* öyle karar verdiğini gösterebilir."),
      ]},
     {"after": "baslik='Gerçek Gezegeni Ele Veren İpuçları'",
