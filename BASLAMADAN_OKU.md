@@ -4,6 +4,10 @@ STEAM Yaz Kampı 2026 • Veri Bilimi & Yapay Zekâ
 
 Bu klasörü bilgisayarına indirdin. Kodları çalıştırmak için onu **Google Drive'a yükleyip Google Colab'da** açacağız. Aşağıdaki adımları sırayla takip et. (Takılırsan öğretmenine sor — herkes ilk gün buradan geçiyor. 😊)
 
+> 📂 **En kolay yol — hazır klasör:** İndirmek/yüklemek yerine doğrudan şu Google Drive klasörünü kullanabilirsin:
+> **https://drive.google.com/drive/folders/1P1Fbw8HsqRNeKXn1vft0LfKVPOwVzi_K?usp=sharing**
+> Klasörü aç → sağ üstten **"Drive'a kısayol ekle" / "Bir kopyasını oluştur"** ile kendi **Drive'ım** içine al, sonra **3. Adım**'dan devam et. Bu yolu seçtiysen **1. ve 2. Adımları atlayabilirsin.**
+
 ---
 
 ## ⭐ EN ÖNEMLİ KURAL

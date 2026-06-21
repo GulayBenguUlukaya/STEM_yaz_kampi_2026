@@ -28,10 +28,17 @@ Her grup son gün **bir mini projeyi** seçip sunar.
 ## 🏁 Nasıl Başlanır?
 
 Öğrenciler için kurulum adımları **[BASLAMADAN_OKU.md](BASLAMADAN_OKU.md)** dosyasında
-(klasörü Google Drive'a yükleme + Colab'da açma). Kısaca:
+(klasörü Google Drive'a yükleme + Colab'da açma).
 
-1. Bu depoyu indir (yeşil **Code → Download ZIP**) ve aç.
-2. `STEM_yaz_kampi_2026` klasörünü Google Drive'da **"Drive'ım"** içine yükle.
+> 📂 **En kolay yol — hazır klasör:** Materyallerin tamamı şu Google Drive klasöründe:
+> **[STEM_yaz_kampi_2026 (Google Drive)](https://drive.google.com/drive/folders/1P1Fbw8HsqRNeKXn1vft0LfKVPOwVzi_K?usp=sharing)**
+> Klasörü aç → sağ üstten **"Drive'a kısayol ekle" / "Bir kopyasını oluştur"** ile kendi
+> **Drive'ım** içine al, sonra Colab'da `notebooks/gun1.ipynb`'yi aç.
+
+Kısaca:
+
+1. Yukarıdaki **[Drive klasörünü](https://drive.google.com/drive/folders/1P1Fbw8HsqRNeKXn1vft0LfKVPOwVzi_K?usp=sharing)** aç (veya bu depoyu **Code → Download ZIP** ile indir).
+2. `STEM_yaz_kampi_2026` klasörünü Google Drive'da **"Drive'ım"** içine al.
 3. `notebooks/gun1.ipynb` dosyasını **Google Colab** ile aç ve hücreleri sırayla çalıştır.
 
 📄 Yazılı kaynaklar: [Çalışma Kitapçığı](STEAM_Kampi_2026_Calisma_Kitapcigi.pdf) · [Özet](Ozet.pdf)
