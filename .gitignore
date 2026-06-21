@@ -1,0 +1,14 @@
+# Python sanal ortamı (render için yereldi, repoya girmez)
+.venv/
+
+# Derlenmiş Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db

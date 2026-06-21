@@ -1,0 +1,917 @@
+yil,ulke,sanatci,sarki,yari_final_no,final_cikis_sirasi,final_sira,final_puan,tele_puan_final,juri_puan_final,yarifinal_cikis_sirasi,yarifinal_sira,yarifinal_puan,finale_kaldı,ev_sahibi,ev_sahibi_ulke,ev_sahibi_uzaklik_km,ilk_10
+2000,Danimarka,Olsen brothers,Fly On The Wings Of Love,,14.0,1.0,195.0,,,,,,True,False,,,True
+2000,Rusya,Alsou,Solo,,9.0,2.0,155.0,,,,,,True,False,,,True
+2000,Letonya,BrainStorm,My Star,,21.0,3.0,136.0,,,,,,True,False,,,True
+2000,Estonya,Ines,Once In A Lifetime,,4.0,4.0,98.0,,,,,,True,False,,,True
+2000,Almanya,Stefan Raab,Wadde Hadde Dudde Da,,15.0,5.0,96.0,,,,,,True,False,,,True
+2000,İrlanda,Eamonn Toal,Millennium Of Love,,23.0,6.0,92.0,,,,,,True,False,,,True
+2000,İsveç,Roger Pontare,When Spirits Are Calling My Name,,18.0,7.0,88.0,,,,,,True,False,,,True
+2000,Malta,Claudette Pace,Desire,,7.0,8.0,73.0,,,,,,True,False,,,True
+2000,Hırvatistan,Goran Karan,Kada Zaspu Andeli,,17.0,9.0,70.0,,,,,,True,False,,,True
+2000,Türkiye,Pinar Ayhan & S.O.S. band,Yorgunum Anla,,22.0,10.0,59.0,,,,,,True,False,,,True
+2000,Norveç,Charmed,My Heart Goes Boom,,8.0,11.0,57.0,,,,,,True,False,,,False
+2000,İzlanda,August & Telma,Tell Me!,,12.0,12.0,45.0,,,,,,True,False,,,False
+2000,Hollanda,Linda Wagenmakers,No Goodbyes,,2.0,13.0,40.0,,,,,,True,False,,,False
+2000,Avusturya,The rounder girls,All To You,,24.0,14.0,34.0,,,,,,True,False,,,False
+2000,Kuzey Makedonya,XXL,100% Te Ljubam,,19.0,15.0,29.0,,,,,,True,False,,,False
+2000,Birleşik Krallık,Nicki French,Don't Play That Song Again,,3.0,16.0,28.0,,,,,,True,False,,,False
+2000,Romanya,Taxi,The Moon,,6.0,17.0,25.0,,,,,,True,False,,,False
+2000,İspanya,Serafín Zubiri,Colgado De Un Sueño,,13.0,18.0,18.0,,,,,,True,False,,,False
+2000,Finlandiya,Nina Åström,A Little Bit,,20.0,18.0,18.0,,,,,,True,False,,,False
+2000,İsviçre,Jane Bogaert,La Vita Cos'è?,,16.0,20.0,14.0,,,,,,True,False,,,False
+2000,Kıbrıs,Voice,Nomiza,,11.0,21.0,8.0,,,,,,True,False,,,False
+2000,İsrail,Ping Pong,Sa'me'akh,,1.0,22.0,7.0,,,,,,True,False,,,False
+2000,Fransa,Sofia Mestari,On Aura Le Ciel,,5.0,23.0,5.0,,,,,,True,False,,,False
+2000,Belçika,Nathalie Sorce,Envie De Vivre,,10.0,24.0,2.0,,,,,,True,False,,,False
+2001,Estonya,"Tanel Padar, Dave Benton & 2XL",Everybody,,20.0,1.0,198.0,,,,,,True,False,Danimarka,836.4151854032597,True
+2001,Danimarka,Rollo & King,Never Ever Let You Go,,23.0,2.0,177.0,,,,,,True,True,Danimarka,0.0,True
+2001,Yunanistan,Antique,Die For You,,22.0,3.0,147.0,,,,,,True,False,Danimarka,2137.237204258878,True
+2001,Fransa,Natasha Saint-Pier,Je N'ai Que Mon âme,,14.0,4.0,142.0,,,,,,True,False,Danimarka,1026.8707774503553,True
+2001,İsveç,Friends,Listen To Your Heartbeat,,7.0,5.0,100.0,,,,,,True,False,Danimarka,521.8283543394244,True
+2001,İspanya,David Civera,Dile Que La Quiero,,13.0,6.0,76.0,,,,,,True,False,Danimarka,2072.5578522192986,True
+2001,Slovenya,Nua Derenda,Energy,,17.0,7.0,70.0,,,,,,True,False,Danimarka,1078.2107187771142,True
+2001,Almanya,Michelle,Wer Liebe Lebt,,19.0,8.0,66.0,,,,,,True,False,Danimarka,355.51192912991974,True
+2001,Malta,Fabrizio Faniello,Another Summer Night,,21.0,9.0,48.0,,,,,,True,False,Danimarka,2204.3586396987253,True
+2001,Hırvatistan,Vanna,Strings Of My Heart,,10.0,10.0,42.0,,,,,,True,False,Danimarka,1123.0611498651906,True
+2001,Türkiye,Sedat Yüce,Sevgiliye Son,,15.0,11.0,41.0,,,,,,True,False,Danimarka,2298.42167055678,False
+2001,Rusya,Mumiy troll,Lady Alpine Blue,,6.0,12.0,37.0,,,,,,True,False,Danimarka,1560.5111659685604,False
+2001,Litvanya,Skamp,You Got Style,,8.0,13.0,35.0,,,,,,True,False,Danimarka,813.1829680331438,False
+2001,Bosna-Hersek,Nino,Hano,,3.0,14.0,29.0,,,,,,True,False,Danimarka,1378.4092673026469,False
+2001,Birleşik Krallık,Lindsay D.,No Dream Impossible,,16.0,15.0,28.0,,,,,,True,False,Danimarka,955.7973969875035,False
+2001,İsrail,Tal Sondak,Ein Davar,,5.0,16.0,25.0,,,,,,True,False,Danimarka,3189.4011457734427,False
+2001,Portekiz,MTM,Só Sei Ser Feliz Assim,,11.0,17.0,18.0,,,,,,True,False,Danimarka,2477.5522521352623,False
+2001,Hollanda,Michelle,Out On My Own,,1.0,18.0,16.0,,,,,,True,False,Danimarka,621.0904596243221,False
+2001,Letonya,Arnis Mednis,Too Much,,9.0,18.0,16.0,,,,,,True,False,Danimarka,724.6378577885721,False
+2001,Polonya,Piasek,2 Long,,18.0,20.0,11.0,,,,,,True,False,Danimarka,671.6718011785741,False
+2001,İrlanda,Gary O'Shaughnessy,Without Your Love,,12.0,21.0,6.0,,,,,,True,False,Danimarka,1238.614770014609,False
+2001,İzlanda,TwoTricky,Angel,,2.0,22.0,3.0,,,,,,True,False,Danimarka,2100.4110785219154,False
+2001,Norveç,Haldor Lægreid,On My Own,,4.0,22.0,3.0,,,,,,True,False,Danimarka,482.5145373969692,False
+2002,Letonya,Marie N,I Wanna,,23.0,1.0,176.0,,,,,,True,False,Estonya,279.40062021023346,True
+2002,Malta,Ira Losco,7th Wonder,,20.0,2.0,164.0,,,,,,True,False,Estonya,2720.2782031884344,True
+2002,Birleşik Krallık,Jessica Garlick,Come Back,,2.0,3.0,111.0,,,,,,True,False,Estonya,1783.5751267437356,True
+2002,Estonya,Sahléne,Runaway,,8.0,3.0,111.0,,,,,,True,True,Estonya,0.0,True
+2002,Fransa,Sandrine François,Il Faut Du Temps,,17.0,5.0,104.0,,,,,,True,False,Estonya,1858.3429259391144,True
+2002,Kıbrıs,One,Gimme,,1.0,6.0,85.0,,,,,,True,False,Estonya,2770.407908086719,True
+2002,İspanya,Rosa,Europe's Living A Celebration,,5.0,7.0,81.0,,,,,,True,False,Estonya,2893.0412267369197,True
+2002,İsveç,Afro-dite,Never Let It Go,,12.0,8.0,72.0,,,,,,True,False,Estonya,378.312737300521,True
+2002,Romanya,Monica Anghel & Marcel Pavel,Tell Me Why,,21.0,9.0,71.0,,,,,,True,False,Estonya,1671.5132074172675,True
+2002,Rusya,Prime minister,Northern Girl,,7.0,10.0,55.0,,,,,,True,False,Estonya,867.7764592691553,True
+2002,Hırvatistan,Vesna Pisarovic,Everything I Want,,6.0,11.0,44.0,,,,,,True,False,Estonya,1623.8245652590779,False
+2002,İsrail,Sarit Hadad,Light A Candle,,10.0,12.0,37.0,,,,,,True,False,Estonya,3172.9979958587587,False
+2002,Bosna-Hersek,Maja,Na Jastuku Za Dvoje,,15.0,13.0,33.0,,,,,,True,False,Estonya,1784.828806758201,False
+2002,Belçika,Sergio & the Ladies,Sister,,16.0,13.0,33.0,,,,,,True,False,Estonya,1599.5026288418783,False
+2002,Slovenya,Sestre,Samo Ljubezen,,22.0,13.0,33.0,,,,,,True,False,Estonya,1635.3353855427997,False
+2002,Türkiye,Buket Bengisu & Saphire,Leylaklar Soldu Kalbinde,,19.0,16.0,29.0,,,,,,True,False,Estonya,2242.61162106148,False
+2002,Yunanistan,Michalis Rakintzis,S.A.G.A.P.O.,,4.0,17.0,27.0,,,,,,True,False,Estonya,2387.348758827558,False
+2002,Avusturya,Manuel Ortega,Say A Word,,3.0,18.0,26.0,,,,,,True,False,Estonya,1361.9979291534205,False
+2002,Kuzey Makedonya,Karolina,Od Nas Zavisi,,9.0,19.0,25.0,,,,,,True,False,Estonya,1953.781510031528,False
+2002,Finlandiya,Laura,Addicted To You,,13.0,20.0,24.0,,,,,,True,False,Estonya,81.8647216435604,False
+2002,Almanya,Corinna May,I Can't Live Without Music,,18.0,21.0,17.0,,,,,,True,False,Estonya,1041.6074389257474,False
+2002,İsviçre,Francine Jordi,Dans Le Jardin De Mon Âme,,11.0,22.0,15.0,,,,,,True,False,Estonya,1793.6124348076996,False
+2002,Litvanya,Aivaras,Happy You,,24.0,23.0,12.0,,,,,,True,False,Estonya,529.1423513167178,False
+2002,Danimarka,Malene,Tell Me Who You Are,,14.0,24.0,7.0,,,,,,True,False,Estonya,836.4151854032597,False
+2003,Türkiye,Sertab Erener,Everyway That I Can,,4.0,1.0,167.0,,,,,,True,False,Letonya,1995.7519100328234,True
+2003,Belçika,Urban Trad,Sanomi,,22.0,2.0,165.0,,,,,,True,False,Letonya,1454.19721107928,True
+2003,Rusya,t.A.T.u.,"Ne Ver, Ne Boisia",,11.0,3.0,164.0,,,,,,True,False,Letonya,841.6093572101794,True
+2003,Norveç,Jostein Hasselgård,I'm Not Afraid To Move On,,18.0,4.0,123.0,,,,,,True,False,Letonya,842.6378430610632,True
+2003,İsveç,Fame,Give Me Your Love,,25.0,5.0,107.0,,,,,,True,False,Letonya,442.1216401017445,True
+2003,Avusturya,Alf Poier,Weil Der Mensch Zählt,,2.0,6.0,101.0,,,,,,True,False,Letonya,1102.0296107786755,True
+2003,Polonya,Ich Troje,Keine Grenzen - Zadnych Granic,,20.0,7.0,90.0,,,,,,True,False,Letonya,561.4143282820106,True
+2003,İzlanda,Birgitta,Open Your Heart,,1.0,8.0,81.0,,,,,,True,False,Letonya,2570.450173469915,True
+2003,İspanya,Beth,Dime,,12.0,8.0,81.0,,,,,,True,False,Letonya,2712.6662766747077,True
+2003,Romanya,Nicola,Dont Break My Heart,,24.0,10.0,73.0,,,,,,True,False,Letonya,1399.0465908240712,True
+2003,İrlanda,Mickey Harte,We've Got The World,,3.0,11.0,53.0,,,,,,True,False,Letonya,1953.5676605215826,False
+2003,Almanya,Lou,Lets Get Happy,,10.0,11.0,53.0,,,,,,True,False,Letonya,844.3002082607238,False
+2003,Hollanda,Esther Hart,One More Night,,14.0,13.0,45.0,,,,,,True,False,Letonya,1330.704447118487,False
+2003,Ukrayna,Olexandr,Hasta La Vista,,16.0,14.0,30.0,,,,,,True,False,Letonya,836.1046070843996,False
+2003,Hırvatistan,Claudia Beni,Vie Nisam Tvoja,,8.0,15.0,29.0,,,,,,True,False,Letonya,1358.9405974614897,False
+2003,Bosna-Hersek,Mija Martina,Ne Brini,,6.0,16.0,27.0,,,,,,True,False,Letonya,1509.2621837931174,False
+2003,Yunanistan,Mando,Never Let You Go,,17.0,17.0,25.0,,,,,,True,False,Letonya,2109.55304375102,False
+2003,Fransa,Louisa Baileche,Monts Et Merveilles,,19.0,18.0,19.0,,,,,,True,False,Letonya,1703.1049990456413,False
+2003,İsrail,Lior Narkis,Words For Love,,13.0,19.0,17.0,,,,,,True,False,Letonya,2926.2234359657496,False
+2003,Kıbrıs,Stelios Constantas,Feeling Alive,,9.0,20.0,15.0,,,,,,True,False,Letonya,2519.4958571076313,False
+2003,Estonya,Ruffus,Eighties Coming Back,,23.0,21.0,14.0,,,,,,True,False,Letonya,279.40062021023346,False
+2003,Portekiz,Rita Guerra,Deixa-me Sonhar,,7.0,22.0,13.0,,,,,,True,False,Letonya,3150.701802258639,False
+2003,Slovenya,Karmen,Nanana,,26.0,23.0,7.0,,,,,,True,False,Letonya,1378.228660335538,False
+2003,Letonya,F.L.Y.,Hello From Mars,,21.0,24.0,5.0,,,,,,True,True,Letonya,0.0,False
+2003,Malta,Lynn Chirchop,To Dream Again,,5.0,25.0,4.0,,,,,,True,False,Letonya,2448.0410760965365,False
+2003,Birleşik Krallık,Jemini,Cry Baby,,15.0,26.0,0.0,,,,,,True,False,Letonya,1676.6598049907764,False
+2004,Ukrayna,Ruslana,Wild Dances,0.0,10.0,1.0,280.0,,,11.0,2.0,256.0,True,False,Türkiye,1183.8939822141133,True
+2004,Sırbistan-Karadağ,Željko Joksimović,Lane Moje,0.0,5.0,2.0,263.0,,,20.0,1.0,263.0,True,False,Türkiye,1152.271506306506,True
+2004,Yunanistan,Sakis Rouvas,Shake It,0.0,16.0,3.0,252.0,,,10.0,3.0,238.0,True,False,Türkiye,818.2752429464603,True
+2004,Türkiye,Athena,For Real,,22.0,4.0,195.0,,,,,,True,True,Türkiye,0.0,True
+2004,Kıbrıs,Lisa Andreas,Stronger Every Minute,0.0,21.0,5.0,170.0,,,14.0,5.0,149.0,True,False,Türkiye,531.1171926480224,True
+2004,İsveç,Lena Philipsson,It Hurts,,24.0,5.0,170.0,,,,,,True,False,Türkiye,2393.3776060952114,True
+2004,Arnavutluk,Anjeza Shahini,The Image Of You,0.0,9.0,7.0,106.0,,,13.0,4.0,167.0,True,False,Türkiye,1110.3050758398806,True
+2004,Almanya,Max,Can't Wait Until Tonight,,8.0,8.0,93.0,,,,,,True,False,Türkiye,2037.416427842736,True
+2004,Bosna-Hersek,Deen,In The Disco,0.0,12.0,9.0,91.0,,,21.0,7.0,133.0,True,False,Türkiye,1271.2769624425025,True
+2004,İspanya,Ramón,Para Llenarme De Ti,,1.0,10.0,87.0,,,,,,True,False,Türkiye,3084.232371862177,True
+2004,Rusya,Julia Savicheva,Believe Me,,14.0,11.0,67.0,,,,,,True,False,Türkiye,1793.5608149946738,False
+2004,Malta,Julie & Ludwig,On Again... Off Again,0.0,6.0,12.0,50.0,,,8.0,8.0,74.0,True,False,Türkiye,1667.5279773170812,False
+2004,Hırvatistan,Ivan Mikulic,You Are The Only One,0.0,11.0,12.0,50.0,,,18.0,9.0,72.0,True,False,Türkiye,1519.05699542105,False
+2004,Kuzey Makedonya,Tose Proeski,Life,0.0,15.0,14.0,47.0,,,15.0,10.0,71.0,True,False,Türkiye,985.9106794488746,False
+2004,Fransa,Jonatan Cerrada,A Chaque Pas,,4.0,15.0,40.0,,,,,,True,False,Türkiye,2597.600609318226,False
+2004,Birleşik Krallık,James Fox,Hold On To Our Love,,20.0,16.0,29.0,,,,,,True,False,Türkiye,2833.846017094089,False
+2004,Polonya,Blue Cafe,Love Song,,19.0,17.0,27.0,,,,,,True,False,Türkiye,1640.3721982653221,False
+2004,Romanya,Sanda Ladosi,I Admit,,23.0,18.0,18.0,,,,,,True,False,Türkiye,748.289037545759,False
+2004,İzlanda,Jónsi,Heaven,,17.0,19.0,16.0,,,,,,True,False,Türkiye,4398.748566839897,False
+2004,Hollanda,Re-union,Without You,0.0,7.0,20.0,11.0,,,22.0,6.0,146.0,True,False,Türkiye,2535.097089512639,False
+2004,Avusturya,Tie Break,Du Bist,,2.0,21.0,9.0,,,,,,True,False,Türkiye,1601.8607181440389,False
+2004,Belçika,Xandee,1 Life,,13.0,22.0,7.0,,,,,,True,False,Türkiye,2513.4587106670365,False
+2004,İrlanda,Chris Doran,If My World Stopped Turning,,18.0,22.0,7.0,,,,,,True,False,Türkiye,3283.793789645542,False
+2004,Norveç,Knut Anders Sørum,High,,3.0,24.0,3.0,,,,,,True,False,Türkiye,2699.91768230757,False
+2004,Estonya,Neiokõsõ,Tii,0.0,,,,,,17.0,11.0,57.0,False,False,Türkiye,2242.61162106148,False
+2004,İsrail,David D'or,Le'ha'amin,0.0,,,,,,5.0,11.0,57.0,False,False,Türkiye,930.7567578130045,False
+2004,Danimarka,Tomas Thordarson,Shame On You,0.0,,,,,,19.0,13.0,56.0,False,False,Türkiye,2298.42167055678,False
+2004,Finlandiya,Jari Sillanpää,Takes 2 To Tango,0.0,,,,,,1.0,14.0,51.0,False,False,Türkiye,2316.6615107627754,False
+2004,Portekiz,Sofia,Foi Magia,0.0,,,,,,7.0,15.0,38.0,False,False,Türkiye,3580.715993597621,False
+2004,Litvanya,Linas ir Simona,What's Happened To Your Love,0.0,,,,,,12.0,16.0,26.0,False,False,Türkiye,1735.449868343483,False
+2004,Letonya,Fomins & Kleins,Dziesma Par Laimi,0.0,,,,,,4.0,17.0,23.0,False,False,Türkiye,1995.7519100328234,False
+2004,Andorra,Marta Roure,Jugarem A Estimar-nos,0.0,,,,,,6.0,18.0,12.0,False,False,Türkiye,2621.8498040536483,False
+2004,Belarus,Aleksandra & Konstantin,My Galileo,0.0,,,,,,2.0,19.0,10.0,False,False,Türkiye,1603.3896352689337,False
+2004,Monako,Maryon,Notre Planète,0.0,,,,,,9.0,19.0,10.0,False,False,Türkiye,2140.8299300105937,False
+2004,Slovenya,Platin,Stay Forever,0.0,,,,,,16.0,21.0,5.0,False,False,Türkiye,1635.6347533001845,False
+2004,İsviçre,Piero Esteriore & the MusicStars,Celebrate,0.0,,,,,,3.0,22.0,0.0,False,False,Türkiye,2183.0970160584056,False
+2005,Yunanistan,Helena Paparizou,My Number One,,19.0,1.0,230.0,,,,,,True,False,Ukrayna,1486.9009788925177,True
+2005,Malta,Chiara,Angel,,3.0,2.0,192.0,,,,,,True,False,Ukrayna,2065.137076356461,True
+2005,Romanya,Luminita Anghel & Sistem,Let Me Try,0.0,4.0,3.0,158.0,,,14.0,1.0,235.0,True,False,Ukrayna,747.0588197518642,True
+2005,İsrail,Shiri Maymon,Hasheket Shenish'ar,0.0,11.0,4.0,154.0,,,7.0,7.0,158.0,True,False,Ukrayna,2111.9343231614966,True
+2005,Letonya,Walter & Kazha,The War Is Not Over,0.0,23.0,5.0,153.0,,,5.0,10.0,85.0,True,False,Ukrayna,836.1046070843996,True
+2005,Moldova,Zdob şi Zdub,Boonika Bate Doba,0.0,7.0,6.0,148.0,,,4.0,2.0,207.0,True,False,Ukrayna,401.3921835953801,True
+2005,Sırbistan-Karadağ,No Name,Zauvijek Moja,,12.0,7.0,137.0,,,,,,True,False,Ukrayna,981.2297947993045,True
+2005,İsviçre,Vanilla Ninja,Cool Vibes,0.0,22.0,8.0,128.0,,,19.0,8.0,114.0,True,False,Ukrayna,1729.6513391703322,True
+2005,Norveç,Wig Wam,In My Dreams,0.0,5.0,9.0,125.0,,,13.0,6.0,164.0,True,False,Ukrayna,1626.6102245622128,True
+2005,Danimarka,Jakob Sveistrup,Talking To You,0.0,13.0,9.0,125.0,,,24.0,3.0,185.0,True,False,Ukrayna,1327.7437096101787,True
+2005,Hırvatistan,Boris Novkovic feat. Lado members,Vukovi Umiru Sami,0.0,18.0,11.0,115.0,,,20.0,4.0,169.0,True,False,Ukrayna,1193.3910382881868,False
+2005,Macaristan,NOX,Forogj Világ,0.0,1.0,12.0,97.0,,,15.0,5.0,167.0,True,False,Ukrayna,898.640531736284,False
+2005,Türkiye,Gülseren,Rimi Rimi Ley,,6.0,13.0,92.0,,,,,,True,False,Ukrayna,1183.8939822141133,False
+2005,Bosna-Hersek,Feminnem,Call Me,,21.0,14.0,79.0,,,,,,True,False,Ukrayna,1170.307512362434,False
+2005,Rusya,Natalia Podolskaya,Nobody Hurt No One,,20.0,15.0,57.0,,,,,,True,False,Ukrayna,755.5220154802621,False
+2005,Arnavutluk,Ledina Celo,Tomorrow I Go,,8.0,16.0,53.0,,,,,,True,False,Ukrayna,1306.5590308676512,False
+2005,Kuzey Makedonya,Martin Vucic,Make My Day,0.0,15.0,17.0,52.0,,,17.0,9.0,97.0,True,False,Ukrayna,1170.3312129819356,False
+2005,Kıbrıs,Constantinos Christoforou,Ela Ela,,9.0,18.0,46.0,,,,,,True,False,Ukrayna,1714.445474736346,False
+2005,İsveç,Martin Stenmarck,Las Vegas,,14.0,19.0,30.0,,,,,,True,False,Ukrayna,1264.2412140188364,False
+2005,Ukrayna,Greenjolly,Razom Nas Bahato,,16.0,19.0,30.0,,,,,,True,True,Ukrayna,0.0,False
+2005,İspanya,Son de sol,Brujería,,10.0,21.0,28.0,,,,,,True,False,Ukrayna,2861.8350894479545,False
+2005,Birleşik Krallık,Javine,Touch My Fire,,2.0,22.0,18.0,,,,,,True,False,Ukrayna,2133.2297179698553,False
+2005,Fransa,Ortal,Chacun Pense à Soi,,24.0,23.0,11.0,,,,,,True,False,Ukrayna,2023.294180998129,False
+2005,Almanya,Gracia,Run & Hide,,17.0,24.0,4.0,,,,,,True,False,Ukrayna,1204.5628895395816,False
+2005,Polonya,Ivan & Delfin,Czarna Dziewczyna,0.0,,,,,,25.0,11.0,81.0,False,False,Ukrayna,689.0212692361698,False
+2005,Slovenya,Omar Naber,Stop,0.0,,,,,,23.0,12.0,69.0,False,False,Ukrayna,1278.6188302846176,False
+2005,Belarus,Angelica Agurbash,Love Me Tonight,0.0,,,,,,8.0,13.0,67.0,False,False,Ukrayna,433.0746721692361,False
+2005,Hollanda,Glennis Grace,My Impossible Dream,0.0,,,,,,9.0,14.0,53.0,False,False,Ukrayna,1780.2006484017036,False
+2005,İrlanda,Donna and Joseph McCaul,Love?,0.0,,,,,,22.0,14.0,53.0,False,False,Ukrayna,2515.5241046880014,False
+2005,İzlanda,Selma,If I Had Your Love,0.0,,,,,,10.0,16.0,52.0,False,False,Ukrayna,3367.291341560699,False
+2005,Portekiz,2B,Amar,0.0,,,,,,3.0,17.0,51.0,False,False,Ukrayna,3351.039027049683,False
+2005,Finlandiya,Geir Rönning,Why,0.0,,,,,,16.0,18.0,50.0,False,False,Ukrayna,1136.0542097995615,False
+2005,Bulgaristan,Kaffe,Lorraine,0.0,,,,,,21.0,19.0,49.0,False,False,Ukrayna,1021.4123334498188,False
+2005,Estonya,Suntribe,Let's Get Loud,0.0,,,,,,12.0,20.0,31.0,False,False,Ukrayna,1064.4372963542278,False
+2005,Avusturya,Global.Kryner,Y Así,0.0,,,,,,1.0,21.0,30.0,False,False,Ukrayna,1053.428853303382,False
+2005,Belçika,Nuno Resende,Le Grand Soir,0.0,,,,,,11.0,22.0,29.0,False,False,Ukrayna,1835.9467087747928,False
+2005,Andorra,Marian van de Wal,La Mirada Interior,0.0,,,,,,18.0,23.0,27.0,False,False,Ukrayna,2370.728677485248,False
+2005,Monako,Lise Darly,Tout De Moi,0.0,,,,,,6.0,24.0,22.0,False,False,Ukrayna,1891.764853579305,False
+2005,Litvanya,Laura and the Lovers,Little By Little,0.0,,,,,,2.0,25.0,17.0,False,False,Ukrayna,589.3114538168633,False
+2006,Finlandiya,Lordi,Hard Rock Hallelujah,0.0,17.0,1.0,292.0,,,16.0,1.0,292.0,True,False,Yunanistan,2468.8898438996557,True
+2006,Rusya,Dima Bilan,Never Let You Go,0.0,10.0,2.0,248.0,,,13.0,3.0,217.0,True,False,Yunanistan,2230.8803941448336,True
+2006,Bosna-Hersek,Hari Mata Hari,Lejla,0.0,13.0,3.0,229.0,,,22.0,2.0,267.0,True,False,Yunanistan,791.6190413225879,True
+2006,Romanya,Mihai Traistariu,Tornero,,12.0,4.0,172.0,,,,,,True,False,Yunanistan,744.0146668756407,True
+2006,İsveç,Carola,Invincible,0.0,22.0,5.0,170.0,,,20.0,4.0,214.0,True,False,Yunanistan,2408.081916448883,True
+2006,Litvanya,LT United,We Are The Winners,0.0,14.0,6.0,162.0,,,18.0,5.0,163.0,True,False,Yunanistan,1861.7574188295341,True
+2006,Ukrayna,Tina Karol,Show Me Your Love,0.0,18.0,7.0,145.0,,,15.0,7.0,146.0,True,False,Yunanistan,1486.9009788925177,True
+2006,Ermenistan,André,Without Your Love,0.0,24.0,8.0,129.0,,,1.0,6.0,150.0,True,False,Yunanistan,1806.0448925218413,True
+2006,Yunanistan,Anna Vissi,Everything,,16.0,9.0,128.0,,,,,,True,True,Yunanistan,0.0,True
+2006,İrlanda,Brian Kennedy,Every Song Is A Cry For Love,0.0,21.0,10.0,93.0,,,8.0,9.0,79.0,True,False,Yunanistan,2855.3327330627394,True
+2006,Türkiye,Sibel Tüzün,Superstar,0.0,23.0,11.0,91.0,,,14.0,8.0,91.0,True,False,Yunanistan,818.2752429464603,False
+2006,Kuzey Makedonya,Elena Risteska,Ninanajna,0.0,11.0,12.0,56.0,,,11.0,10.0,76.0,True,False,Yunanistan,486.9988354185462,False
+2006,Hırvatistan,Severina,Moja tikla,,20.0,12.0,56.0,,,,,,True,False,Yunanistan,1080.303368676508,False
+2006,Norveç,Christine Guldbrandsen,Alvedansen,,5.0,14.0,36.0,,,,,,True,False,Yunanistan,2605.3495352133896,False
+2006,Almanya,Texas Lightning,"No, No, Never",,8.0,14.0,36.0,,,,,,True,False,Yunanistan,1803.5294547305612,False
+2006,İsviçre,Six4One,If We All Give A Little,,1.0,16.0,30.0,,,,,,True,False,Yunanistan,1661.2808070470978,False
+2006,Letonya,Cosmos,I Hear Your Heart,,4.0,16.0,30.0,,,,,,True,False,Yunanistan,2109.55304375102,False
+2006,Danimarka,Sidsel Ben Semmane,Twist Of Love,,9.0,18.0,26.0,,,,,,True,False,Yunanistan,2137.237204258878,False
+2006,Birleşik Krallık,Daz Sampson,Teenage Life,,15.0,19.0,25.0,,,,,,True,False,Yunanistan,2392.3621771966787,False
+2006,Moldova,Arsenium & Natalia Gordienko,Loca,,2.0,20.0,22.0,,,,,,True,False,Yunanistan,1088.005597107162,False
+2006,İspanya,Las Ketchup,Bloody Mary,,6.0,21.0,18.0,,,,,,True,False,Yunanistan,2369.5552597746237,False
+2006,Fransa,Virginie Pouchin,Il était Temps,,19.0,22.0,5.0,,,,,,True,False,Yunanistan,2096.609748642384,False
+2006,İsrail,Eddie Butler,Ze Hazman,,3.0,23.0,4.0,,,,,,True,False,Yunanistan,1252.9825098662402,False
+2006,Malta,Fabrizio Faniello,I Do,,7.0,24.0,1.0,,,,,,True,False,Yunanistan,851.0112173369382,False
+2006,Polonya,Ich Troje,Follow My Heart,0.0,,,,,,12.0,11.0,70.0,False,False,Yunanistan,1598.544800210323,False
+2006,Belçika,Kate Ryan,Je t'adore,0.0,,,,,,7.0,12.0,69.0,False,False,Yunanistan,2089.847533290674,False
+2006,İzlanda,Silvia Night,Congratulations,0.0,,,,,,23.0,13.0,62.0,False,False,Yunanistan,4157.125639968586,False
+2006,Arnavutluk,Luiz Ejlli,Zjarr E Ftohtë,0.0,,,,,,6.0,14.0,58.0,False,False,Yunanistan,500.6877638248327,False
+2006,Kıbrıs,Annet Artani,Why Angels Cry,0.0,,,,,,9.0,15.0,57.0,False,False,Yunanistan,914.3940326266465,False
+2006,Slovenya,Anej Dean,Mr. Nobody,0.0,,,,,,3.0,16.0,49.0,False,False,Yunanistan,1176.20431150057,False
+2006,Bulgaristan,Mariana Popova,Let Me Cry,0.0,,,,,,2.0,17.0,36.0,False,False,Yunanistan,525.9871089982005,False
+2006,Estonya,Sandra,Through My Window,0.0,,,,,,21.0,18.0,28.0,False,False,Yunanistan,2387.348758827558,False
+2006,Portekiz,Nonstop,Coisas De Nada,0.0,,,,,,19.0,19.0,26.0,False,False,Yunanistan,2851.215482607482,False
+2006,Hollanda,Treble,Amambanda,0.0,,,,,,17.0,20.0,22.0,False,False,Yunanistan,2163.9401431410047,False
+2006,Monako,Séverine Ferrer,La Coco-dance,0.0,,,,,,10.0,21.0,14.0,False,False,Yunanistan,1509.9281666768345,False
+2006,Belarus,Polina Smolova,Mum,0.0,,,,,,5.0,22.0,10.0,False,False,Yunanistan,1794.2813023576323,False
+2006,Andorra,Jennifer,Sense Tu,0.0,,,,,,4.0,23.0,8.0,False,False,Yunanistan,1944.891950712174,False
+2007,Sırbistan,Marija Šerifović,Molitva,0.0,17.0,1.0,268.0,,,15.0,1.0,298.0,True,False,Finlandiya,1736.0130823302377,True
+2007,Ukrayna,Verka Serduchka,Dancing Lasha Tumbai,,18.0,2.0,235.0,,,,,,True,False,Finlandiya,1136.0542097995615,True
+2007,Rusya,Serebro,Song # 1,,15.0,3.0,207.0,,,,,,True,False,Finlandiya,892.7544057894416,True
+2007,Türkiye,Kenan Dogulu,Shake It Up Shekerim,0.0,22.0,4.0,163.0,,,26.0,3.0,197.0,True,False,Finlandiya,2316.6615107627754,True
+2007,Bulgaristan,Elitsa Todorova & Stoyan Yankulov,Water,0.0,21.0,5.0,157.0,,,1.0,6.0,146.0,True,False,Finlandiya,1945.673825083821,True
+2007,Belarus,Dmitry Koldun,Work Your Magic,0.0,3.0,6.0,145.0,,,4.0,4.0,176.0,True,False,Finlandiya,714.9749493680802,True
+2007,Yunanistan,Sarbel,Yassou Maria,,10.0,7.0,139.0,,,,,,True,False,Finlandiya,2468.8898438996557,True
+2007,Ermenistan,Hayko,Anytime You Need,,23.0,8.0,138.0,,,,,,True,False,Finlandiya,2601.2624555965954,True
+2007,Macaristan,Magdi Rúzsa,Unsubstantial Blues,0.0,8.0,9.0,128.0,,,22.0,2.0,224.0,True,False,Finlandiya,1459.6470967157811,True
+2007,Moldova,Natalia Barbu,Fight,0.0,24.0,10.0,109.0,,,9.0,10.0,91.0,True,False,Finlandiya,1485.3676439579083,True
+2007,Bosna-Hersek,Marija Sestic,Rijeka Bez Imena,,1.0,11.0,106.0,,,,,,True,False,Finlandiya,1865.6497132989111,False
+2007,Gürcistan,Sopho,Visionary Dream,0.0,11.0,12.0,97.0,,,6.0,8.0,123.0,True,False,Finlandiya,2457.2099337763466,False
+2007,Romanya,Todomondo,"Liubi, Liubi, I Love You",,20.0,13.0,84.0,,,,,,True,False,Finlandiya,1751.9170367077397,False
+2007,Kuzey Makedonya,Karolina,Mojot Svet,0.0,6.0,14.0,73.0,,,18.0,9.0,97.0,True,False,Finlandiya,2035.638140572801,False
+2007,Slovenya,Alenka Gotar,Cvet Z Juga,0.0,7.0,15.0,66.0,,,25.0,7.0,140.0,True,False,Finlandiya,1711.6626318730403,False
+2007,Letonya,Bonaparti.lv,Questa Notte,0.0,14.0,16.0,54.0,,,28.0,5.0,168.0,True,False,Finlandiya,361.2617369183143,False
+2007,Finlandiya,Hanna Pakarinen,Leave Me Alone,,5.0,17.0,53.0,,,,,,True,True,Finlandiya,0.0,False
+2007,İsveç,The Ark,The Worrying Kind,,12.0,18.0,51.0,,,,,,True,False,Finlandiya,395.8102514911714,False
+2007,Almanya,Roger Cicero,Frauen Regieren Die Welt,,16.0,19.0,49.0,,,,,,True,False,Finlandiya,1105.567170582099,False
+2007,İspanya,NASH,I Love You Mi Vida,,2.0,20.0,43.0,,,,,,True,False,Finlandiya,2947.9874796821273,False
+2007,Litvanya,4Fun,Love Or Leave,,9.0,21.0,28.0,,,,,,True,False,Finlandiya,609.6858207748684,False
+2007,Fransa,Les Fatals Picards,L'amour à La Française,,13.0,22.0,19.0,,,,,,True,False,Finlandiya,1908.3705635592291,False
+2007,Birleşik Krallık,Scooch,Flying The Flag (for You),,19.0,22.0,19.0,,,,,,True,False,Finlandiya,1820.9053714052204,False
+2007,İrlanda,Dervish,They Can't Stop The Spring,,4.0,24.0,5.0,,,,,,True,False,Finlandiya,2023.6305831358839,False
+2007,Portekiz,Sabrina,Dança Comigo (vem Ser Feliz),0.0,,,,,,17.0,11.0,88.0,False,False,Finlandiya,3360.031434249754,False
+2007,Andorra,Anonymous,Salvem El Món,0.0,,,,,,21.0,12.0,80.0,False,False,Finlandiya,2522.0355302155444,False
+2007,İzlanda,Eiríkur Hauksson,Valentine Lost,0.0,,,,,,5.0,13.0,77.0,False,False,Finlandiya,2410.8020428010536,False
+2007,Polonya,The Jet Set,Time To Party,0.0,,,,,,14.0,14.0,75.0,False,False,Finlandiya,915.3377700788037,False
+2007,Kıbrıs,Evridiki,"Comme Ci, Comme ça",0.0,,,,,,3.0,15.0,65.0,False,False,Finlandiya,2845.2273083962336,False
+2007,Hırvatistan,Dragonfly feat. Dado Topic,Vjerujem U Ljubav,0.0,,,,,,13.0,16.0,54.0,False,False,Finlandiya,1702.0519519144254,False
+2007,Arnavutluk,Aida & Frederik Ndoci,Hear My Plea,0.0,,,,,,11.0,17.0,49.0,False,False,Finlandiya,2124.120057622549,False
+2007,Norveç,Guri Schanke,Ven A Bailar Conmigo,0.0,,,,,,19.0,18.0,48.0,False,False,Finlandiya,786.9852566850991,False
+2007,Danimarka,DQ,Drama Queen,0.0,,,,,,12.0,19.0,45.0,False,False,Finlandiya,882.5734406937115,False
+2007,İsviçre,DJ BoBo,Vampires Are Alive,0.0,,,,,,8.0,20.0,40.0,False,False,Finlandiya,1857.432702003754,False
+2007,Hollanda,Edsilia Rombley,On Top Of The World,0.0,,,,,,10.0,21.0,38.0,False,False,Finlandiya,1501.4209658512439,False
+2007,Karadağ,Stevan Faddy,Ajde Kroci,0.0,,,,,,7.0,22.0,33.0,False,False,Finlandiya,2008.8502464903584,False
+2007,Estonya,Gerli Padar,Partners In Crime,0.0,,,,,,23.0,22.0,33.0,False,False,Finlandiya,81.8647216435604,False
+2007,İsrail,Teapacks,Push The Button,0.0,,,,,,2.0,24.0,17.0,False,False,Finlandiya,3246.609574742888,False
+2007,Malta,Olivia Lewis,Vertigo,0.0,,,,,,20.0,25.0,15.0,False,False,Finlandiya,2800.110075921766,False
+2007,Belçika,The KMG's,Love Power,0.0,,,,,,24.0,26.0,14.0,False,False,Finlandiya,1647.816954723723,False
+2007,Avusturya,Eric Papilaya,Get A Life - Get Alive,0.0,,,,,,27.0,27.0,4.0,False,False,Finlandiya,1439.2547692465528,False
+2007,Çek Cumhuriyeti,Kabát,Malá Dáma,0.0,,,,,,16.0,28.0,1.0,False,False,Finlandiya,1302.0550426342113,False
+2008,Rusya,Dima Bilan,Believe,1.0,24.0,1.0,272.0,,,18.0,3.0,135.0,True,False,Sırbistan,1715.6649111159636,True
+2008,Ukrayna,Ani Lorak,Shady Lady,2.0,18.0,2.0,230.0,,,4.0,1.0,152.0,True,False,Sırbistan,981.2297947993045,True
+2008,Yunanistan,Kalomira,Secret Combination,1.0,21.0,3.0,218.0,,,19.0,1.0,156.0,True,False,Sırbistan,804.9760548925385,True
+2008,Ermenistan,Sirusho,"Qele, Qele",1.0,5.0,4.0,199.0,,,14.0,2.0,139.0,True,False,Sırbistan,2030.181191372807,True
+2008,Norveç,Maria,Hold On Be Strong,1.0,25.0,5.0,182.0,,,9.0,4.0,106.0,True,False,Sırbistan,1801.3331924787178,True
+2008,Sırbistan,Jelena Tomašević feat. Bora Dugic,Oro,,23.0,6.0,160.0,,,,,,True,True,Sırbistan,0.0,True
+2008,Türkiye,Mor ve Ötesi,Deli,2.0,12.0,7.0,138.0,,,3.0,7.0,85.0,True,False,Sırbistan,1152.271506306506,True
+2008,Azerbaycan,Elnur & Samir,Day After Day,1.0,20.0,8.0,132.0,,,7.0,6.0,96.0,True,False,Sırbistan,2442.7198082414548,True
+2008,İsrail,Boaz,The Fire In Your Eyes,1.0,7.0,9.0,124.0,,,2.0,5.0,104.0,True,False,Sırbistan,1931.4692331406427,True
+2008,Bosna-Hersek,Laka,Pokušaj,1.0,6.0,10.0,110.0,,,13.0,9.0,72.0,True,False,Sırbistan,192.41647415964476,True
+2008,Gürcistan,Diana Gurtskaya,Peace Will Come,2.0,17.0,11.0,83.0,,,14.0,5.0,107.0,True,False,Sırbistan,1992.7358802257907,False
+2008,Letonya,Pirates Of The Sea,Wolves Of The Sea,2.0,14.0,12.0,83.0,,,10.0,6.0,86.0,True,False,Sırbistan,1375.8023914391154,False
+2008,Portekiz,Vânia Fernandes,Senhora Do Mar (Negras Águas),2.0,13.0,13.0,69.0,,,19.0,2.0,120.0,True,False,Sırbistan,2529.260452552087,False
+2008,İzlanda,Euroband,This Is My Life,2.0,11.0,14.0,64.0,,,1.0,8.0,68.0,True,False,Sırbistan,3373.530265591413,False
+2008,Danimarka,Simon Mathew,All Night Long,2.0,16.0,15.0,60.0,,,13.0,3.0,112.0,True,False,Sırbistan,1332.3221537868583,False
+2008,İspanya,Rodolfo Chikilicuatre,Baila El Chiki Chiki,,22.0,16.0,55.0,,,,,,True,False,Sırbistan,2027.1621912413682,False
+2008,Arnavutluk,Olta Boka,Zemrën E Lamë Peng,2.0,3.0,17.0,55.0,,,6.0,9.0,67.0,True,False,Sırbistan,388.120382644383,False
+2008,İsveç,Charlotte Perrelli,Hero,2.0,15.0,18.0,47.0,,,2.0,12.0,54.0,True,False,Sırbistan,1624.679853470299,False
+2008,Fransa,Sébastien Tellier,Divine,,19.0,19.0,47.0,,,,,,True,False,Sırbistan,1445.4377301560178,False
+2008,Romanya,Nico & Vlad,Pe-o Margine De Lume,1.0,1.0,20.0,45.0,,,17.0,7.0,94.0,True,False,Sırbistan,448.95020464164884,False
+2008,Hırvatistan,Kraljevi Ulice & 75 Cents,Romanca,2.0,9.0,21.0,44.0,,,11.0,4.0,112.0,True,False,Sırbistan,367.4927124092409,False
+2008,Finlandiya,Teräsbetoni,Missä Miehet Ratsastaa,1.0,8.0,22.0,35.0,,,16.0,8.0,79.0,True,False,Sırbistan,1736.0130823302377,False
+2008,Almanya,No Angels,Disappear,,4.0,23.0,14.0,,,,,,True,False,Sırbistan,1002.3972556545572,False
+2008,Polonya,Isis Gee,For Life,1.0,10.0,24.0,14.0,,,10.0,10.0,42.0,True,False,Sırbistan,828.3111506958423,False
+2008,Birleşik Krallık,Andy Abraham,Even If,,2.0,25.0,14.0,,,,,,True,False,Sırbistan,1691.978781376608,False
+2008,Kuzey Makedonya,"Tamara, Vrčak & Adrijan",Let Me Love You,2.0,,,,,,18.0,10.0,64.0,False,False,Sırbistan,321.25127288960186,False
+2008,Bulgaristan,Deep Zone & Balthazar,"DJ, Take Me Away",2.0,,,,,,12.0,11.0,56.0,False,False,Sırbistan,327.3117776455301,False
+2008,İsviçre,Paolo Meneguzzi,Era Stupendo,2.0,,,,,,7.0,13.0,47.0,False,False,Sırbistan,1033.442067420929,False
+2008,Malta,Morena,Vodka,2.0,,,,,,16.0,14.0,38.0,False,False,Sırbistan,1108.552104316388,False
+2008,Slovenya,Rebeka Dremelj,Vrag Naj Vzame,1.0,,,,,,8.0,11.0,36.0,False,False,Sırbistan,484.46005303952586,False
+2008,Moldova,Geta Burlacu,A Century Of Love,1.0,,,,,,4.0,12.0,36.0,False,False,Sırbistan,695.5856286141579,False
+2008,Kıbrıs,Evdokia Kadi,Femme Fatale,2.0,,,,,,17.0,15.0,36.0,False,False,Sırbistan,1530.7753550150176,False
+2008,Litvanya,Jeronimas Milius,Nomads In The Night,2.0,,,,,,5.0,16.0,30.0,False,False,Sırbistan,1153.5584072661181,False
+2008,Hollanda,Hind,Your Heart Belongs To Me,1.0,,,,,,15.0,13.0,27.0,False,False,Sırbistan,1416.0367080132182,False
+2008,Belarus,Ruslan Alehno,Hasta La Vista,2.0,,,,,,9.0,17.0,27.0,False,False,Sırbistan,1135.40645509566,False
+2008,Karadağ,Stefan Filipović,Zauvijek Volim Te,1.0,,,,,,1.0,14.0,23.0,False,False,Sırbistan,278.3066540291145,False
+2008,İrlanda,Dustin the Turkey,Irelande Douze Pointe,1.0,,,,,,11.0,15.0,22.0,False,False,Sırbistan,2148.8584012045844,False
+2008,Andorra,Gisela,Casanova,1.0,,,,,,12.0,16.0,22.0,False,False,Sırbistan,1540.370344081318,False
+2008,Belçika,Ishtar,O Julissi,1.0,,,,,,6.0,17.0,16.0,False,False,Sırbistan,1373.8821753465081,False
+2008,Çek Cumhuriyeti,Tereza Kerndlová,Have Some Fun,2.0,,,,,,8.0,18.0,9.0,False,False,Sırbistan,741.3391421258682,False
+2008,Estonya,Kreisiraadio,Leto Svet,1.0,,,,,,3.0,18.0,8.0,False,False,Sırbistan,1654.3982595727464,False
+2008,Macaristan,Csézy,Candlelight,2.0,,,,,,15.0,19.0,6.0,False,False,Sırbistan,320.30410555082534,False
+2008,San Marino,Miodio,Complice,1.0,,,,,,5.0,19.0,5.0,False,False,Sırbistan,642.6588061312312,False
+2009,Norveç,Alexander Rybak,Fairytale,2.0,20.0,1.0,387.0,,,6.0,1.0,201.0,True,False,Rusya,1643.7499067698775,True
+2009,İzlanda,Yohanna,Is It True?,1.0,7.0,2.0,218.0,,,12.0,1.0,174.0,True,False,Rusya,3302.7476796793776,True
+2009,Azerbaycan,AySel & Arash,Always,2.0,11.0,3.0,207.0,,,12.0,2.0,180.0,True,False,Rusya,1926.7779214132897,True
+2009,Türkiye,Hadise,Düm Tek Tek,1.0,18.0,4.0,177.0,,,9.0,2.0,172.0,True,False,Rusya,1793.5608149946738,True
+2009,Birleşik Krallık,Jade Ewen,It's My Time,,23.0,5.0,173.0,,,,,,True,False,Rusya,2500.772606080655,True
+2009,Estonya,Urban Symphony,Rändajad,2.0,15.0,6.0,129.0,,,18.0,3.0,115.0,True,False,Rusya,867.7764592691553,True
+2009,Yunanistan,Sakis Rouvas,This Is Our Night,2.0,8.0,7.0,120.0,,,13.0,4.0,110.0,True,False,Rusya,2230.8803941448336,True
+2009,Fransa,Patricia Kaas,Et S'il Fallait Le Faire,,3.0,8.0,107.0,,,,,,True,False,Rusya,2486.323582474517,True
+2009,Bosna-Hersek,Regina,Bistra Voda,1.0,12.0,9.0,106.0,,,18.0,3.0,125.0,True,False,Rusya,1898.0402095510535,True
+2009,Ermenistan,Inga & Anush,Jan Jan,1.0,9.0,10.0,92.0,,,6.0,5.0,99.0,True,False,Rusya,1803.5428638690867,True
+2009,Rusya,Anastasia Prikhodko,Mamo,,10.0,11.0,91.0,,,,,,True,True,Rusya,0.0,False
+2009,Ukrayna,Svetlana Loboda,Be my Valentine! (Anti-crisis Girl),2.0,21.0,12.0,76.0,,,17.0,6.0,80.0,True,False,Rusya,755.5220154802621,False
+2009,Danimarka,Brinck,Believe Again,2.0,16.0,13.0,74.0,,,9.0,8.0,69.0,True,False,Rusya,1560.5111659685604,False
+2009,Moldova,Nelly Ciobanu,Hora Din Moldova,2.0,13.0,14.0,69.0,,,15.0,5.0,106.0,True,False,Rusya,1144.3658253874296,False
+2009,Portekiz,Flor-de-lis,Todas As Ruas Do Amor,1.0,6.0,15.0,57.0,,,16.0,8.0,70.0,True,False,Rusya,3905.5626601473887,False
+2009,İsrail,Noa & Mira Awad,There Must Be Another Way,1.0,2.0,16.0,53.0,,,10.0,7.0,75.0,True,False,Rusya,2671.9159648419413,False
+2009,Arnavutluk,Kejsi Tola,Carry Me In Your Dreams,2.0,19.0,17.0,48.0,,,16.0,7.0,73.0,True,False,Rusya,2058.2797553398186,False
+2009,Hırvatistan,Igor Cukrov feat. Andrea,Lijepa Tena,2.0,5.0,18.0,45.0,,,1.0,13.0,33.0,True,False,Rusya,1867.6307956523037,False
+2009,Romanya,Elena,The Balkan Girls,1.0,22.0,19.0,40.0,,,14.0,9.0,67.0,True,False,Rusya,1498.9473300042305,False
+2009,Almanya,Alex Swings Oscar Sings!,Miss Kiss Kiss Bang,,17.0,20.0,35.0,,,,,,True,False,Rusya,1609.2812870314053,False
+2009,İsveç,Malena Ernman,La Voix,1.0,4.0,21.0,33.0,,,5.0,4.0,105.0,True,False,Rusya,1227.4426626648965,False
+2009,Malta,Chiara,What If We,1.0,14.0,22.0,31.0,,,17.0,6.0,86.0,True,False,Rusya,2814.4535502590497,False
+2009,Litvanya,Sasha Son,Love,2.0,1.0,23.0,23.0,,,14.0,9.0,66.0,True,False,Rusya,790.4435958195801,False
+2009,İspanya,Soraya,La Noche Es Para Mí (The Night Is For Me),,25.0,24.0,23.0,,,,,,True,False,Rusya,3439.8961950643234,False
+2009,Finlandiya,Waldo's People,Lose Control,1.0,24.0,25.0,22.0,,,15.0,12.0,42.0,True,False,Rusya,892.7544057894416,False
+2009,Sırbistan,Marko Kon & Milaan,Cipela,2.0,,,,,,4.0,10.0,60.0,False,False,Rusya,1715.6649111159636,False
+2009,İrlanda,Sinéad Mulvey & Black Daisy,Et Cetera,2.0,,,,,,2.0,11.0,52.0,False,False,Rusya,2794.688195995596,False
+2009,Kuzey Makedonya,Next Time,Neshto Shto Ke Ostane,1.0,,,,,,13.0,10.0,45.0,False,False,Rusya,1924.7316999951565,False
+2009,Karadağ,Andrea Demirović,Just Get Out of My Life,1.0,,,,,,1.0,11.0,44.0,False,False,Rusya,1982.042949864689,False
+2009,Polonya,Lidia Kopania,I Don't Wanna Leave,2.0,,,,,,5.0,12.0,43.0,False,False,Rusya,1150.8389645376164,False
+2009,Kıbrıs,Christina Metaxa,Firefly,2.0,,,,,,7.0,14.0,32.0,False,False,Rusya,2311.318723139905,False
+2009,Belarus,Petr Elfimov,Eyes That Never Lie,1.0,,,,,,4.0,13.0,25.0,False,False,Rusya,675.12440783981,False
+2009,İsviçre,Lovebugs,The Highest Heights,1.0,,,,,,8.0,14.0,15.0,False,False,Rusya,2288.340511176307,False
+2009,Macaristan,Zoli Ádok,Dance With Me,2.0,,,,,,11.0,15.0,16.0,False,False,Rusya,1568.8445245112991,False
+2009,Slovenya,Quartissimo feat. Martina,Love Symphony,2.0,,,,,,10.0,16.0,14.0,False,False,Rusya,1931.5201410260927,False
+2009,Hollanda,The Toppers,Shine,2.0,,,,,,19.0,17.0,11.0,False,False,Rusya,2147.34045374749,False
+2009,Andorra,Susanne Georgi,La Teva Decisió (Get A Life),1.0,,,,,,7.0,15.0,8.0,False,False,Rusya,2963.4083937710006,False
+2009,Slovakya,Kamil Mikulčík & Nela Pocisková,Leť Tmou,2.0,,,,,,8.0,18.0,8.0,False,False,Rusya,1630.9050420195176,False
+2009,Bulgaristan,Krassimir Avramov,Illusion,1.0,,,,,,11.0,16.0,7.0,False,False,Rusya,1776.8944531663328,False
+2009,Letonya,Intars Busulis,Probka,2.0,,,,,,3.0,19.0,7.0,False,False,Rusya,841.6093572101794,False
+2009,Belçika,Copycat,,1.0,,,,,,3.0,17.0,1.0,False,False,Rusya,2253.2843962202346,False
+2009,Çek Cumhuriyeti,Gipsy.cz,Aven Romale,1.0,,,,,,2.0,18.0,0.0,False,False,Rusya,1667.2828889365535,False
+2010,Almanya,Lena,Satellite,,22.0,1.0,246.0,,,,,,True,False,Norveç,837.7350584592342,True
+2010,Türkiye,maNga,We Could Be The Same,2.0,14.0,2.0,170.0,,,17.0,1.0,118.0,True,False,Norveç,2699.91768230757,True
+2010,Romanya,Paula Seling & Ovi,Playing With Fire,2.0,19.0,3.0,162.0,,,10.0,4.0,104.0,True,False,Norveç,2003.6663902235591,True
+2010,Danimarka,Chanée & N'evergreen,In A Moment Like This,2.0,25.0,4.0,149.0,,,4.0,5.0,101.0,True,False,Norveç,482.5145373969692,True
+2010,Azerbaycan,Safura,Drip Drop,2.0,1.0,5.0,145.0,,,7.0,2.0,113.0,True,False,Norveç,3448.3251205856645,True
+2010,Belçika,Tom Dice,Me And My Guitar,1.0,7.0,6.0,143.0,,,10.0,1.0,167.0,True,False,Norveç,1084.3291672127093,True
+2010,Ermenistan,Eva Rivas,Apricot Stone,2.0,21.0,7.0,141.0,,,2.0,6.0,83.0,True,False,Norveç,3197.1915203593408,True
+2010,Yunanistan,Giorgos Alkaios & Friends,OPA,1.0,11.0,8.0,140.0,,,13.0,2.0,133.0,True,False,Norveç,2605.3495352133896,True
+2010,Gürcistan,Sofia Nizharadze,Shine,2.0,13.0,9.0,136.0,,,16.0,3.0,106.0,True,False,Norveç,3073.1082550536794,True
+2010,Ukrayna,Alyosha,Sweet People,2.0,17.0,10.0,108.0,,,8.0,7.0,77.0,True,False,Norveç,1626.6102245622128,True
+2010,Rusya,Peter Nalitch & Friends,Lost And Forgotten,1.0,20.0,11.0,90.0,,,2.0,7.0,74.0,True,False,Norveç,1643.7499067698775,False
+2010,Fransa,Jessy Matador,Allez Olla Olé,,18.0,12.0,82.0,,,,,,True,False,Norveç,1341.239838205445,False
+2010,Sırbistan,Milan Stanković,Ovo Je Balkan,1.0,8.0,13.0,72.0,,,7.0,5.0,79.0,True,False,Norveç,1801.3331924787178,False
+2010,İsrail,Harel Skaat,Milim,2.0,24.0,14.0,71.0,,,3.0,8.0,71.0,True,False,Norveç,3611.377694671214,False
+2010,İspanya,Daniel Diges,Algo Pequeñito,,2.0,15.0,68.0,,,,,,True,False,Norveç,2387.078474686203,False
+2010,Arnavutluk,Juliana Pasha,It's All About You,1.0,15.0,16.0,62.0,,,12.0,6.0,76.0,True,False,Norveç,2158.1460597025157,False
+2010,Bosna-Hersek,Vukašin Brajić,Thunder and Lightning,1.0,6.0,17.0,51.0,,,8.0,8.0,59.0,True,False,Norveç,1857.5655661779474,False
+2010,Portekiz,Filipa Azevedo,Há Dias Assim,1.0,23.0,18.0,43.0,,,14.0,4.0,89.0,True,False,Norveç,2737.8438617105785,False
+2010,İzlanda,Hera Björk,Je Ne Sais Quoi,1.0,16.0,19.0,41.0,,,17.0,3.0,123.0,True,False,Norveç,1741.1895787372437,False
+2010,Norveç,Didrik Solli-Tangen,My Heart Is Yours,,3.0,20.0,35.0,,,,,,True,True,Norveç,0.0,False
+2010,Kıbrıs,Jon Lilygreen & The Islanders,Life Looks Better In Spring,2.0,5.0,21.0,27.0,,,14.0,10.0,67.0,True,False,Norveç,3196.9752868670234,False
+2010,Moldova,Sunstroke Project & Olia Tira,Run Away,1.0,4.0,22.0,27.0,,,1.0,10.0,52.0,True,False,Norveç,1856.881198342188,False
+2010,İrlanda,Niamh Kavanagh,It's For You,2.0,10.0,23.0,25.0,,,12.0,9.0,67.0,True,False,Norveç,1264.7356644608708,False
+2010,Belarus,3+2,Butterflies,1.0,9.0,24.0,18.0,,,16.0,9.0,59.0,True,False,Norveç,1215.14358780861,False
+2010,Birleşik Krallık,Josh,That Sounds Good To Me,,12.0,25.0,10.0,,,,,,True,False,Norveç,1153.1785636744903,False
+2010,İsveç,Anna Bergendahl,This Is My Life,2.0,,,,,,6.0,11.0,62.0,False,False,Norveç,416.43828023952125,False
+2010,Finlandiya,Kuunkuiskaajat,Työlki Ellää,1.0,,,,,,5.0,11.0,49.0,False,False,Norveç,786.9852566850991,False
+2010,Litvanya,InCulto,Eastern European Funk,2.0,,,,,,1.0,12.0,44.0,False,False,Norveç,1044.7584862349054,False
+2010,Malta,Thea Garrett,My Dream,1.0,,,,,,11.0,12.0,45.0,False,False,Norveç,2683.4448906197963,False
+2010,Polonya,Marcin Mroziński,Legenda,1.0,,,,,,9.0,13.0,44.0,False,False,Norveç,1062.7407158980368,False
+2010,Estonya,Malcolm Lincoln,Siren,1.0,,,,,,3.0,14.0,39.0,False,False,Norveç,786.2581803315136,False
+2010,Kuzey Makedonya,Gjoko Taneski,Jas Ja Imam Silata,1.0,,,,,,15.0,15.0,37.0,False,False,Norveç,2122.204879472581,False
+2010,Hırvatistan,Feminnem,Lako Je Sve,2.0,,,,,,15.0,13.0,33.0,False,False,Norveç,1605.4552770811124,False
+2010,Hollanda,Sieneke,Ik Ben Verliefd (Sha-la-lie),2.0,,,,,,9.0,14.0,29.0,False,False,Norveç,912.5536049447944,False
+2010,Slovakya,Kristina Pelakova,Horehronie,1.0,,,,,,4.0,16.0,24.0,False,False,Norveç,1370.515867922432,False
+2010,Bulgaristan,Miro,Angel Si Ti,2.0,,,,,,13.0,15.0,19.0,False,False,Norveç,2095.4825247189597,False
+2010,Letonya,Aisha,What For?,1.0,,,,,,6.0,17.0,11.0,False,False,Norveç,842.6378430610632,False
+2010,Slovenya,Ansambel Žlindra & Kalamari,Narodnozabavni Rock,2.0,,,,,,11.0,16.0,6.0,False,False,Norveç,1559.855123745589,False
+2010,İsviçre,Michael von der Heide,Il Pleut de L'Or,2.0,,,,,,5.0,17.0,2.0,False,False,Norveç,1457.1201279398003,False
+2011,Azerbaycan,Ell/Nikki,Running Scared,1.0,19.0,1.0,221.0,,,18.0,2.0,122.0,True,False,Almanya,3057.806443954444,True
+2011,İtalya,Raphael Gualazzi,Madness Of Love,,12.0,2.0,189.0,,,,,,True,False,Almanya,1182.8200874108213,True
+2011,İsveç,Eric Saade,Popular,2.0,7.0,3.0,185.0,,,8.0,1.0,155.0,True,False,Almanya,810.7215835619496,True
+2011,Ukrayna,Mika Newton,Angel,2.0,23.0,4.0,159.0,,,6.0,6.0,81.0,True,False,Almanya,1204.5628895395816,True
+2011,Danimarka,A Friend In London,New Tomorrow,2.0,3.0,5.0,134.0,,,18.0,2.0,135.0,True,False,Almanya,355.51192912991974,True
+2011,Bosna-Hersek,Dino Merlin,Love In Rewind,2.0,2.0,6.0,125.0,,,1.0,5.0,109.0,True,False,Almanya,1031.4555936193217,True
+2011,Yunanistan,Loucas Yiorkas feat. Stereo Mike,Watch My Dance,1.0,9.0,7.0,120.0,,,19.0,1.0,133.0,True,False,Almanya,1803.5294547305612,True
+2011,İrlanda,Jedward,Lipstick,2.0,6.0,8.0,119.0,,,19.0,8.0,68.0,True,False,Almanya,1316.640024914727,True
+2011,Gürcistan,Eldrine,One More Day,1.0,25.0,9.0,110.0,,,9.0,6.0,74.0,True,False,Almanya,2632.906642578983,True
+2011,Almanya,Lena,Taken By A Stranger,,16.0,10.0,107.0,,,,,,True,True,Almanya,0.0,True
+2011,Birleşik Krallık,Blue,I Can,,14.0,11.0,100.0,,,,,,True,False,Almanya,931.318778737352,False
+2011,Moldova,Zdob și Zdub,So Lucky,2.0,15.0,12.0,97.0,,,7.0,10.0,54.0,True,False,Almanya,1264.537503873154,False
+2011,Slovenya,Maja Keuc,No One,2.0,20.0,13.0,96.0,,,13.0,3.0,112.0,True,False,Almanya,722.7920356780841,False
+2011,Sırbistan,Nina,Čaroban,1.0,24.0,14.0,85.0,,,6.0,8.0,67.0,True,False,Almanya,1002.3972556545572,False
+2011,Fransa,Amaury Vassili,Sognu,,11.0,15.0,82.0,,,,,,True,False,Almanya,877.0899531760446,False
+2011,Rusya,Alexej Vorobjov,Get You,1.0,10.0,16.0,77.0,,,7.0,9.0,64.0,True,False,Almanya,1609.2812870314053,False
+2011,Romanya,Hotel FM,Change,2.0,17.0,17.0,77.0,,,14.0,4.0,111.0,True,False,Almanya,1294.8516336658656,False
+2011,Avusturya,Nadine Beiler,The Secret Is Love,2.0,18.0,18.0,64.0,,,2.0,7.0,69.0,True,False,Almanya,523.3943469636869,False
+2011,Litvanya,Evelina Sašenko,C'est Ma Vie,1.0,4.0,19.0,63.0,,,17.0,5.0,81.0,True,False,Almanya,818.9485287709764,False
+2011,İzlanda,Sjonni's Friends,Coming Home,1.0,21.0,20.0,61.0,,,14.0,4.0,100.0,True,False,Almanya,2381.617427582829,False
+2011,Finlandiya,Paradise Oskar,Da Da Dam,1.0,1.0,21.0,57.0,,,10.0,3.0,103.0,True,False,Almanya,1105.567170582099,False
+2011,Macaristan,Kati Wolf,What About My Dreams?,1.0,5.0,22.0,53.0,,,15.0,7.0,72.0,True,False,Almanya,688.0388697709806,False
+2011,İspanya,Lucía Pérez,Que Me Quiten Lo Bailao,,22.0,23.0,50.0,,,,,,True,False,Almanya,1868.4052348207445,False
+2011,Estonya,Getter Jaani,Rockefeller Street,2.0,8.0,24.0,44.0,,,15.0,9.0,60.0,True,False,Almanya,1041.6074389257474,False
+2011,İsviçre,Anna Rossinelli,In Love For A While,1.0,13.0,25.0,19.0,,,8.0,10.0,55.0,True,False,Almanya,752.0725719794682,False
+2011,Malta,Glen Vella,One Life,1.0,,,,,,11.0,11.0,54.0,False,False,Almanya,1850.1188202117673,False
+2011,Ermenistan,Emmy,Boom Boom,1.0,,,,,,4.0,12.0,54.0,False,False,Almanya,2723.158593390535,False
+2011,Belçika,Witloof Bay,With Love Baby,2.0,,,,,,4.0,11.0,53.0,False,False,Almanya,650.4418546880279,False
+2011,Türkiye,Yüksek Sadakat,Live It Up,1.0,,,,,,5.0,13.0,47.0,False,False,Almanya,2037.416427842736,False
+2011,Arnavutluk,Aurela Gaçe,Feel The Passion,1.0,,,,,,3.0,14.0,47.0,False,False,Almanya,1335.0725925945537,False
+2011,Bulgaristan,Poli Genova,Na Inat,2.0,,,,,,10.0,12.0,48.0,False,False,Almanya,1318.4623385080392,False
+2011,Slovakya,TWiiNS,I'm Still Alive,2.0,,,,,,5.0,13.0,48.0,False,False,Almanya,552.5054003989322,False
+2011,Belarus,Anastasiya Vinnikova,I Love Belarus,2.0,,,,,,16.0,14.0,45.0,False,False,Almanya,954.3477727181366,False
+2011,Hırvatistan,Daria,Celebrate,1.0,,,,,,13.0,15.0,41.0,False,False,Almanya,769.204688667908,False
+2011,İsrail,Dana International,Ding Dong,2.0,,,,,,12.0,15.0,38.0,False,False,Almanya,2900.5787537670244,False
+2011,Kuzey Makedonya,Vlatko Ilievski,Rusinka,2.0,,,,,,11.0,16.0,36.0,False,False,Almanya,1316.5306197997377,False
+2011,San Marino,Senit,Stand By,1.0,,,,,,12.0,16.0,34.0,False,False,Almanya,956.6209247736689,False
+2011,Norveç,Stella Mwangi,Haba Haba,1.0,,,,,,2.0,17.0,30.0,False,False,Almanya,837.7350584592342,False
+2011,Letonya,Musiqq,Angel In Disguise,2.0,,,,,,17.0,17.0,25.0,False,False,Almanya,844.3002082607238,False
+2011,Portekiz,Homens Da Luta,Luta É Alegria,1.0,,,,,,16.0,18.0,22.0,False,False,Almanya,2311.500300284044,False
+2011,Polonya,Magdalena Tul,Jestem,1.0,,,,,,1.0,19.0,18.0,False,False,Almanya,517.3575592899225,False
+2011,Kıbrıs,Christos Mylordos,San Aggelos S'agapisa,2.0,,,,,,9.0,18.0,16.0,False,False,Almanya,2489.4880241818814,False
+2011,Hollanda,3JS,Never Alone,2.0,,,,,,3.0,19.0,13.0,False,False,Almanya,576.002886990363,False
+2012,İsveç,Loreen,Euphoria,2.0,17.0,1.0,372.0,,,11.0,1.0,181.0,True,False,Azerbaycan,3048.73995485543,True
+2012,Rusya,Buranovskiye Babushki,Party For Everybody,1.0,6.0,2.0,259.0,,,14.0,1.0,152.0,True,False,Azerbaycan,1926.7779214132897,True
+2012,Sırbistan,Željko Joksimović,Nije Ljubav Stvar,2.0,24.0,3.0,214.0,,,1.0,2.0,159.0,True,False,Azerbaycan,2442.7198082414548,True
+2012,Azerbaycan,Sabina Babayeva,When The Music Dies,,13.0,4.0,150.0,,,,,,True,True,Azerbaycan,0.0,True
+2012,Arnavutluk,Rona Nishliu,Suus,1.0,3.0,5.0,146.0,,,5.0,2.0,146.0,True,False,Azerbaycan,2516.173471028788,True
+2012,Estonya,Ott Lepland,Kuula,2.0,11.0,6.0,120.0,,,14.0,4.0,100.0,True,False,Azerbaycan,2743.090994192383,True
+2012,Türkiye,Can Bonomo,Love Me Back,2.0,18.0,7.0,112.0,,,13.0,5.0,80.0,True,False,Azerbaycan,1444.056948888565,True
+2012,Almanya,Roman Lob,Standing Still,,20.0,8.0,110.0,,,,,,True,False,Azerbaycan,3057.806443954444,True
+2012,İtalya,Nina Zilli,L'Amore È Femmina (Out Of Love),,10.0,9.0,101.0,,,,,,True,False,Azerbaycan,3108.276754572131,True
+2012,İspanya,Pastora Soler,Quédate Conmigo,,19.0,10.0,97.0,,,,,,True,False,Azerbaycan,4462.525273945542,True
+2012,Moldova,Pasha Parfeny,Lăutar,1.0,26.0,11.0,81.0,,,17.0,5.0,100.0,True,False,Azerbaycan,1833.9099818400746,False
+2012,Romanya,Mandinga,Zaleilah,1.0,14.0,12.0,71.0,,,6.0,3.0,120.0,True,False,Azerbaycan,1994.1095214663058,False
+2012,Kuzey Makedonya,Kaliopi,Crno I Belo,2.0,22.0,13.0,71.0,,,2.0,9.0,53.0,True,False,Azerbaycan,2374.9490221061274,False
+2012,Litvanya,Donny Montell,Love Is Blind,2.0,4.0,14.0,70.0,,,18.0,3.0,104.0,True,False,Azerbaycan,2411.9690068085956,False
+2012,Ukrayna,Gaitana,Be My Guest,2.0,25.0,15.0,65.0,,,7.0,8.0,64.0,True,False,Azerbaycan,1868.5308160809811,False
+2012,Kıbrıs,Ivi Adamou,La La Love,1.0,8.0,16.0,65.0,,,12.0,7.0,91.0,True,False,Azerbaycan,1560.3409032082222,False
+2012,Yunanistan,Eleftheria Eleftheriou,Aphrodisiac,1.0,16.0,17.0,64.0,,,3.0,4.0,116.0,True,False,Azerbaycan,2260.448577578139,False
+2012,Bosna-Hersek,Maya Sar,Korake Ti Znam,2.0,5.0,18.0,55.0,,,17.0,6.0,77.0,True,False,Azerbaycan,2606.280005326412,False
+2012,İrlanda,Jedward,Waterline,1.0,23.0,19.0,46.0,,,18.0,6.0,92.0,True,False,Azerbaycan,4374.4214846064815,False
+2012,İzlanda,Greta Salóme & Jónsi,Never Forget,1.0,7.0,20.0,46.0,,,2.0,8.0,75.0,True,False,Azerbaycan,5176.637214981906,False
+2012,Malta,Kurt Calleja,This Is The Night,2.0,21.0,21.0,41.0,,,4.0,7.0,70.0,True,False,Azerbaycan,3111.031460375241,False
+2012,Fransa,Anggun,Echo (You And I),,9.0,22.0,21.0,,,,,,True,False,Azerbaycan,3809.38691843182,False
+2012,Danimarka,Soluna Samay,Should've Known Better,1.0,15.0,23.0,21.0,,,13.0,9.0,63.0,True,False,Azerbaycan,3194.6685134643703,False
+2012,Macaristan,Compact Disco,Sound Of Our Hearts,1.0,2.0,24.0,19.0,,,15.0,10.0,52.0,True,False,Azerbaycan,2571.1772673169094,False
+2012,Birleşik Krallık,Engelbert Humperdinck,Love Will Set You Free,,1.0,25.0,12.0,,,,,,True,False,Azerbaycan,3970.442506482165,False
+2012,Norveç,Tooji,Stay,2.0,12.0,26.0,7.0,,,16.0,10.0,45.0,True,False,Azerbaycan,3448.3251205856645,False
+2012,Bulgaristan,Sofi Marinova,Love Unlimited,2.0,,,,,,8.0,11.0,45.0,False,False,Azerbaycan,2214.6072686222114,False
+2012,İsviçre,Sinplus,Unbreakable,1.0,,,,,,7.0,11.0,45.0,False,False,Azerbaycan,3443.8480661917433,False
+2012,Hırvatistan,Nina Badrić,Nebo,2.0,,,,,,10.0,12.0,42.0,False,False,Azerbaycan,2793.6212845526074,False
+2012,Finlandiya,Pernilla,När Jag Blundar,1.0,,,,,,9.0,12.0,41.0,False,False,Azerbaycan,2787.1274334417744,False
+2012,Portekiz,Filipa Sousa,Vida Minha,2.0,,,,,,6.0,13.0,39.0,False,False,Azerbaycan,4964.408012684024,False
+2012,Gürcistan,Anri Jokhadze,I'm A Joker,2.0,,,,,,12.0,14.0,36.0,False,False,Azerbaycan,450.0282629759085,False
+2012,Hollanda,Joan Franka,You And Me,2.0,,,,,,3.0,15.0,35.0,False,False,Azerbaycan,3626.758762101374,False
+2012,Belarus,Litesound,We Are The Heroes,2.0,,,,,,5.0,16.0,35.0,False,False,Azerbaycan,2239.401779461214,False
+2012,İsrail,Izabo,Time,1.0,,,,,,10.0,13.0,33.0,False,False,Azerbaycan,1625.333316571073,False
+2012,San Marino,Valentina Monetta,The Social Network Song (Oh Oh – Uh - Oh Oh),1.0,,,,,,11.0,14.0,31.0,False,False,Azerbaycan,3081.811414051303,False
+2012,Slovenya,Eva Boto,Verjamem,2.0,,,,,,9.0,17.0,31.0,False,False,Azerbaycan,2907.260320039579,False
+2012,Slovakya,Max Jason Mai,Don't Close Your Eyes,2.0,,,,,,15.0,18.0,22.0,False,False,Azerbaycan,2722.3324837817495,False
+2012,Karadağ,Rambo Amadeus,Euro Neuro,1.0,,,,,,1.0,15.0,20.0,False,False,Azerbaycan,2548.2418855721144,False
+2012,Letonya,Anmary,Beautiful Song,1.0,,,,,,4.0,16.0,17.0,False,False,Azerbaycan,2608.3841240953534,False
+2012,Belçika,Iris,Would You?,1.0,,,,,,8.0,17.0,16.0,False,False,Azerbaycan,3659.200107364861,False
+2012,Avusturya,Trackshittaz,Woki Mit Deim Popo,1.0,,,,,,16.0,18.0,8.0,False,False,Azerbaycan,2777.593842952727,False
+2013,Danimarka,Emmelie de Forest,Only Teardrops,1.0,18.0,1.0,281.0,,,5.0,1.0,167.0,True,False,İsveç,521.8283543394244,True
+2013,Azerbaycan,Farid Mammadov,Hold Me,2.0,20.0,2.0,234.0,,,4.0,1.0,139.0,True,False,İsveç,3048.73995485543,True
+2013,Ukrayna,Zlata Ognevich,Gravity,1.0,22.0,3.0,214.0,,,7.0,3.0,140.0,True,False,İsveç,1264.2412140188364,True
+2013,Norveç,Margaret Berger,I Feed You My Love,2.0,24.0,4.0,191.0,,,13.0,3.0,120.0,True,False,İsveç,416.43828023952125,True
+2013,Rusya,Dina Garipova,What If,1.0,10.0,5.0,174.0,,,6.0,2.0,156.0,True,False,İsveç,1227.4426626648965,True
+2013,Yunanistan,Koza Mostra feat. Agathon Iakovidis,Alcohol Is Free,2.0,21.0,6.0,152.0,,,9.0,2.0,121.0,True,False,İsveç,2408.081916448883,True
+2013,İtalya,Marco Mengoni,L'Essenziale,,23.0,7.0,126.0,,,,,,True,False,İsveç,1975.8995950891472,True
+2013,Malta,Gianluca,Tomorrow,2.0,9.0,8.0,120.0,,,6.0,4.0,118.0,True,False,İsveç,2618.043034827562,True
+2013,Hollanda,Anouk,Birds,1.0,13.0,9.0,114.0,,,8.0,6.0,75.0,True,False,İsveç,1125.3782786757763,True
+2013,Macaristan,ByeAlex,Kedvesem,2.0,17.0,10.0,84.0,,,12.0,8.0,66.0,True,False,İsveç,1316.9698090381148,True
+2013,Moldova,Aliona Moon,O Mie,1.0,3.0,11.0,71.0,,,12.0,4.0,95.0,True,False,İsveç,1542.8159114753676,False
+2013,Belçika,Roberto Bellarosa,Love Kills,1.0,6.0,12.0,71.0,,,15.0,5.0,75.0,True,False,İsveç,1280.2270909991032,False
+2013,Romanya,Cezar,It's My Life,2.0,14.0,13.0,65.0,,,17.0,5.0,83.0,True,False,İsveç,1743.103020873214,False
+2013,İsveç,Robin Stjernberg,You,,16.0,14.0,62.0,,,,,,True,True,İsveç,0.0,False
+2013,Gürcistan,Nodi Tatishvili & Sophie Gelovani,Waterfall,2.0,25.0,15.0,50.0,,,15.0,10.0,63.0,True,False,İsveç,2685.3063849148457,False
+2013,Belarus,Alyona Lanskaya,Solayoh,1.0,8.0,16.0,48.0,,,11.0,7.0,64.0,True,False,İsveç,836.5983503118094,False
+2013,İzlanda,Eythor Ingi,Ég Á Líf,2.0,19.0,17.0,47.0,,,8.0,6.0,72.0,True,False,İsveç,2128.7431308926693,False
+2013,Ermenistan,Dorians,Lonely Planet,2.0,12.0,18.0,41.0,,,11.0,7.0,69.0,True,False,İsveç,2815.9733200303817,False
+2013,Birleşik Krallık,Bonnie Tyler,Believe In Me,,15.0,19.0,23.0,,,,,,True,False,İsveç,1432.7922380288833,False
+2013,Estonya,Birgit,Et Uus Saaks Alguse,1.0,7.0,20.0,19.0,,,2.0,10.0,52.0,True,False,İsveç,378.312737300521,False
+2013,Almanya,Cascada,Glorious,,11.0,21.0,18.0,,,,,,True,False,İsveç,810.7215835619496,False
+2013,Litvanya,Andrius Pojavis,Something,1.0,2.0,22.0,17.0,,,10.0,9.0,53.0,True,False,İsveç,675.0800823196382,False
+2013,Fransa,Amandine Bourgeois,L'enfer Et Moi,,1.0,23.0,14.0,,,,,,True,False,İsveç,1543.4414163235358,False
+2013,Finlandiya,Krista Siegfrids,Marry Me,2.0,4.0,24.0,13.0,,,5.0,9.0,64.0,True,False,İsveç,395.8102514911714,False
+2013,İspanya,ESDM,Contigo Hasta El Final (With You Until The End),,5.0,25.0,8.0,,,,,,True,False,İsveç,2592.6757186239106,False
+2013,İrlanda,Ryan Dolan,Only Love Survives,1.0,26.0,26.0,5.0,,,13.0,8.0,54.0,True,False,İsveç,1628.3183001270695,False
+2013,Sırbistan,Moje 3,Ljubav Je Svuda,1.0,,,,,,16.0,11.0,46.0,False,False,İsveç,1624.679853470299,False
+2013,San Marino,Valentina Monetta,Crisalide (Vola),2.0,,,,,,2.0,11.0,47.0,False,False,İsveç,1753.1736349405503,False
+2013,Bulgaristan,"Elitsa Todorova, Stoyan Yankulov",Samo Shampioni,2.0,,,,,,7.0,12.0,45.0,False,False,İsveç,1883.8644450028557,False
+2013,Karadağ,Who See,Igranka,1.0,,,,,,9.0,12.0,41.0,False,False,İsveç,1879.8618538193334,False
+2013,İsviçre,Takasa,You And Me,2.0,,,,,,16.0,13.0,41.0,False,False,İsveç,1543.8509635777887,False
+2013,Hırvatistan,Klapa s mora,Mižerja,1.0,,,,,,4.0,13.0,38.0,False,False,İsveç,1509.7875637990867,False
+2013,İsrail,Moran Mazor,Rak Bishvilo,2.0,,,,,,10.0,14.0,40.0,False,False,İsveç,3319.222919453242,False
+2013,Arnavutluk,Adrian Lulgjuraj & Bledar Sejko,Identitet,2.0,,,,,,14.0,15.0,31.0,False,False,İsveç,2005.1886837592251,False
+2013,Avusturya,Natália Kelly,Shine,1.0,,,,,,1.0,14.0,27.0,False,False,İsveç,1241.420198640462,False
+2013,Kuzey Makedonya,Esma & Lozano,Pred Da Se Razdeni,2.0,,,,,,3.0,16.0,28.0,False,False,İsveç,1942.0031816295946,False
+2013,Letonya,PeR,Here We Go,2.0,,,,,,1.0,17.0,13.0,False,False,İsveç,442.1216401017445,False
+2013,Kıbrıs,Despina Olympiou,An Me Thimasai,1.0,,,,,,14.0,15.0,11.0,False,False,İsveç,2907.6990472188413,False
+2013,Slovenya,Hannah,Straight Into Love,1.0,,,,,,3.0,16.0,8.0,False,False,İsveç,1494.3961707355534,False
+2014,Avusturya,Conchita Wurst,Rise Like a Phoenix,2.0,11.0,1.0,290.0,,,6.0,1.0,169.0,True,False,Danimarka,870.170886635871,True
+2014,Hollanda,The Common Linnets,Calm After The Storm,1.0,24.0,2.0,238.0,,,14.0,1.0,150.0,True,False,Danimarka,621.0904596243221,True
+2014,İsveç,Sanna Nielsen,Undo,1.0,13.0,3.0,218.0,,,4.0,2.0,131.0,True,False,Danimarka,521.8283543394244,True
+2014,Ermenistan,Aram MP3,Not Alone,1.0,7.0,4.0,174.0,,,1.0,4.0,121.0,True,False,Danimarka,2896.5929835971974,True
+2014,Macaristan,András Kállay-Saunders,Running,1.0,21.0,5.0,143.0,,,16.0,3.0,127.0,True,False,Danimarka,1012.4316643768863,True
+2014,Ukrayna,Mariya Yaremchuk,Tick - Tock,1.0,1.0,6.0,113.0,,,9.0,5.0,118.0,True,False,Danimarka,1327.7437096101787,True
+2014,Rusya,Tolmachevy Sisters,Shine,1.0,15.0,7.0,89.0,,,7.0,6.0,63.0,True,False,Danimarka,1560.5111659685604,True
+2014,Norveç,Carl Espen,Silent Storm,2.0,5.0,8.0,88.0,,,3.0,6.0,77.0,True,False,Danimarka,482.5145373969692,True
+2014,Danimarka,Basim,Cliche Love Song,,23.0,9.0,74.0,,,,,,True,True,Danimarka,0.0,True
+2014,İspanya,Ruth Lorenzo,Dancing in the rain,,19.0,10.0,74.0,,,,,,True,False,Danimarka,2072.5578522192986,True
+2014,Finlandiya,Softengine,Something Better,2.0,18.0,11.0,72.0,,,8.0,3.0,97.0,True,False,Danimarka,882.5734406937115,False
+2014,Romanya,Paula Seling & OVI,Miracle,2.0,6.0,12.0,72.0,,,15.0,2.0,125.0,True,False,Danimarka,1574.6470578648339,False
+2014,İsviçre,Sebalter,Hunter Of Stars,2.0,20.0,13.0,64.0,,,12.0,4.0,92.0,True,False,Danimarka,1033.1996318526253,False
+2014,Polonya,Donatan & Cleo,My Słowianie - We Are Slavic,2.0,9.0,14.0,62.0,,,5.0,8.0,70.0,True,False,Danimarka,671.6718011785741,False
+2014,İzlanda,Pollapönk,No Prejudice,1.0,4.0,15.0,58.0,,,5.0,8.0,61.0,True,False,Danimarka,2100.4110785219154,False
+2014,Belarus,Teo,Cheesecake,2.0,2.0,16.0,43.0,,,10.0,5.0,87.0,True,False,Danimarka,979.7750708803791,False
+2014,Birleşik Krallık,Molly,Children of the Universe,,26.0,17.0,40.0,,,,,,True,False,Danimarka,955.7973969875035,False
+2014,Almanya,Elaiza,Is It Right,,12.0,18.0,39.0,,,,,,True,False,Danimarka,355.51192912991974,False
+2014,Karadağ,Sergej Ćetković,Moj Svijet,1.0,8.0,19.0,37.0,,,15.0,7.0,63.0,True,False,Danimarka,1549.0631167946915,False
+2014,Yunanistan,Freaky Fortune feat. RiskyKidd,Rise Up,2.0,10.0,20.0,35.0,,,13.0,7.0,74.0,True,False,Danimarka,2137.237204258878,False
+2014,İtalya,Emma,La Mia Città,,16.0,21.0,33.0,,,,,,True,False,Danimarka,1532.2744661224644,False
+2014,Azerbaycan,Dilara Kazimova,Start A Fire,1.0,3.0,22.0,33.0,,,8.0,9.0,57.0,True,False,Danimarka,3194.6685134643703,False
+2014,Malta,Firelight,Coming Home,2.0,22.0,23.0,32.0,,,1.0,9.0,63.0,True,False,Danimarka,2204.3586396987253,False
+2014,San Marino,Valentina Monetta,Maybe (Forse),1.0,25.0,24.0,14.0,,,12.0,10.0,40.0,True,False,Danimarka,1305.4563190673005,False
+2014,Slovenya,Tinkara Kovač,Round and Round,2.0,17.0,25.0,9.0,,,14.0,10.0,52.0,True,False,Danimarka,1078.2107187771142,False
+2014,Fransa,TWIN TWIN,Moustache,,14.0,26.0,2.0,,,,,,True,False,Danimarka,1026.8707774503553,False
+2014,Portekiz,Suzy,Quero Ser Tua,1.0,,,,,,13.0,11.0,39.0,False,False,Danimarka,2477.5522521352623,False
+2014,Litvanya,Vilija Matačiūnaitė,Attention,2.0,,,,,,7.0,11.0,36.0,False,False,Danimarka,813.1829680331438,False
+2014,İrlanda,Can-Linn feat. Kasey Smith,Heartbeat,2.0,,,,,,9.0,12.0,35.0,False,False,Danimarka,1238.614770014609,False
+2014,Estonya,Tanja,Amazing,1.0,,,,,,3.0,12.0,36.0,False,False,Danimarka,836.4151854032597,False
+2014,Kuzey Makedonya,Tijana,To the Sky,2.0,,,,,,11.0,13.0,33.0,False,False,Danimarka,1651.4946499573855,False
+2014,Letonya,Aarzemnieki,Cake To Bake,1.0,,,,,,2.0,13.0,33.0,False,False,Danimarka,724.6378577885721,False
+2014,Belçika,Axel Hirsoux,Mother,1.0,,,,,,10.0,14.0,28.0,False,False,Danimarka,765.4126439969357,False
+2014,Arnavutluk,Hersi,One Night's Anger,1.0,,,,,,6.0,15.0,22.0,False,False,Danimarka,1680.4551471305308,False
+2014,İsrail,Mei Finegold,Same Heart,2.0,,,,,,2.0,14.0,19.0,False,False,Danimarka,3189.4011457734427,False
+2014,Gürcistan,The Shin and Mariko,Three Minutes To Earth,2.0,,,,,,4.0,15.0,15.0,False,False,Danimarka,2789.6394831150715,False
+2014,Moldova,Cristina Scarlat,Wild Soul,1.0,,,,,,11.0,16.0,13.0,False,False,Danimarka,1479.99683781518,False
+2015,İsveç,Måns Zelmerlöw,Heroes,2.0,10.0,1.0,365.0,,,13.0,1.0,217.0,True,False,Avusturya,1241.420198640462,True
+2015,Rusya,Polina Gagarina,A Million Voices,1.0,25.0,2.0,303.0,,,12.0,1.0,182.0,True,False,Avusturya,1669.7220461815668,True
+2015,İtalya,Il Volo,Grande Amore,,27.0,3.0,292.0,,,,,,True,False,Avusturya,764.4068691640175,True
+2015,Belçika,Loïc Nottet,Rhythm Inside,1.0,13.0,4.0,217.0,,,3.0,2.0,149.0,True,False,Avusturya,914.572697742132,True
+2015,Avustralya,Guy Sebastian,Tonight Again,,12.0,5.0,196.0,,,,,,True,False,Avusturya,15915.10923119682,True
+2015,Letonya,Aminata Savadogo,Love Injected,2.0,19.0,6.0,186.0,,,10.0,2.0,155.0,True,False,Avusturya,1102.0296107786755,True
+2015,Estonya,Elina Born & Stig Rästa,Goodbye to Yesterday,1.0,4.0,7.0,106.0,,,7.0,3.0,105.0,True,False,Avusturya,1361.9979291534205,True
+2015,Norveç,Mørland & Debrah Scarlett,A Monster Like Me,2.0,9.0,8.0,102.0,,,6.0,4.0,123.0,True,False,Avusturya,1350.5063527057657,True
+2015,İsrail,Nadav Guedj,Golden Boy,2.0,3.0,9.0,97.0,,,9.0,3.0,151.0,True,False,Avusturya,2418.9346542298367,True
+2015,Sırbistan,Bojana Stamenov,Beauty Never Lies,1.0,8.0,10.0,53.0,,,9.0,9.0,63.0,True,False,Avusturya,491.9304003888359,True
+2015,Gürcistan,Nina Sublatti,Warrior,1.0,23.0,11.0,51.0,,,16.0,4.0,98.0,True,False,Avusturya,2333.938310380431,False
+2015,Azerbaycan,Elnur Hüseynov,Hour Of The Wolf,2.0,24.0,12.0,49.0,,,11.0,10.0,53.0,True,False,Avusturya,2777.593842952727,False
+2015,Karadağ,Knez,Adio,2.0,16.0,13.0,44.0,,,4.0,9.0,57.0,True,False,Avusturya,680.0815332523619,False
+2015,Slovenya,Maraaya,Here for You,2.0,1.0,14.0,39.0,,,16.0,5.0,92.0,True,False,Avusturya,277.3770148740031,False
+2015,Romanya,Voltaj,De La Capăt / All Over Again,1.0,20.0,15.0,35.0,,,15.0,5.0,89.0,True,False,Avusturya,856.3991029569814,False
+2015,Ermenistan,Genealogy,Face The Shadow,1.0,6.0,16.0,34.0,,,2.0,7.0,77.0,True,False,Avusturya,2397.714764333068,False
+2015,Arnavutluk,Elhaida Dani,I'm Alive,1.0,26.0,17.0,34.0,,,14.0,10.0,62.0,True,False,Avusturya,811.829696350464,False
+2015,Litvanya,Monika & Vaidas,This Time,2.0,7.0,18.0,30.0,,,1.0,7.0,67.0,True,False,Avusturya,947.4207633205976,False
+2015,Yunanistan,Maria Elena Kyriakou,One Last Breath,1.0,15.0,19.0,23.0,,,6.0,6.0,81.0,True,False,Avusturya,1283.5193018884884,False
+2015,Macaristan,Boggie,Wars For Nothing,1.0,22.0,20.0,19.0,,,10.0,8.0,67.0,True,False,Avusturya,214.27466682117057,False
+2015,İspanya,Edurne,Amanecer,,21.0,21.0,15.0,,,,,,True,False,Avusturya,1808.8983281857752,False
+2015,Kıbrıs,John Karayiannis,One Thing I Should Have Done,2.0,11.0,22.0,11.0,,,15.0,6.0,87.0,True,False,Avusturya,2014.2285611353925,False
+2015,Polonya,Monika Kuszyńska,In The Name Of Love,2.0,18.0,23.0,10.0,,,17.0,8.0,57.0,True,False,Avusturya,555.4455617886708,False
+2015,Birleşik Krallık,Electro Velvet,Still in Love with You,,5.0,24.0,5.0,,,,,,True,False,Avusturya,1235.2737426193505,False
+2015,Fransa,Lisa Angell,N’oubliez pas,,2.0,25.0,4.0,,,,,,True,False,Avusturya,1033.3346223073381,False
+2015,Avusturya,The Makemakes,I Am Yours,,14.0,26.0,0.0,,,,,,True,True,Avusturya,0.0,False
+2015,Almanya,Ann Sophie,Black Smoke,,17.0,27.0,0.0,,,,,,True,False,Avusturya,523.3943469636869,False
+2015,Moldova,Eduard Romanyuta,I Want Your Love,1.0,,,,,,1.0,11.0,41.0,False,False,Avusturya,944.6878603190003,False
+2015,Malta,Amber,Warrior,2.0,,,,,,5.0,11.0,43.0,False,False,Avusturya,1377.2828665961958,False
+2015,Belarus,Uzari & Maimuna,Time,1.0,,,,,,11.0,12.0,39.0,False,False,Avusturya,1004.5451124152484,False
+2015,İrlanda,Molly Sterling,Playing With Numbers,2.0,,,,,,2.0,12.0,35.0,False,False,Avusturya,1681.9842398055919,False
+2015,Danimarka,Anti Social Media,The Way You Are,1.0,,,,,,13.0,13.0,33.0,False,False,Avusturya,870.170886635871,False
+2015,Hollanda,Trijntje Oosterhuis,Walk Along,1.0,,,,,,4.0,14.0,33.0,False,False,Avusturya,935.4649215673201,False
+2015,Çek Cumhuriyeti,Marta Jandová & Václav Noid Bárta,Hope Never Dies,2.0,,,,,,8.0,13.0,33.0,False,False,Avusturya,250.86768721804205,False
+2015,Kuzey Makedonya,Daniel Kajmakoski,Autumn Leaves,1.0,,,,,,8.0,15.0,28.0,False,False,Avusturya,797.1283288266336,False
+2015,Portekiz,Leonor Andrade,Há um mar que nos Separa,2.0,,,,,,7.0,14.0,19.0,False,False,Avusturya,2297.747963554304,False
+2015,İzlanda,María Ólafsdóttir,Unbroken,2.0,,,,,,12.0,15.0,14.0,False,False,Avusturya,2882.1000684058968,False
+2015,Finlandiya,Pertti Kurikan Nimipäivät,Aina Mun Pitää,1.0,,,,,,5.0,16.0,13.0,False,False,Avusturya,1439.2547692465528,False
+2015,San Marino,Michele Perniola & Anita Simoncini,Chain Of Lights,2.0,,,,,,3.0,16.0,11.0,False,False,Avusturya,562.7371492397574,False
+2015,İsviçre,Mélanie René,Time To Shine,2.0,,,,,,14.0,17.0,4.0,False,False,Avusturya,683.1589421719332,False
+2016,Ukrayna,Jamala,1944,2.0,21.0,1.0,534.0,323.0,211.0,14.0,2.0,287.0,True,False,İsveç,1264.2412140188364,True
+2016,Avustralya,Dami Im,Sound of Silence,2.0,13.0,2.0,511.0,191.0,320.0,10.0,1.0,330.0,True,False,İsveç,15609.6280463729,True
+2016,Rusya,Sergey Lazarev,You Are the Only One,1.0,18.0,3.0,491.0,361.0,130.0,9.0,1.0,342.0,True,False,İsveç,1227.4426626648965,True
+2016,Bulgaristan,Poli Genova,If Love Was a Crime,2.0,8.0,4.0,307.0,180.0,127.0,12.0,5.0,220.0,True,False,İsveç,1883.8644450028557,True
+2016,İsveç,Frans,If I Were Sorry,,9.0,5.0,261.0,139.0,122.0,,,,True,True,İsveç,0.0,True
+2016,Fransa,Amir,J'ai Cherché,,11.0,6.0,257.0,109.0,148.0,,,,True,False,İsveç,1543.4414163235358,True
+2016,Ermenistan,Iveta Mukuchyan,LoveWave,1.0,26.0,7.0,249.0,134.0,115.0,7.0,2.0,243.0,True,False,İsveç,2815.9733200303817,True
+2016,Polonya,Michał Szpak,Color of Your Life,2.0,12.0,8.0,229.0,222.0,7.0,2.0,6.0,151.0,True,False,İsveç,810.4044711571205,True
+2016,Litvanya,Donny Montell,I've Been Waiting for This Night,2.0,16.0,9.0,200.0,96.0,104.0,9.0,4.0,222.0,True,False,İsveç,675.0800823196382,True
+2016,Belçika,Laura Tesoro,What's the Pressure,2.0,1.0,10.0,181.0,51.0,130.0,18.0,3.0,274.0,True,False,İsveç,1280.2270909991032,True
+2016,Hollanda,Douwe Bob,Slow Down,1.0,3.0,11.0,153.0,39.0,114.0,6.0,5.0,197.0,True,False,İsveç,1125.3782786757763,False
+2016,Malta,Ira Losco,Walk on Water,1.0,22.0,12.0,153.0,16.0,137.0,18.0,3.0,209.0,True,False,İsveç,2618.043034827562,False
+2016,Avusturya,Zoë,Loin d'ici,1.0,24.0,13.0,151.0,120.0,31.0,12.0,7.0,170.0,True,False,İsveç,1241.420198640462,False
+2016,İsrail,Hovi Star,Made of Stars,2.0,7.0,14.0,135.0,11.0,124.0,4.0,7.0,147.0,True,False,İsveç,3319.222919453242,False
+2016,Letonya,Justs,Heartbeat,2.0,20.0,15.0,132.0,63.0,69.0,1.0,8.0,132.0,True,False,İsveç,442.1216401017445,False
+2016,İtalya,Francesca Michielin,No Degree of Separation,,6.0,16.0,124.0,34.0,90.0,,,,True,False,İsveç,1975.8995950891472,False
+2016,Azerbaycan,Samra,Miracle,1.0,4.0,17.0,117.0,73.0,44.0,14.0,6.0,185.0,True,False,İsveç,3048.73995485543,False
+2016,Sırbistan,Sanja Vučić ZAA,Goodbye (Shelter),2.0,15.0,18.0,115.0,80.0,35.0,6.0,10.0,105.0,True,False,İsveç,1624.679853470299,False
+2016,Macaristan,Freddie,Pioneer,1.0,5.0,19.0,108.0,56.0,52.0,4.0,4.0,197.0,True,False,İsveç,1316.9698090381148,False
+2016,Gürcistan,Nika Kocharov & Young Georgian Lolitaz,Midnight Gold,2.0,23.0,20.0,104.0,24.0,80.0,16.0,9.0,123.0,True,False,İsveç,2685.3063849148457,False
+2016,Kıbrıs,Minus One,Alter Ego,1.0,14.0,21.0,96.0,53.0,43.0,11.0,8.0,164.0,True,False,İsveç,2907.6990472188413,False
+2016,İspanya,Barei,Say Yay!,,19.0,22.0,77.0,10.0,67.0,,,,True,False,İsveç,2592.6757186239106,False
+2016,Hırvatistan,Nina Kraljić,Lighthouse,1.0,17.0,23.0,73.0,33.0,40.0,5.0,10.0,133.0,True,False,İsveç,1509.7875637990867,False
+2016,Birleşik Krallık,Joe & Jake,You're Not Alone,,25.0,24.0,62.0,8.0,54.0,,,,True,False,İsveç,1432.7922380288833,False
+2016,Çek Cumhuriyeti,Gabriela Gunčíková,I Stand,1.0,2.0,25.0,41.0,0.0,41.0,10.0,9.0,161.0,True,False,İsveç,1054.2638784595956,False
+2016,Almanya,Jamie-Lee Kriewitz,Ghost,,10.0,26.0,11.0,10.0,1.0,,,,True,False,İsveç,810.7215835619496,False
+2016,Bosna-Hersek,Dalal & Deen feat. Ana Rucner & Jala,Ljubav Je,1.0,,,,,,17.0,11.0,104.0,False,False,İsveç,1720.3401820411466,False
+2016,Kuzey Makedonya,Kaliopi,Dona,2.0,,,,,,8.0,11.0,88.0,False,False,İsveç,1942.0031816295946,False
+2016,Belarus,Ivan,Help You Fly,2.0,,,,,,5.0,12.0,84.0,False,False,İsveç,836.5983503118094,False
+2016,San Marino,Serhat,I Didn't Know,1.0,,,,,,8.0,12.0,68.0,False,False,İsveç,1753.1736349405503,False
+2016,Norveç,Agnete,Icebreaker,2.0,,,,,,15.0,13.0,63.0,False,False,İsveç,416.43828023952125,False
+2016,Karadağ,Highway,The Real Thing,1.0,,,,,,15.0,13.0,60.0,False,False,İsveç,1879.8618538193334,False
+2016,Slovenya,ManuElla,Blue and Red,2.0,,,,,,11.0,14.0,57.0,False,False,İsveç,1494.3961707355534,False
+2016,İzlanda,Greta Salóme,Hear Them Calling,1.0,,,,,,16.0,14.0,51.0,False,False,İsveç,2128.7431308926693,False
+2016,Finlandiya,Sandhja,Sing It Away,1.0,,,,,,1.0,15.0,51.0,False,False,İsveç,395.8102514911714,False
+2016,İrlanda,Nicky Byrne,Sunlight,2.0,,,,,,7.0,15.0,46.0,False,False,İsveç,1628.3183001270695,False
+2016,Arnavutluk,Eneda Tarifa,Fairytale,2.0,,,,,,17.0,16.0,45.0,False,False,İsveç,2005.1886837592251,False
+2016,Yunanistan,Argo,Utopian Land,1.0,,,,,,2.0,16.0,44.0,False,False,İsveç,2408.081916448883,False
+2016,Danimarka,Lighthouse X,Soldiers of Love,2.0,,,,,,13.0,17.0,34.0,False,False,İsveç,521.8283543394244,False
+2016,Moldova,Lidia Isac,Falling Stars,1.0,,,,,,3.0,17.0,33.0,False,False,İsveç,1542.8159114753676,False
+2016,İsviçre,Rykka,The Last of Our Kind,2.0,,,,,,3.0,18.0,28.0,False,False,İsveç,1543.8509635777887,False
+2016,Estonya,Jüri Pootsmann,Play,1.0,,,,,,13.0,18.0,24.0,False,False,İsveç,378.312737300521,False
+2017,Portekiz,Salvador Sobral,Amar Pelos Dois,1.0,11.0,1.0,758.0,376.0,382.0,9.0,1.0,370.0,True,False,Ukrayna,3351.039027049683,True
+2017,Bulgaristan,Kristian Kostov,Beautiful Mess,2.0,25.0,2.0,615.0,337.0,278.0,15.0,1.0,403.0,True,False,Ukrayna,1021.4123334498188,True
+2017,Moldova,Sunstroke Project,Hey Mamma,1.0,7.0,3.0,374.0,264.0,110.0,12.0,2.0,291.0,True,False,Ukrayna,401.3921835953801,True
+2017,Belçika,Blanche,City Lights,1.0,23.0,4.0,363.0,255.0,108.0,5.0,4.0,165.0,True,False,Ukrayna,1835.9467087747928,True
+2017,İsveç,Robin Bengtsson,I Can't Go On,1.0,24.0,5.0,344.0,126.0,218.0,1.0,3.0,227.0,True,False,Ukrayna,1264.2412140188364,True
+2017,İtalya,Francesco Gabbani,Occidentali's Karma,,9.0,6.0,334.0,208.0,126.0,,,,True,False,Ukrayna,1674.9696225630005,True
+2017,Romanya,Ilinca feat. Alex Florea,Yodel It!,2.0,20.0,7.0,282.0,224.0,58.0,5.0,6.0,174.0,True,False,Ukrayna,747.0588197518642,True
+2017,Macaristan,Joci Pápai,Origo,2.0,8.0,8.0,200.0,152.0,48.0,7.0,2.0,231.0,True,False,Ukrayna,898.640531736284,True
+2017,Avustralya,Isaiah Firebrace,Don't Come Easy,1.0,14.0,9.0,173.0,2.0,171.0,3.0,6.0,160.0,True,False,Ukrayna,14896.54552499738,True
+2017,Norveç,Jowst,Grab the Moment,2.0,17.0,10.0,158.0,29.0,129.0,12.0,5.0,189.0,True,False,Ukrayna,1626.6102245622128,True
+2017,Hollanda,OG3NE,Lights And Shadows,2.0,6.0,11.0,150.0,15.0,135.0,6.0,4.0,200.0,True,False,Ukrayna,1780.2006484017036,False
+2017,Fransa,Alma,Requiem,,26.0,12.0,135.0,90.0,45.0,,,,True,False,Ukrayna,2023.294180998129,False
+2017,Hırvatistan,Jacques Houdek,My Friend,2.0,13.0,13.0,128.0,103.0,25.0,11.0,8.0,141.0,True,False,Ukrayna,1193.3910382881868,False
+2017,Azerbaycan,Dihaj,Skeletons,1.0,12.0,14.0,120.0,42.0,78.0,8.0,8.0,150.0,True,False,Ukrayna,1868.5308160809811,False
+2017,Birleşik Krallık,Lucie Jones,Never Give Up on You,,18.0,15.0,111.0,12.0,99.0,,,,True,False,Ukrayna,2133.2297179698553,False
+2017,Avusturya,Nathan Trent,Running On Air,2.0,4.0,16.0,93.0,0.0,93.0,2.0,7.0,147.0,True,False,Ukrayna,1053.428853303382,False
+2017,Belarus,Naviband,Historyja Majho Zyccia,2.0,3.0,17.0,83.0,33.0,50.0,14.0,9.0,110.0,True,False,Ukrayna,433.0746721692361,False
+2017,Ermenistan,Artsvik,Fly With Me,1.0,5.0,18.0,79.0,21.0,58.0,16.0,7.0,152.0,True,False,Ukrayna,1576.2951279365948,False
+2017,Yunanistan,Demy,This is Love,1.0,15.0,19.0,77.0,29.0,48.0,10.0,10.0,115.0,True,False,Ukrayna,1486.9009788925177,False
+2017,Danimarka,Anja,Where I Am,2.0,10.0,20.0,77.0,8.0,69.0,8.0,10.0,101.0,True,False,Ukrayna,1327.7437096101787,False
+2017,Kıbrıs,Hovig,Gravity,1.0,19.0,21.0,68.0,32.0,36.0,15.0,5.0,164.0,True,False,Ukrayna,1714.445474736346,False
+2017,Polonya,Kasia Moś,Flashlight,1.0,2.0,22.0,64.0,41.0,23.0,11.0,9.0,119.0,True,False,Ukrayna,689.0212692361698,False
+2017,İsrail,Imri Ziv,I Feel Alive,2.0,1.0,23.0,39.0,5.0,34.0,18.0,3.0,207.0,True,False,Ukrayna,2111.9343231614966,False
+2017,Ukrayna,O.Torvald,Time,,22.0,24.0,36.0,24.0,12.0,,,,True,True,Ukrayna,0.0,False
+2017,Almanya,Levina,Perfect Life,,21.0,25.0,6.0,3.0,3.0,,,,True,False,Ukrayna,1204.5628895395816,False
+2017,İspanya,Manel Navarro,Do It for Your Lover,,16.0,26.0,5.0,5.0,0.0,,,,True,False,Ukrayna,2861.8350894479545,False
+2017,Gürcistan,Tamara Gachechiladze,Keep The Faith,1.0,,,,,,2.0,11.0,99.0,False,False,Ukrayna,1462.994364395822,False
+2017,Sırbistan,Tijana Bogićević,In Too Deep,2.0,,,,,,1.0,11.0,98.0,False,False,Ukrayna,981.2297947993045,False
+2017,İsviçre,Timebelle,Apollo,2.0,,,,,,13.0,12.0,97.0,False,False,Ukrayna,1729.6513391703322,False
+2017,Finlandiya,Norma John,Blackbird,1.0,,,,,,7.0,12.0,92.0,False,False,Ukrayna,1136.0542097995615,False
+2017,İrlanda,Brendan Murray,Dying To Try,2.0,,,,,,9.0,13.0,86.0,False,False,Ukrayna,2515.5241046880014,False
+2017,Estonya,Koit Toome & Laura,Verona,2.0,,,,,,17.0,14.0,85.0,False,False,Ukrayna,1064.4372963542278,False
+2017,Çek Cumhuriyeti,Martina Bárta,My Turn,1.0,,,,,,14.0,13.0,83.0,False,False,Ukrayna,1141.4731856044561,False
+2017,Arnavutluk,Lindita,World,1.0,,,,,,4.0,14.0,76.0,False,False,Ukrayna,1306.5590308676512,False
+2017,Kuzey Makedonya,Jana Burčeska,Dance Alone,2.0,,,,,,3.0,15.0,69.0,False,False,Ukrayna,1170.3312129819356,False
+2017,İzlanda,Svala,Paper,1.0,,,,,,13.0,15.0,60.0,False,False,Ukrayna,3367.291341560699,False
+2017,Karadağ,Slavko Kalezić,Space,1.0,,,,,,6.0,16.0,56.0,False,False,Ukrayna,1237.3753303462436,False
+2017,Malta,Claudia Faniello,Breathlessly,2.0,,,,,,4.0,16.0,55.0,False,False,Ukrayna,2065.137076356461,False
+2017,Litvanya,Fusedmarc,Rain Of Revolution,2.0,,,,,,16.0,17.0,42.0,False,False,Ukrayna,589.3114538168633,False
+2017,Slovenya,Omar Naber,On My Way,1.0,,,,,,17.0,17.0,36.0,False,False,Ukrayna,1278.6188302846176,False
+2017,Letonya,Triana Park,Line,1.0,,,,,,18.0,18.0,21.0,False,False,Ukrayna,836.1046070843996,False
+2017,San Marino,Valentina Monetta & Jimmie Wilson,Spirit Of The Night,2.0,,,,,,10.0,18.0,1.0,False,False,Ukrayna,1539.7264608254934,False
+2018,İsrail,Netta Barzilai,Toy,1.0,22.0,1.0,529.0,317.0,212.0,7.0,1.0,283.0,True,False,Portekiz,4060.242677805648,True
+2018,Kıbrıs,Eleni Foureira,Fuego,1.0,25.0,2.0,436.0,253.0,183.0,19.0,2.0,262.0,True,False,Portekiz,3762.8280528009886,True
+2018,Avusturya,Cesár Sampson,Nobody But You,1.0,5.0,3.0,342.0,71.0,271.0,13.0,4.0,231.0,True,False,Portekiz,2297.747963554304,True
+2018,Almanya,Michael Schulte,You Let Me Walk Alone,,11.0,4.0,340.0,136.0,204.0,,,,True,False,Portekiz,2311.500300284044,True
+2018,İtalya,Ermal Meta & Fabrizio Moro,Non Mi Avete Fatto Niente,,26.0,5.0,308.0,249.0,59.0,,,,True,False,Portekiz,1862.5910830839007,True
+2018,Çek Cumhuriyeti,Mikolas Josef,Lie To Me,1.0,14.0,6.0,281.0,215.0,66.0,5.0,3.0,232.0,True,False,Portekiz,2243.4486839882034,True
+2018,İsveç,Benjamin Ingrosso,Dance You Off,2.0,20.0,7.0,274.0,21.0,253.0,15.0,2.0,254.0,True,False,Portekiz,2988.460394667464,True
+2018,Estonya,Elina Nechayeva,La Forza,1.0,6.0,8.0,245.0,102.0,143.0,9.0,5.0,201.0,True,False,Portekiz,3311.0479531208744,True
+2018,Danimarka,Rasmussen,Higher Ground,2.0,15.0,9.0,226.0,188.0,38.0,5.0,5.0,204.0,True,False,Portekiz,2477.5522521352623,True
+2018,Moldova,DoReDos,My Lucky Day,2.0,19.0,10.0,209.0,115.0,94.0,7.0,3.0,235.0,True,False,Portekiz,3195.4989579950575,True
+2018,Arnavutluk,Eugent Bushpepa,Mall,1.0,12.0,11.0,184.0,58.0,126.0,3.0,8.0,162.0,True,False,Portekiz,2470.5084595305116,False
+2018,Litvanya,Ieva Zasimauskaitė,When We're Old,1.0,4.0,12.0,181.0,91.0,90.0,6.0,9.0,119.0,True,False,Portekiz,3119.6060494337485,False
+2018,Fransa,Madame Monsieur,Mercy,,13.0,13.0,173.0,59.0,114.0,,,,True,False,Portekiz,1452.8387986659998,False
+2018,Bulgaristan,Equinox,Bones,1.0,18.0,14.0,166.0,66.0,100.0,10.0,7.0,177.0,True,False,Portekiz,2753.3498611952573,False
+2018,Norveç,Alexander Rybak,That's How You Write a Song,2.0,7.0,15.0,144.0,84.0,60.0,1.0,1.0,266.0,True,False,Portekiz,2737.8438617105785,False
+2018,İrlanda,Ryan O'Shaughnessy,Together,1.0,24.0,16.0,136.0,62.0,74.0,18.0,6.0,179.0,True,False,Portekiz,1641.4519410203613,False
+2018,Ukrayna,Mélovin,Under the Ladder,2.0,1.0,17.0,130.0,119.0,11.0,18.0,6.0,179.0,True,False,Portekiz,3351.039027049683,False
+2018,Hollanda,Waylon,Outlaw In 'Em,2.0,23.0,18.0,121.0,32.0,89.0,8.0,7.0,174.0,True,False,Portekiz,1863.0996147691721,False
+2018,Sırbistan,Sanja Ilić & Balkanika,Nova Deca,2.0,10.0,19.0,113.0,75.0,38.0,3.0,9.0,117.0,True,False,Portekiz,2529.260452552087,False
+2018,Avustralya,Jessica Mauboy,We Got Love,2.0,16.0,20.0,99.0,9.0,90.0,9.0,4.0,212.0,True,False,Portekiz,18051.875859560903,False
+2018,Macaristan,AWS,Viszlát Nyár,2.0,21.0,21.0,93.0,65.0,28.0,13.0,10.0,111.0,True,False,Portekiz,2468.93017014965,False
+2018,Slovenya,Lea Sirk,"Hvala, ne!",2.0,3.0,22.0,64.0,23.0,41.0,17.0,8.0,132.0,True,False,Portekiz,2095.910686390711,False
+2018,İspanya,Amaia & Alfred,Tu Canción,,2.0,23.0,61.0,18.0,43.0,,,,True,False,Portekiz,502.23722317750014,False
+2018,Birleşik Krallık,SuRie,Storm,,9.0,24.0,48.0,25.0,23.0,,,,True,False,Portekiz,1585.0784634897543,False
+2018,Finlandiya,Saara Aalto,Monsters,1.0,17.0,25.0,46.0,23.0,23.0,15.0,10.0,108.0,True,False,Portekiz,3360.031434249754,False
+2018,Portekiz,Cláudia Pascoal,O Jardim,,8.0,26.0,39.0,18.0,21.0,,,,True,True,Portekiz,0.0,False
+2018,Romanya,The Humans,Goodbye,2.0,,,,,,2.0,11.0,107.0,False,False,Portekiz,2974.2867544973055,False
+2018,Letonya,Laura Rizzotto,Funny Girl,2.0,,,,,,14.0,12.0,106.0,False,False,Portekiz,3150.701802258639,False
+2018,Malta,Christabelle,Taboo,2.0,,,,,,12.0,13.0,101.0,False,False,Portekiz,2108.1089002690364,False
+2018,Azerbaycan,Aisel,X My Heart,1.0,,,,,,1.0,11.0,94.0,False,False,Portekiz,4964.408012684024,False
+2018,Belçika,Sennek,A Matter of Time,1.0,,,,,,4.0,12.0,91.0,False,False,Portekiz,1712.215272449126,False
+2018,İsviçre,Zibbz,Stones,1.0,,,,,,17.0,13.0,86.0,False,False,Portekiz,1627.2862209930133,False
+2018,Polonya,Gromee feat. Lukas Meijer,Light Me Up,2.0,,,,,,11.0,14.0,81.0,False,False,Portekiz,2758.491445626497,False
+2018,Yunanistan,Yianna Terzi,Oniro Mou,1.0,,,,,,14.0,14.0,81.0,False,False,Portekiz,2851.215482607482,False
+2018,Ermenistan,Sevak Khanagyan,Qami,1.0,,,,,,16.0,15.0,79.0,False,False,Portekiz,4536.920745909275,False
+2018,Rusya,Julia Samoylova,I Won't Break,2.0,,,,,,6.0,15.0,65.0,False,False,Portekiz,3905.5626601473887,False
+2018,Belarus,Alekseev,Forever,1.0,,,,,,8.0,16.0,65.0,False,False,Portekiz,3232.989252545263,False
+2018,Hırvatistan,Franka,Crazy,1.0,,,,,,12.0,17.0,63.0,False,False,Portekiz,2200.2093146466473,False
+2018,Karadağ,Vanja Radovanović,Inje,2.0,,,,,,16.0,16.0,40.0,False,False,Portekiz,2421.3284066074266,False
+2018,San Marino,Jessika feat. Jenifer Brening,Who We Are,2.0,,,,,,4.0,17.0,28.0,False,False,Portekiz,1886.6452555508802,False
+2018,Gürcistan,Ethno-Jazz Band Iriao,For You,2.0,,,,,,10.0,18.0,24.0,False,False,Portekiz,4514.901429719269,False
+2018,Kuzey Makedonya,Eye Cue,Lost And Found,1.0,,,,,,11.0,18.0,24.0,False,False,Portekiz,2600.882707099104,False
+2018,İzlanda,Ari Ólafsson,Our Choice,1.0,,,,,,2.0,19.0,15.0,False,False,Portekiz,2946.5181442170124,False
+2019,Hollanda,Duncan Laurence,Arcade,2.0,12.0,1.0,498.0,261.0,237.0,16.0,1.0,280.0,True,False,İsrail,3347.2560899934806,True
+2019,İtalya,Mahmood,Soldi,,22.0,2.0,472.0,253.0,219.0,,,,True,False,İsrail,2303.52289325374,True
+2019,Rusya,Sergey Lazarev,Scream,2.0,5.0,3.0,370.0,244.0,126.0,13.0,6.0,217.0,True,False,İsrail,2671.9159648419413,True
+2019,İsviçre,Luca Hänni,She Got Me,2.0,24.0,4.0,364.0,212.0,152.0,4.0,4.0,232.0,True,False,İsrail,2897.9729977608677,True
+2019,İsveç,John Lundvik,Too Late for Love,2.0,9.0,5.0,334.0,93.0,241.0,8.0,3.0,238.0,True,False,İsrail,3319.222919453242,True
+2019,Norveç,KEiiNO,Spirit in the Sky,2.0,15.0,6.0,331.0,291.0,40.0,15.0,7.0,210.0,True,False,İsrail,3611.377694671214,True
+2019,Kuzey Makedonya,Tamara Todevska,Proud,2.0,8.0,7.0,305.0,58.0,247.0,17.0,2.0,239.0,True,False,İsrail,1667.2604445187271,True
+2019,Azerbaycan,Chingiz,Truth,2.0,20.0,8.0,302.0,100.0,202.0,18.0,5.0,224.0,True,False,İsrail,1625.333316571073,True
+2019,Avustralya,Kate Miller-Heidke,Zero Gravity,1.0,25.0,9.0,284.0,131.0,153.0,12.0,1.0,261.0,True,False,İsrail,13992.134926609453,True
+2019,İzlanda,Hatari,Hatrið mun sigra,1.0,17.0,10.0,232.0,186.0,46.0,13.0,3.0,221.0,True,False,İsrail,5281.0004873933,True
+2019,Çek Cumhuriyeti,Lake Malawi,Friend of a Friend,1.0,3.0,11.0,157.0,7.0,150.0,6.0,2.0,242.0,True,False,İsrail,2662.4932170364095,False
+2019,Danimarka,Leonora,Love Is Forever,2.0,6.0,12.0,120.0,51.0,69.0,7.0,10.0,94.0,True,False,İsrail,3189.4011457734427,False
+2019,Kıbrıs,Tamta,Replay,1.0,11.0,13.0,109.0,32.0,77.0,1.0,9.0,149.0,True,False,İsrail,414.5272892462858,False
+2019,Malta,Michela Pace,Chameleon,2.0,1.0,14.0,107.0,20.0,87.0,11.0,8.0,157.0,True,False,İsrail,1962.721535935678,False
+2019,Slovenya,Zala Kralj & Gašper Šantl,Sebi,1.0,10.0,15.0,105.0,59.0,46.0,5.0,6.0,167.0,True,False,İsrail,2380.7949738365533,False
+2019,Fransa,Bilal Hassani,Roi,,21.0,16.0,105.0,38.0,67.0,,,,True,False,İsrail,3331.5899094844312,False
+2019,Arnavutluk,Jonida Maliqi,Ktheju Tokës,2.0,2.0,17.0,90.0,47.0,43.0,14.0,9.0,96.0,True,False,İsrail,1733.2341588434483,False
+2019,Sırbistan,Nevena Božović,Kruna,1.0,23.0,18.0,89.0,54.0,35.0,9.0,7.0,156.0,True,False,İsrail,1931.4692331406427,False
+2019,San Marino,Serhat,Say Na Na Na,1.0,7.0,19.0,77.0,65.0,12.0,17.0,8.0,150.0,True,False,İsrail,2400.3852524531453,False
+2019,Estonya,Victor Crone,Storm,1.0,18.0,20.0,76.0,48.0,28.0,14.0,4.0,198.0,True,False,İsrail,3172.9979958587587,False
+2019,Yunanistan,Katerine Duska,Better Love,1.0,13.0,21.0,74.0,24.0,50.0,16.0,5.0,185.0,True,False,İsrail,1252.9825098662402,False
+2019,İspanya,Miki,La Venda,,26.0,22.0,54.0,53.0,1.0,,,,True,False,İsrail,3594.7799782996212,False
+2019,İsrail,Kobi Marimi,Home,,14.0,23.0,35.0,35.0,0.0,,,,True,True,İsrail,0.0,False
+2019,Belarus,Zena,Like It,1.0,19.0,24.0,31.0,13.0,18.0,8.0,10.0,122.0,True,False,İsrail,2533.9896591998017,False
+2019,Almanya,S!sters,Sister,,4.0,25.0,24.0,0.0,24.0,,,,True,False,İsrail,2900.5787537670244,False
+2019,Birleşik Krallık,Michael Rice,Bigger Than Us,,16.0,26.0,11.0,3.0,8.0,,,,True,False,İsrail,3609.568868077548,False
+2019,Polonya,Tulia,Pali się,1.0,,,,,,4.0,11.0,120.0,False,False,İsrail,2548.6391764071905,False
+2019,Macaristan,Joci Pápai,Az én apám,1.0,,,,,,7.0,12.0,97.0,False,False,İsrail,2220.971537677073,False
+2019,Litvanya,Jurij Veklenko,Run with the Lions,2.0,,,,,,12.0,11.0,93.0,False,False,İsrail,2665.5990050231717,False
+2019,Moldova,Anna Odobescu,Stay,2.0,,,,,,3.0,12.0,85.0,False,False,İsrail,1777.9633785499684,False
+2019,Belçika,Eliot,Wake Up,1.0,,,,,,10.0,13.0,70.0,False,False,İsrail,3296.6140824389577,False
+2019,Romanya,Ester Peony,On a Sunday,2.0,,,,,,6.0,13.0,71.0,False,False,İsrail,1614.7559835617437,False
+2019,Gürcistan,Oto Nemsadze,Keep on Going,1.0,,,,,,11.0,14.0,62.0,False,False,İsrail,1393.9686833838723,False
+2019,Hırvatistan,Roko,The Dream,2.0,,,,,,10.0,14.0,64.0,False,False,İsrail,2272.181057003228,False
+2019,Portekiz,Conan Osíris,Telemóveis,1.0,,,,,,15.0,15.0,51.0,False,False,İsrail,4060.242677805648,False
+2019,Letonya,Carousel,That Night,2.0,,,,,,5.0,15.0,50.0,False,False,İsrail,2926.2234359657496,False
+2019,Ermenistan,Srbuk,Walking Out,2.0,,,,,,1.0,16.0,49.0,False,False,İsrail,1251.972605758482,False
+2019,Karadağ,D mol,Heaven,1.0,,,,,,2.0,16.0,46.0,False,False,İsrail,1840.5216781461806,False
+2019,Finlandiya,Darude feat. Sebastian Rejman,Look Away,1.0,,,,,,3.0,17.0,23.0,False,False,İsrail,3246.609574742888,False
+2019,Avusturya,Pænda,Limits,2.0,,,,,,9.0,17.0,21.0,False,False,İsrail,2418.9346542298367,False
+2019,İrlanda,Sarah McTernan,22,2.0,,,,,,2.0,18.0,16.0,False,False,İsrail,4071.005352147299,False
+2020,Fransa,Tom Leeb,The Best in Me,,,,,,,,,,False,False,Hollanda,429.69974559559745,False
+2020,Almanya,Ben Dolic,Violent Thing,,,,,,,,,,False,False,Hollanda,576.002886990363,False
+2020,İtalya,Diodato,Fai rumore,,,,,,,,,,False,False,Hollanda,1296.7226891604314,False
+2020,Hollanda,Jeangu Macrooy,Grow,,23.0,,,,,,,,False,True,Hollanda,0.0,False
+2020,İspanya,Blas Cantó,Universo,,,,,,,,,,False,False,Hollanda,1481.0107517557976,False
+2020,Birleşik Krallık,James Newman,My Last Breath,,,,,,,,,,False,False,Hollanda,357.73761547640396,False
+2020,Avustralya,Montaigne,Don't Break Me,1.0,,,,,,,,,False,False,Hollanda,16626.12064505585,False
+2020,Belarus,VAL,Da vidna,1.0,,,,,,,,,False,False,Hollanda,1515.2554940701364,False
+2020,İrlanda,Lesley Roy,Story Of My Life,1.0,,,,,,,,,False,False,Hollanda,756.314119505974,False
+2020,Litvanya,The Roop,On Fire,1.0,,,,,,,,,False,False,Hollanda,1366.3734739998542,False
+2020,Kuzey Makedonya,Vasil,You,1.0,,,,,,,,,False,False,Hollanda,1693.499758849517,False
+2020,Rusya,Little Big,Uno,1.0,,,,,,,,,False,False,Hollanda,2147.34045374749,False
+2020,Slovenya,Ana Soklič,Voda,1.0,,,,,,,,,False,False,Hollanda,988.1298222807607,False
+2020,İsveç,The Mamas,Move,1.0,,,,,,,,,False,False,Hollanda,1125.3782786757763,False
+2020,Azerbaycan,Samira Efendi,Cleopatra,1.0,,,,,,,,,False,False,Hollanda,3626.758762101374,False
+2020,Belçika,Hooverphonic,Release Me,1.0,,,,,,,,,False,False,Hollanda,173.22943527194417,False
+2020,Hırvatistan,Damir Kedžo,Divlji vjetre,1.0,,,,,,,,,False,False,Hollanda,1085.514351465549,False
+2020,Kıbrıs,Sandro Nicolas,Running,1.0,,,,,,,,,False,False,Hollanda,2946.2691887785836,False
+2020,İsrail,Eden Alene,Feker Libi,1.0,,,,,,,,,False,False,Hollanda,3347.2560899934806,False
+2020,Malta,Destiny,All Of My Love,1.0,,,,,,,,,False,False,Hollanda,1981.3849559184575,False
+2020,Norveç,Ulrikke Brandstorp,Attention,1.0,,,,,,,,,False,False,Hollanda,912.5536049447944,False
+2020,Romanya,Roxen,Alcohol You,1.0,,,,,,,,,False,False,Hollanda,1787.3188676020789,False
+2020,Ukrayna,Go_A,Solovey,1.0,,,,,,,,,False,False,Hollanda,1780.2006484017036,False
+2020,Avusturya,Vincent Bueno,Alive,2.0,,,,,,,,,False,False,Hollanda,935.4649215673201,False
+2020,Çek Cumhuriyeti,Benny Cristo,Kemama,2.0,,,,,,,,,False,False,Hollanda,710.7994890673226,False
+2020,Estonya,Uku Suviste,What Love Is,2.0,,,,,,,,,False,False,Hollanda,1457.3253015323758,False
+2020,Yunanistan,Stefania,Superg!rl​,2.0,,,,,,,,,False,False,Hollanda,2163.9401431410047,False
+2020,İzlanda,Daði & Gagnamagnið,Think About Things,2.0,,,,,,,,,False,False,Hollanda,2011.6871405787474,False
+2020,Moldova,Natalia Gordienko,Prison,2.0,,,,,,,,,False,False,Hollanda,1813.6743939890318,False
+2020,Polonya,Alicja Szemplińska,Empires,2.0,,,,,,,,,False,False,Hollanda,1093.3039741009147,False
+2020,San Marino,Senhit,Freaky!,2.0,,,,,,,,,False,False,Hollanda,1090.5951123724954,False
+2020,Sırbistan,Hurricane,Hasta la vista,2.0,,,,,,,,,False,False,Hollanda,1416.0367080132182,False
+2020,Arnavutluk,Arilena Ara,Fall From The Sky,2.0,,,,,,,,,False,False,Hollanda,1665.194043993947,False
+2020,Ermenistan,Athena Manoukian,Chains On You,2.0,,,,,,,,,False,False,Hollanda,3280.3279222846886,False
+2020,Bulgaristan,Victoria,Tears Getting Sober,2.0,,,,,,,,,False,False,Hollanda,1743.1561771692345,False
+2020,Danimarka,Ben & Tan,Yes,2.0,,,,,,,,,False,False,Hollanda,621.0904596243221,False
+2020,Finlandiya,Aksel Kankaanranta,Looking Back,2.0,,,,,,,,,False,False,Hollanda,1501.4209658512439,False
+2020,Gürcistan,Tornike Kipiani,Take Me As I Am,2.0,,,,,,,,,False,False,Hollanda,3196.9876773794135,False
+2020,Letonya,Samanta Tīna,Still Breathing,2.0,,,,,,,,,False,False,Hollanda,1330.704447118487,False
+2020,Portekiz,Elisa,Medo de sentir,2.0,,,,,,,,,False,False,Hollanda,1863.0996147691721,False
+2020,İsviçre,Gjon's Tears,Répondez-moi,2.0,,,,,,,,,False,False,Hollanda,629.9010028889128,False
+2021,İtalya,Måneskin,Zitti e buoni,,24.0,1.0,524.0,318.0,206.0,,,,True,False,,,True
+2021,Fransa,Barbara Pravi,Voilà,,20.0,2.0,499.0,251.0,248.0,,,,True,False,,,True
+2021,İsviçre,Gjon's Tears,Tout l'univers,2.0,11.0,3.0,432.0,165.0,267.0,16.0,1.0,291.0,True,False,,,True
+2021,İzlanda,Daði & Gagnamagnið,10 Years,2.0,12.0,4.0,378.0,180.0,198.0,8.0,2.0,288.0,True,False,,,True
+2021,Ukrayna,Go_A,Shum,1.0,19.0,5.0,364.0,267.0,97.0,15.0,2.0,267.0,True,False,,,True
+2021,Finlandiya,Blind Channel,Dark Side,2.0,16.0,6.0,301.0,218.0,83.0,14.0,5.0,234.0,True,False,,,True
+2021,Malta,Destiny,Je Me Casse,1.0,6.0,7.0,255.0,47.0,208.0,16.0,1.0,325.0,True,False,,,True
+2021,Litvanya,The Roop,Discoteque,1.0,18.0,8.0,220.0,165.0,55.0,1.0,4.0,203.0,True,False,,,True
+2021,Rusya,Manizha,Russian Woman,1.0,5.0,9.0,204.0,100.0,104.0,3.0,3.0,225.0,True,False,,,True
+2021,Yunanistan,Stefania,Last Dance,2.0,10.0,10.0,170.0,79.0,91.0,4.0,6.0,184.0,True,False,,,True
+2021,Bulgaristan,Victoria,Growing Up Is Getting Old,2.0,17.0,11.0,170.0,30.0,140.0,13.0,3.0,250.0,True,False,,,False
+2021,Portekiz,The Black Mamba,Love Is On My Side,2.0,7.0,12.0,153.0,27.0,126.0,12.0,4.0,239.0,True,False,,,False
+2021,Moldova,Natalia Gordienko,Sugar,2.0,14.0,13.0,115.0,62.0,53.0,7.0,7.0,179.0,True,False,,,False
+2021,İsveç,Tusse,Voices,1.0,25.0,14.0,109.0,63.0,46.0,4.0,7.0,142.0,True,False,,,False
+2021,Sırbistan,Hurricane,Loco Loco,2.0,8.0,15.0,102.0,82.0,20.0,9.0,8.0,124.0,True,False,,,False
+2021,Kıbrıs,Elena Tsagrinou,El Diablo,1.0,1.0,16.0,94.0,44.0,50.0,8.0,6.0,170.0,True,False,,,False
+2021,İsrail,Eden Alene,Set Me Free,1.0,3.0,17.0,93.0,20.0,73.0,12.0,5.0,192.0,True,False,,,False
+2021,Norveç,TIX,Fallen Angel,1.0,22.0,18.0,75.0,60.0,15.0,9.0,10.0,115.0,True,False,,,False
+2021,Belçika,Hooverphonic,The Wrong Place,1.0,4.0,19.0,74.0,3.0,71.0,11.0,9.0,117.0,True,False,,,False
+2021,Azerbaycan,Efendi,Mata Hari,1.0,21.0,20.0,65.0,33.0,32.0,14.0,8.0,138.0,True,False,,,False
+2021,Arnavutluk,Anxhela Peristeri,Karma,2.0,2.0,21.0,57.0,35.0,22.0,11.0,10.0,112.0,True,False,,,False
+2021,San Marino,Senhit feat. Flo Rida,Adrenalina,2.0,26.0,22.0,50.0,13.0,37.0,1.0,9.0,118.0,True,False,,,False
+2021,Hollanda,Jeangu Macrooy,Birth Of A New Age,,23.0,23.0,11.0,0.0,11.0,,,,True,False,,,False
+2021,İspanya,Blas Cantó,Voy A Quedarme,,13.0,24.0,6.0,0.0,6.0,,,,True,False,,,False
+2021,Almanya,Jendrik,I Don't Feel Hate,,15.0,25.0,3.0,0.0,3.0,,,,True,False,,,False
+2021,Birleşik Krallık,James Newman,Embers,,9.0,26.0,0.0,0.0,0.0,,,,True,False,,,False
+2021,Hırvatistan,Albina,Tick-Tock,1.0,,,,,,10.0,11.0,110.0,False,False,,,False
+2021,Romanya,Roxen,Amnesia,1.0,,,,,,13.0,12.0,85.0,False,False,,,False
+2021,Danimarka,Fyr og Flamme,Øve os på hinanden,2.0,,,,,,17.0,11.0,89.0,False,False,,,False
+2021,Avusturya,Vincent Bueno,Amen,2.0,,,,,,5.0,12.0,66.0,False,False,,,False
+2021,Estonya,Uku Suviste,The Lucky One,2.0,,,,,,2.0,13.0,58.0,False,False,,,False
+2021,Slovenya,Ana Soklič,Amen,1.0,,,,,,2.0,13.0,44.0,False,False,,,False
+2021,Polonya,Rafał,The Ride,2.0,,,,,,6.0,14.0,35.0,False,False,,,False
+2021,Avustralya,Montaigne,Technicolour,1.0,,,,,,5.0,14.0,28.0,False,False,,,False
+2021,North MacedoniaN.Macedonia,Vasil,Here I Stand,1.0,,,,,,6.0,15.0,23.0,False,False,,,False
+2021,Çek Cumhuriyeti,Benny Cristo,Omaga,2.0,,,,,,3.0,15.0,23.0,False,False,,,False
+2021,İrlanda,Lesley Roy,Maps,1.0,,,,,,7.0,16.0,20.0,False,False,,,False
+2021,Gürcistan,Tornike Kipiani,You,2.0,,,,,,10.0,16.0,16.0,False,False,,,False
+2021,Letonya,Samanta Tīna,The Moon Is Rising,2.0,,,,,,15.0,17.0,14.0,False,False,,,False
+2022,Ukrayna,Kalush Orchestra,Stefania,1.0,12.0,1.0,631.0,439.0,192.0,6.0,1.0,337.0,True,False,İtalya,1674.9696225630005,True
+2022,Birleşik Krallık,Sam Ryder,Space Man,,22.0,2.0,466.0,183.0,283.0,,,,True,False,İtalya,1434.5186384893616,True
+2022,İspanya,Chanel,SloMo,,10.0,3.0,459.0,228.0,231.0,,,,True,False,İtalya,1364.070826893501,True
+2022,İsveç,Cornelia Jakobs,Hold Me Closer,2.0,20.0,4.0,438.0,180.0,258.0,17.0,1.0,396.0,True,False,İtalya,1975.8995950891472,True
+2022,Sırbistan,Konstrakta,In Corpore Sano,2.0,24.0,5.0,312.0,225.0,87.0,3.0,3.0,237.0,True,False,İtalya,718.2765333023526,True
+2022,İtalya,Mahmood & Blanco,Brividi,,9.0,6.0,268.0,110.0,158.0,,,,True,True,İtalya,0.0,True
+2022,Moldova,Zdob și Zdub & Advahov Brothers,Trenulețul,1.0,19.0,7.0,253.0,239.0,14.0,9.0,8.0,154.0,True,False,İtalya,1413.8621192629998,True
+2022,Yunanistan,Amanda Georgiadi Tenfjord,Die Together,1.0,17.0,8.0,215.0,57.0,158.0,15.0,3.0,211.0,True,False,İtalya,1050.8641898539706,True
+2022,Portekiz,Maro,"Saudade, saudade",1.0,3.0,9.0,207.0,36.0,171.0,10.0,4.0,208.0,True,False,İtalya,1862.5910830839007,True
+2022,Norveç,Subwoolfer,Give That Wolf a Banana,1.0,7.0,10.0,182.0,146.0,36.0,16.0,6.0,177.0,True,False,İtalya,2006.2039672893773,True
+2022,Hollanda,S10,De Diepte,1.0,11.0,11.0,171.0,42.0,129.0,8.0,2.0,221.0,True,False,İtalya,1296.7226891604314,False
+2022,Polonya,Ochman,River,2.0,23.0,12.0,151.0,105.0,46.0,14.0,6.0,198.0,True,False,İtalya,1315.0685343293185,False
+2022,Estonya,Stefan,Hope,2.0,25.0,13.0,141.0,98.0,43.0,12.0,5.0,209.0,True,False,İtalya,2124.9665143136876,False
+2022,Litvanya,Monika Liu,Sentimentai,1.0,14.0,14.0,128.0,93.0,35.0,3.0,7.0,159.0,True,False,İtalya,1701.9393498231714,False
+2022,Avustralya,Sheldon Riley,Not The Same,2.0,21.0,15.0,125.0,2.0,123.0,8.0,2.0,243.0,True,False,İtalya,16216.012021228733,False
+2022,Azerbaycan,Nadir Rustamli,Fade To Black,2.0,15.0,16.0,106.0,3.0,103.0,4.0,10.0,96.0,True,False,İtalya,3108.276754572131,False
+2022,İsviçre,Marius Bear,Boys Do Cry,1.0,5.0,17.0,78.0,0.0,78.0,4.0,9.0,118.0,True,False,İtalya,689.7029418044301,False
+2022,Romanya,WRS,Llámame,2.0,2.0,18.0,65.0,53.0,12.0,13.0,9.0,118.0,True,False,İtalya,1136.83246362571,False
+2022,Belçika,Jérémie Makiese,Miss You,2.0,16.0,19.0,64.0,5.0,59.0,16.0,8.0,151.0,True,False,İtalya,1173.7012237545357,False
+2022,Ermenistan,Rosa Linn,Snap,1.0,8.0,20.0,61.0,21.0,40.0,17.0,5.0,187.0,True,False,İtalya,2675.860126726462,False
+2022,Finlandiya,The Rasmus,Jezebel,2.0,4.0,21.0,38.0,26.0,12.0,1.0,7.0,162.0,True,False,İtalya,2201.3492044088725,False
+2022,Çek Cumhuriyeti,We Are Domi,Lights Off,2.0,1.0,22.0,38.0,5.0,33.0,18.0,4.0,227.0,True,False,İtalya,921.7520784576543,False
+2022,İzlanda,Systur,Með hækkandi sól,1.0,18.0,23.0,20.0,10.0,10.0,14.0,10.0,103.0,True,False,İtalya,3296.056210584069,False
+2022,Fransa,Alvan & Ahez,Fulenn,,6.0,24.0,17.0,8.0,9.0,,,,True,False,İtalya,1106.0791306309816,False
+2022,Almanya,Malik Harris,Rockstars,,13.0,25.0,6.0,6.0,0.0,,,,True,False,İtalya,1182.8200874108213,False
+2022,Hırvatistan,Mia Dimšić,Guilty Pleasure,1.0,,,,,,11.0,11.0,75.0,False,False,İtalya,516.4894356612191,False
+2022,North MacedoniaN.Macedonia,Andrea,Circles,2.0,,,,,,11.0,11.0,76.0,False,False,İtalya,,False
+2022,Arnavutluk,Ronela Hajati,Sekret,1.0,,,,,,1.0,12.0,58.0,False,False,İtalya,611.6281340742795,False
+2022,Kıbrıs,Andromache,Ela,2.0,,,,,,9.0,12.0,63.0,False,False,İtalya,1956.2330008167867,False
+2022,İsrail,Michael Ben David,I.M,2.0,,,,,,2.0,13.0,61.0,False,False,İtalya,2303.52289325374,False
+2022,Danimarka,Reddi,The Show,1.0,,,,,,12.0,13.0,55.0,False,False,İtalya,1532.2744661224644,False
+2022,Letonya,Citi Zēni,Eat Your Salad,1.0,,,,,,2.0,14.0,55.0,False,False,İtalya,1866.4227292866524,False
+2022,San Marino,Achille Lauro,Stripper,2.0,,,,,,7.0,14.0,50.0,False,False,İtalya,226.8741719033147,False
+2022,İrlanda,Brooke Scullion,That's Rich,2.0,,,,,,10.0,15.0,47.0,False,False,İtalya,1886.1741490235743,False
+2022,Malta,Emma Muscat,I Am What I Am,2.0,,,,,,6.0,16.0,47.0,False,False,İtalya,689.4106020082971,False
+2022,Avusturya,LUM!X & Pia Maria,Halo,1.0,,,,,,13.0,15.0,42.0,False,False,İtalya,764.4068691640175,False
+2022,Karadağ,Vladana,Breathe,2.0,,,,,,15.0,17.0,33.0,False,False,İtalya,560.1850962139777,False
+2022,Bulgaristan,Intelligent Music Project,Intention,1.0,,,,,,7.0,16.0,29.0,False,False,İtalya,893.6848130053831,False
+2022,Gürcistan,Circus Mircus,Lock Me In,2.0,,,,,,5.0,18.0,22.0,False,False,İtalya,2660.2810084817534,False
+2022,Slovenya,LPS,Disko,1.0,,,,,,5.0,17.0,15.0,False,False,İtalya,489.6866892624862,False
+2023,İsveç,Loreen,Tattoo,,9.0,1.0,583.0,243.0,340.0,,,,True,False,Ukrayna,1264.2412140188364,True
+2023,Finlandiya,Käärijä,Cha Cha Cha,,13.0,2.0,526.0,376.0,150.0,,,,True,False,Ukrayna,1136.0542097995615,True
+2023,İsrail,Noa Kirel,Unicorn,,23.0,3.0,362.0,185.0,177.0,,,,True,False,Ukrayna,2111.9343231614966,True
+2023,İtalya,Marco Mengoni,Due vite,,11.0,4.0,350.0,174.0,176.0,,,,True,False,Ukrayna,1674.9696225630005,True
+2023,Norveç,Alessandra,Queen of Kings,,20.0,5.0,268.0,216.0,52.0,,,,True,False,Ukrayna,1626.6102245622128,True
+2023,Ukrayna,Tvorchi,Heart of Steel,,19.0,6.0,243.0,189.0,54.0,,,,True,True,Ukrayna,0.0,True
+2023,Belçika,Gustaph,Because of You,,16.0,7.0,182.0,55.0,127.0,,,,True,False,Ukrayna,1835.9467087747928,True
+2023,Estonya,Alika,Bridges,,12.0,8.0,168.0,22.0,146.0,,,,True,False,Ukrayna,1064.4372963542278,True
+2023,Avustralya,Voyager,Promise,,15.0,9.0,151.0,21.0,130.0,,,,True,False,Ukrayna,14896.54552499738,True
+2023,Çek Cumhuriyeti,Vesna,My Sister's Crown,,14.0,10.0,129.0,35.0,94.0,,,,True,False,Ukrayna,1141.4731856044561,True
+2023,Litvanya,Monika Linkytė,Stay,,22.0,11.0,127.0,46.0,81.0,,,,True,False,Ukrayna,589.3114538168633,False
+2023,Kıbrıs,Andrew Lambrou,Break a Broken Heart,,7.0,12.0,126.0,58.0,68.0,,,,True,False,Ukrayna,1714.445474736346,False
+2023,Hırvatistan,Let 3,Mama ŠČ!,,25.0,13.0,123.0,112.0,11.0,,,,True,False,Ukrayna,1193.3910382881868,False
+2023,Ermenistan,Brunette,Future Lover,,17.0,14.0,122.0,53.0,69.0,,,,True,False,Ukrayna,1576.2951279365948,False
+2023,Avusturya,Teya & Salena,Who The Hell Is Edgar?,,1.0,15.0,120.0,16.0,104.0,,,,True,False,Ukrayna,1053.428853303382,False
+2023,Fransa,La Zarra,Évidemment,,6.0,16.0,104.0,50.0,54.0,,,,True,False,Ukrayna,2023.294180998129,False
+2023,İspanya,Blanca Paloma,Eaea,,8.0,17.0,100.0,5.0,95.0,,,,True,False,Ukrayna,2861.8350894479545,False
+2023,Moldova,Pasha Parfeni,Soarele și Luna,,18.0,18.0,96.0,76.0,20.0,,,,True,False,Ukrayna,401.3921835953801,False
+2023,Polonya,Blanka,Solo,,4.0,19.0,93.0,81.0,12.0,,,,True,False,Ukrayna,689.0212692361698,False
+2023,İsviçre,Remo Forrer,Watergun,,3.0,20.0,92.0,31.0,61.0,,,,True,False,Ukrayna,1729.6513391703322,False
+2023,Slovenya,Joker Out,Carpe Diem,,24.0,21.0,78.0,45.0,33.0,,,,True,False,Ukrayna,1278.6188302846176,False
+2023,Arnavutluk,Albina & Familja Kelmendi,Duje,,10.0,22.0,76.0,59.0,17.0,,,,True,False,Ukrayna,1306.5590308676512,False
+2023,Portekiz,Mimicat,Ai Coração,,2.0,23.0,59.0,16.0,43.0,,,,True,False,Ukrayna,3351.039027049683,False
+2023,Sırbistan,Luke Black,Samo mi se spava,,5.0,24.0,30.0,16.0,14.0,,,,True,False,Ukrayna,981.2297947993045,False
+2023,Birleşik Krallık,Mae Muller,I Wrote A Song,,26.0,25.0,24.0,9.0,15.0,,,,True,False,Ukrayna,2133.2297179698553,False
+2023,Almanya,Lord Of The Lost,Blood & Glitter,,21.0,26.0,18.0,15.0,3.0,,,,True,False,Ukrayna,1204.5628895395816,False
+2023,İzlanda,Diljá,Power,,,,,,,,,,False,False,Ukrayna,3367.291341560699,False
+2023,Letonya,Sudden Lights,Aijā,,,,,,,,,,False,False,Ukrayna,836.1046070843996,False
+2023,Gürcistan,Iru,Echo,,,,,,,,,,False,False,Ukrayna,1462.994364395822,False
+2023,Yunanistan,Victor Vernicos,What They Say,,,,,,,,,,False,False,Ukrayna,1486.9009788925177,False
+2023,İrlanda,Wild Youth,We Are One,,,,,,,,,,False,False,Ukrayna,2515.5241046880014,False
+2023,Hollanda,Mia Nicolai & Dion Cooper,Burning Daylight,,,,,,,,,,False,False,Ukrayna,1780.2006484017036,False
+2023,Danimarka,Reiley,Breaking My Heart,,,,,,,,,,False,False,Ukrayna,1327.7437096101787,False
+2023,Azerbaycan,TuralTuranX,Tell Me More,,,,,,,,,,False,False,Ukrayna,1868.5308160809811,False
+2023,Malta,The Busker,Dance (Our Own Party),,,,,,,,,,False,False,Ukrayna,2065.137076356461,False
+2023,Romanya,Theodor Andrei,D.G.T. (Off and On),,,,,,,,,,False,False,Ukrayna,747.0588197518642,False
+2023,San Marino,Piqued Jacks,Like An Animal,,,,,,,,,,False,False,Ukrayna,1539.7264608254934,False
+2023,Finlandiya,Käärijä,Cha Cha Cha,1.0,,,,,,15.0,1.0,177.0,False,False,Ukrayna,1136.0542097995615,False
+2023,İsveç,Loreen,Tattoo,1.0,,,,,,11.0,2.0,135.0,False,False,Ukrayna,1264.2412140188364,False
+2023,İsrail,Noa Kirel,Unicorn,1.0,,,,,,9.0,3.0,127.0,False,False,Ukrayna,2111.9343231614966,False
+2023,Çek Cumhuriyeti,Vesna,My Sister's Crown,1.0,,,,,,13.0,4.0,110.0,False,False,Ukrayna,1141.4731856044561,False
+2023,Moldova,Pasha Parfeni,Soarele și Luna,1.0,,,,,,10.0,5.0,109.0,False,False,Ukrayna,401.3921835953801,False
+2023,Norveç,Alessandra,Queen of Kings,1.0,,,,,,1.0,6.0,102.0,False,False,Ukrayna,1626.6102245622128,False
+2023,İsviçre,Remo Forrer,Watergun,1.0,,,,,,8.0,7.0,97.0,False,False,Ukrayna,1729.6513391703322,False
+2023,Hırvatistan,Let 3,Mama ŠČ!,1.0,,,,,,7.0,8.0,76.0,False,False,Ukrayna,1193.3910382881868,False
+2023,Portekiz,Mimicat,Ai Coração,1.0,,,,,,5.0,9.0,74.0,False,False,Ukrayna,3351.039027049683,False
+2023,Sırbistan,Luke Black,Samo mi se spava,1.0,,,,,,3.0,10.0,37.0,False,False,Ukrayna,981.2297947993045,False
+2023,Letonya,Sudden Lights,Aijā,1.0,,,,,,4.0,11.0,34.0,False,False,Ukrayna,836.1046070843996,False
+2023,İrlanda,Wild Youth,We Are One,1.0,,,,,,6.0,12.0,10.0,False,False,Ukrayna,2515.5241046880014,False
+2023,Hollanda,Mia Nicolai & Dion Cooper,Burning Daylight,1.0,,,,,,14.0,13.0,7.0,False,False,Ukrayna,1780.2006484017036,False
+2023,Azerbaycan,TuralTuranX,Tell Me More,1.0,,,,,,12.0,14.0,4.0,False,False,Ukrayna,1868.5308160809811,False
+2023,Malta,The Busker,Dance (Our Own Party),1.0,,,,,,2.0,15.0,3.0,False,False,Ukrayna,2065.137076356461,False
