@@ -109,6 +109,60 @@ AUG["gun2.ipynb"] = [
           "**R²** = değişimin ne kadarını açıkladık (1=mükemmel, 0=ortalamayı söylemekten farksız). "
           "Grafikte noktalar kırmızı **y=x çizgisine** yaklaştıkça tahmin iyileşir."),
      ]},
+
+    # ——— Sınıf içi etkinlikler: 🛠️ uygulama + 💬 tartışma ———
+    {"after": "print('✅ Hazırız!')",
+     "cells": [P(
+        "> 🧑‍🏫 **Bu defterde iki yeni işaret var:**\n"
+        "> - 🛠️ **Senin sıran** — *eşinle* kendi Colab defterinde yapacağın küçük kodlama görevleri.\n"
+        "> - 💬 **Sınıfça tartışalım** — önce düşünüp sonra konuşacağın sorular.\n"
+        ">\n"
+        "> Yanlarındaki ⏱️ süreler öneridir — acele yok, denemek serbest, hata yapmak öğrenmenin parçası! 😊")]},
+    {"after": "dogruluk = model_degerlendir(model, X_test, y_test, sinif_adlari=list(model.classes_))",
+     "cells": [P(
+        "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~5 dakika\n\n"
+        "Kendi Colab defterinde, ağacı eğiten satırdaki `max_derinlik=3` değerini önce **2**, sonra **5** "
+        "yapın ve her seferinde `model_degerlendir`'i yeniden çalıştırın.\n\n"
+        "- Doğruluk yükseldi mi, düştü mü?\n"
+        "- Karmaşıklık matrisinde model **hangi iki türü** en çok karıştırıyor?\n\n"
+        "Önce eşinizle **tahmin edin**, sonra çalıştırıp kontrol edin. 💡 *İpucu: yalnızca tek bir sayıyı değiştiriyorsunuz.*")]},
+    {"after": "oznitelik_onemi_grafigi(model, oznitelik_adlari=list(X.columns), en_iyi_n=8)",
+     "cells": [P(
+        "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~5 dakika\n\n"
+        "Yukarıdaki grafikte **en önemli 2 öznitelik** hangisi? Şimdi kendi defterinizde bu iki ölçümü "
+        "birbirine karşı çizin, renk olarak da türü verin:\n\n"
+        "```python\n"
+        "dagilim_grafigi(penguen, x_sutunu='...', y_sutunu='...', renk_sutunu='tur')\n"
+        "```\n\n"
+        "Türler gerçekten **ayrı kümeler** oluşturuyor mu? 💡 *İpucu: sütun adlarını grafikteki en uzun "
+        "çubuklardan seçin (örn. `gaga_uzunluk_mm`).*")]},
+    {"after": "Ağaç derinliğini artırınca",
+     "cells": [P(
+        "### 💬 Sınıfça tartışalım · ⏱️ 2 dk düşün, sonra paylaş\n\n"
+        "Bir öğrenci sınava çalışırken bütün soruların cevabını **ezberlerse**, daha önce hiç görmediği "
+        "*yeni* bir soruda ne olur?\n\n"
+        "- Bu durum, ağaç derinleştikçe **eğitimde** çok iyi ama **testte** kötü olmasına nasıl benziyor?\n"
+        "- Sizce **‘ezberlemek’** ile **‘öğrenmek’** arasındaki fark ne?\n\n"
+        "Önce eşinizle konuşun, sonra birkaç grup fikrini sınıfla paylaşsın.")]},
+    {"after": "🤔 Etik tartışma — sınıfça konuşun",
+     "cells": [P(
+        "### 💬 Tartışma soruları · ⏱️ 3 dk eşinle, sonra sınıfça\n\n"
+        "1. Mantar modeli **%99 doğru** olsa bile, ormanda bulduğun gerçek bir mantarı yemek için ona "
+        "güvenir miydin? Neden?\n"
+        "2. Burada hangi hata daha **tehlikeli**: yenebilir bir mantara ‘zehirli’ demek mi, yoksa zehirli "
+        "bir mantara ‘yenir’ demek mi?\n"
+        "3. ‘Çok doğru ama %100 değil’ olan yapay zekâya başka **nerelerde** dikkatle güvenmeliyiz? "
+        "(sürücüsüz arabalar, tıbbi teşhis, yüz tanıma…)\n\n"
+        "Her grup bir soruyu seçip **1 cümlelik** cevabını sınıfa söylesin.")]},
+    {"after": "Çıkan **RMSE** kaç",
+     "cells": [P(
+        "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~7 dakika\n\n"
+        "Kendi defterinizde `ozellikler` listesinden `'sicaklik_oncesi_7gun'` özelliğini **silin** ve "
+        "modeli yeniden eğitip değerlendirin.\n\n"
+        "- RMSE arttı mı, azaldı mı?\n"
+        "- Yani **‘7 gün önceki sıcaklık’** yarını tahmin etmeye *yardım ediyor mu*?\n\n"
+        "Önce tahmin edin, sonra deneyip görün. 💡 *İpucu: listeden bir satırı silmeniz yeterli; modeli "
+        "kuran hücreyi tekrar çalıştırmayı unutmayın.*")]},
 ]
 
 # ════════════════════════════════════════════════════════════════════
