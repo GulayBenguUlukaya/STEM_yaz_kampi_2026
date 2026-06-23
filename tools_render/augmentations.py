@@ -85,7 +85,7 @@ AUG["gun2.ipynb"] = [
           "türü ayırmak için iyi ipuçlarıdır. Kümeler iç içeyse tek başına yetersizdir. Model de tam "
           "bunu yapar: en iyi ayıran ipuçlarını bulur."),
      ]},
-    {"after": "karar_agaci_ciz(model, oznitelik_adlari=list(X.columns)",
+    {"after": "Ağacın **en üstteki**",
      "cells": [
         P("🔧 **Aynı veriye farklı model.** Tek ağaç yerine **rastgele orman** (yüzlerce ağacın oyu):"),
         ("code",
@@ -121,7 +121,7 @@ AUG["gun2.ipynb"] = [
         "öğrenciler kendileri denemeden önce açmasın! 😉\n"
         ">\n"
         "> Yanlarındaki ⏱️ süreler öneridir — acele yok, denemek serbest, hata yapmak öğrenmenin parçası! 😊")]},
-    {"after": "Ağacın **en üstteki**",
+    {"after": "karar_agaci_ciz(model, oznitelik_adlari=list(X.columns)",
      "cells": [P(
         "### 🛠️ Senin sıran — ağacı takip et · ⏱️ ~7 dakika\n\n"
         "Yukarıda çizdiğin **karar ağacını** kullanarak, aşağıdaki **3 gizemli pengueni** kendi elinle "
