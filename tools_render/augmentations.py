@@ -114,7 +114,7 @@ AUG["gun2.ipynb"] = [
     {"after": "print('✅ Hazırız!')",
      "cells": [P(
         "> 🧑‍🏫 **Bu defterde iki yeni işaret var:**\n"
-        "> - 🛠️ **Senin sıran** — *eşinle* kendi Colab defterinde yapacağın küçük kodlama görevleri.\n"
+        "> - 🛠️ **Senin sıran** — kendi Colab defterinde yapacağın küçük kodlama görevleri (tek başına ya da yanındakiyle).\n"
         "> - 💬 **Sınıfça tartışalım** — önce düşünüp sonra konuşacağın sorular.\n"
         ">\n"
         "> Her etkinliğin altında, açıp kapatabileceğin bir **🔑 Cevap anahtarı** (eğitmen için) vardır — "
@@ -123,12 +123,12 @@ AUG["gun2.ipynb"] = [
         "> Yanlarındaki ⏱️ süreler öneridir — acele yok, denemek serbest, hata yapmak öğrenmenin parçası! 😊")]},
     {"after": "dogruluk = model_degerlendir(model, X_test, y_test, sinif_adlari=list(model.classes_))",
      "cells": [P(
-        "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~5 dakika\n\n"
+        "### 🛠️ Senin sıran · ⏱️ ~5 dakika\n\n"
         "Kendi Colab defterinde, ağacı eğiten satırdaki `max_derinlik=3` değerini önce **2**, sonra **5** "
         "yapın ve her seferinde `model_degerlendir`'i yeniden çalıştırın.\n\n"
         "- Doğruluk yükseldi mi, düştü mü?\n"
         "- Karmaşıklık matrisinde model **hangi iki türü** en çok karıştırıyor?\n\n"
-        "Önce eşinizle **tahmin edin**, sonra çalıştırıp kontrol edin. 💡 *İpucu: yalnızca tek bir sayıyı değiştiriyorsunuz.*"),
+        "Önce **tahmin edin**, sonra çalıştırıp kontrol edin. 💡 *İpucu: yalnızca tek bir sayıyı değiştiriyorsunuz.*"),
       P(
         "<details>\n"
         "<summary>🔑 Cevap anahtarı — eğitmen için</summary>\n\n"
@@ -140,7 +140,7 @@ AUG["gun2.ipynb"] = [
         "</details>")]},
     {"after": "oznitelik_onemi_grafigi(model, oznitelik_adlari=list(X.columns), en_iyi_n=8)",
      "cells": [P(
-        "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~5 dakika\n\n"
+        "### 🛠️ Senin sıran · ⏱️ ~5 dakika\n\n"
         "Yukarıdaki grafikte **en önemli 2 öznitelik** hangisi? Şimdi kendi defterinizde bu iki ölçümü "
         "birbirine karşı çizin, renk olarak da türü verin:\n\n"
         "```python\n"
@@ -167,7 +167,7 @@ AUG["gun2.ipynb"] = [
         "*yeni* bir soruda ne olur?\n\n"
         "- Bu durum, ağaç derinleştikçe **eğitimde** çok iyi ama **testte** kötü olmasına nasıl benziyor?\n"
         "- Sizce **‘ezberlemek’** ile **‘öğrenmek’** arasındaki fark ne?\n\n"
-        "Önce eşinizle konuşun, sonra birkaç grup fikrini sınıfla paylaşsın."),
+        "Önce kısaca düşünün, sonra birkaç kişi fikrini sınıfla paylaşsın."),
       P(
         "<details>\n"
         "<summary>🔑 Tartışma notları — eğitmen için</summary>\n\n"
@@ -180,7 +180,7 @@ AUG["gun2.ipynb"] = [
         "</details>")]},
     {"after": "🤔 Etik tartışma — sınıfça konuşun",
      "cells": [P(
-        "### 💬 Tartışma soruları · ⏱️ 3 dk eşinle, sonra sınıfça\n\n"
+        "### 💬 Tartışma soruları · ⏱️ 3 dk düşün, sonra sınıfça\n\n"
         "1. Mantar modeli **%99 doğru** olsa bile, ormanda bulduğun gerçek bir mantarı yemek için ona "
         "güvenir miydin? Neden?\n"
         "2. Burada hangi hata daha **tehlikeli**: yenebilir bir mantara ‘zehirli’ demek mi, yoksa zehirli "
@@ -200,7 +200,7 @@ AUG["gun2.ipynb"] = [
         "</details>")]},
     {"after": "Çıkan **RMSE** kaç",
      "cells": [P(
-        "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~7 dakika\n\n"
+        "### 🛠️ Senin sıran · ⏱️ ~7 dakika\n\n"
         "Kendi defterinizde `ozellikler` listesinden `'sicaklik_oncesi_7gun'` özelliğini **silin** ve "
         "modeli yeniden eğitip değerlendirin.\n\n"
         "- RMSE arttı mı, azaldı mı?\n"
