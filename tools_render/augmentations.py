@@ -142,8 +142,22 @@ AUG["gun2.ipynb"] = [
         "- **🐧 B → Gentoo.** Yol: `kanat 221 > 206.5` (sağ) → *Biscoe adası mı? Evet* → **Gentoo**.\n"
         "- **🐧 C → Chinstrap.** Yol: `kanat 196 ≤ 206.5` (sol) → `gaga_uzunluk 50 > 43.35` → "
         "*Dream adası mı? Evet* → **Chinstrap**.\n\n"
-        "İstersen `model.predict(...)` ile de doğrulatabilirsin — üçü de tutuyor. ✅\n\n"
-        "</details>")]},
+        "Aşağıdaki hücrede bunu `model.predict` ile de doğruladık — üçü de tutuyor. ✅\n\n"
+        "</details>"),
+      P("✅ **Modele de soralım.** Aynı 3 pengueni modele verip tahminini görelim — sen ağaçta "
+        "elinle bulduğunla **aynı mı**?"),
+      ("code",
+        "import pandas as pd\n"
+        "# 3 gizemli penguen (yukarıdaki tablo)\n"
+        "gizemli = pd.DataFrame([\n"
+        "    {'gaga_uzunluk_mm': 39, 'gaga_derinlik_mm': 18.5, 'kanat_uzunluk_mm': 190, 'vucut_agirlik_g': 3700, 'ada': 'Torgersen', 'cinsiyet': 'erkek'},\n"
+        "    {'gaga_uzunluk_mm': 49, 'gaga_derinlik_mm': 15.0, 'kanat_uzunluk_mm': 221, 'vucut_agirlik_g': 5400, 'ada': 'Biscoe',    'cinsiyet': 'erkek'},\n"
+        "    {'gaga_uzunluk_mm': 50, 'gaga_derinlik_mm': 19.0, 'kanat_uzunluk_mm': 196, 'vucut_agirlik_g': 3900, 'ada': 'Dream',     'cinsiyet': 'dişi'},\n"
+        "], index=['🐧 A', '🐧 B', '🐧 C'])\n\n"
+        "# Modelin beklediği sütunlara çevir (get_dummies + eksik sütunları 0 yap)\n"
+        "gizemli_X = pd.get_dummies(gizemli, columns=['ada', 'cinsiyet']).reindex(columns=X.columns, fill_value=0)\n"
+        "for ad, tahmin in zip(gizemli.index, model.predict(gizemli_X)):\n"
+        "    print(f'{ad}  →  Model tahmini: {tahmin}')")]},
     {"after": "dogruluk = model_degerlendir(model, X_test, y_test, sinif_adlari=list(model.classes_))",
      "cells": [P(
         "### 🛠️ Senin sıran · ⏱️ ~5 dakika\n\n"
