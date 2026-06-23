@@ -121,6 +121,29 @@ AUG["gun2.ipynb"] = [
         "öğrenciler kendileri denemeden önce açmasın! 😉\n"
         ">\n"
         "> Yanlarındaki ⏱️ süreler öneridir — acele yok, denemek serbest, hata yapmak öğrenmenin parçası! 😊")]},
+    {"after": "Ağacın **en üstteki**",
+     "cells": [P(
+        "### 🛠️ Senin sıran — ağacı takip et · ⏱️ ~7 dakika\n\n"
+        "Yukarıda çizdiğin **karar ağacını** kullanarak, aşağıdaki **3 gizemli pengueni** kendi elinle "
+        "sınıflandır. Her penguen için ağacın **tepesinden** başla; her düğümdeki soruya (örn. "
+        "*`kanat_uzunluk_mm` ≤ 206.5 mi?*) **evet/hayır** diye cevap verip dallardan in — ulaştığın "
+        "**yapraktaki tür** senin tahminindir!\n\n"
+        "| Penguen | `kanat_uzunluk_mm` | `gaga_uzunluk_mm` | `gaga_derinlik_mm` | `ada` |\n"
+        "|:---:|:---:|:---:|:---:|:---:|\n"
+        "| 🐧 **A** | 190 | 39 | 18.5 | Torgersen |\n"
+        "| 🐧 **B** | 221 | 49 | 15.0 | Biscoe |\n"
+        "| 🐧 **C** | 196 | 50 | 19.0 | Dream |\n\n"
+        "💡 *Ağaçtaki ada soruları ‘kuklacık’ (dummy) sütunlardır: `ada_Dream ≤ 0.5` = “Dream adasında "
+        "**değil**”, `ada_Biscoe > 0.5` = “Biscoe adasında”.*\n\n"
+        "📝 Her penguen için tahminini Çalışma Kitapçığı'na yaz, sonra cevap anahtarıyla karşılaştır.\n\n"
+        "<details>\n"
+        "<summary>🔑 Cevap anahtarı — eğitmen için</summary>\n\n"
+        "- **🐧 A → Adelie.** Yol: `kanat 190 ≤ 206.5` (sol) → `gaga_uzunluk 39 ≤ 43.35` → **Adelie**.\n"
+        "- **🐧 B → Gentoo.** Yol: `kanat 221 > 206.5` (sağ) → *Biscoe adası mı? Evet* → **Gentoo**.\n"
+        "- **🐧 C → Chinstrap.** Yol: `kanat 196 ≤ 206.5` (sol) → `gaga_uzunluk 50 > 43.35` → "
+        "*Dream adası mı? Evet* → **Chinstrap**.\n\n"
+        "İstersen `model.predict(...)` ile de doğrulatabilirsin — üçü de tutuyor. ✅\n\n"
+        "</details>")]},
     {"after": "dogruluk = model_degerlendir(model, X_test, y_test, sinif_adlari=list(model.classes_))",
      "cells": [P(
         "### 🛠️ Senin sıran · ⏱️ ~5 dakika\n\n"
