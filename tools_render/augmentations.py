@@ -117,6 +117,9 @@ AUG["gun2.ipynb"] = [
         "> - 🛠️ **Senin sıran** — *eşinle* kendi Colab defterinde yapacağın küçük kodlama görevleri.\n"
         "> - 💬 **Sınıfça tartışalım** — önce düşünüp sonra konuşacağın sorular.\n"
         ">\n"
+        "> Her etkinliğin altında, açıp kapatabileceğin bir **🔑 Cevap anahtarı** (eğitmen için) vardır — "
+        "öğrenciler kendileri denemeden önce açmasın! 😉\n"
+        ">\n"
         "> Yanlarındaki ⏱️ süreler öneridir — acele yok, denemek serbest, hata yapmak öğrenmenin parçası! 😊")]},
     {"after": "dogruluk = model_degerlendir(model, X_test, y_test, sinif_adlari=list(model.classes_))",
      "cells": [P(
@@ -125,7 +128,16 @@ AUG["gun2.ipynb"] = [
         "yapın ve her seferinde `model_degerlendir`'i yeniden çalıştırın.\n\n"
         "- Doğruluk yükseldi mi, düştü mü?\n"
         "- Karmaşıklık matrisinde model **hangi iki türü** en çok karıştırıyor?\n\n"
-        "Önce eşinizle **tahmin edin**, sonra çalıştırıp kontrol edin. 💡 *İpucu: yalnızca tek bir sayıyı değiştiriyorsunuz.*")]},
+        "Önce eşinizle **tahmin edin**, sonra çalıştırıp kontrol edin. 💡 *İpucu: yalnızca tek bir sayıyı değiştiriyorsunuz.*"),
+      P(
+        "<details>\n"
+        "<summary>🔑 Cevap anahtarı — eğitmen için</summary>\n\n"
+        "- **Doğruluk:** `max_derinlik=2` → **%98,5** · `=3` → **%98,5** (aynı!) · `=5` → **%100** (bu test kümesinde).\n"
+        "- **En çok karışan:** **Adelie ↔ Chinstrap** (1 Chinstrap, Adelie sanılıyor); **Gentoo** hiç karışmaz "
+        "— ölçüleri çok farklıdır.\n"
+        "- **Tartış:** 2→3 hiçbir şeyi değiştirmedi; derinliği *çok* artırınca (bir sonraki ‘aşırı öğrenme’ "
+        "deneyinde) testin nasıl **düştüğünü** göreceğiz — yani ‘daha derin = daha iyi’ değildir.\n\n"
+        "</details>")]},
     {"after": "oznitelik_onemi_grafigi(model, oznitelik_adlari=list(X.columns), en_iyi_n=8)",
      "cells": [P(
         "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~5 dakika\n\n"
@@ -135,7 +147,19 @@ AUG["gun2.ipynb"] = [
         "dagilim_grafigi(penguen, x_sutunu='...', y_sutunu='...', renk_sutunu='tur')\n"
         "```\n\n"
         "Türler gerçekten **ayrı kümeler** oluşturuyor mu? 💡 *İpucu: sütun adlarını grafikteki en uzun "
-        "çubuklardan seçin (örn. `gaga_uzunluk_mm`).*")]},
+        "çubuklardan seçin (örn. `gaga_uzunluk_mm`).*"),
+      P(
+        "<details>\n"
+        "<summary>🔑 Cevap anahtarı — eğitmen için</summary>\n\n"
+        "- **En önemli 2 öznitelik:** `kanat_uzunluk_mm` (~0,54) ve `gaga_uzunluk_mm` (~0,35).\n"
+        "- **Doğru çağrı:**\n\n"
+        "  ```python\n"
+        "  dagilim_grafigi(penguen, x_sutunu='kanat_uzunluk_mm', y_sutunu='gaga_uzunluk_mm', renk_sutunu='tur')\n"
+        "  ```\n\n"
+        "- **Beklenen sonuç:** Türler büyük ölçüde **ayrı kümeler** oluşturur — özellikle **Gentoo** kanat "
+        "uzunluğuyla net ayrılır; **Adelie** ile **Chinstrap** birbirine daha yakındır (model de en çok "
+        "onları karıştırıyordu).\n\n"
+        "</details>")]},
     {"after": "Ağaç derinliğini artırınca",
      "cells": [P(
         "### 💬 Sınıfça tartışalım · ⏱️ 2 dk düşün, sonra paylaş\n\n"
@@ -143,7 +167,17 @@ AUG["gun2.ipynb"] = [
         "*yeni* bir soruda ne olur?\n\n"
         "- Bu durum, ağaç derinleştikçe **eğitimde** çok iyi ama **testte** kötü olmasına nasıl benziyor?\n"
         "- Sizce **‘ezberlemek’** ile **‘öğrenmek’** arasındaki fark ne?\n\n"
-        "Önce eşinizle konuşun, sonra birkaç grup fikrini sınıfla paylaşsın.")]},
+        "Önce eşinizle konuşun, sonra birkaç grup fikrini sınıfla paylaşsın."),
+      P(
+        "<details>\n"
+        "<summary>🔑 Tartışma notları — eğitmen için</summary>\n\n"
+        "- **Beklenen fikir:** Ezberleyen öğrenci gördüğü soruları bilir ama **yeni** soruda zorlanır — "
+        "*cevapları* öğrenmiştir, *kuralı* değil.\n"
+        "- **Bağlantı:** Çok derin ağaç da eğitim verisini ezberler (eğitim ≈ %100) ama yeni veride (test) "
+        "başarısızdır = **aşırı öğrenme (overfitting)**.\n"
+        "- **‘Ezber vs öğrenme’:** Öğrenmek = **genelleştirebilmek** (yeni durumda işe yarayan kuralı "
+        "çıkarmak). İyi model, ezberleyen değil *genelleştiren* modeldir.\n\n"
+        "</details>")]},
     {"after": "🤔 Etik tartışma — sınıfça konuşun",
      "cells": [P(
         "### 💬 Tartışma soruları · ⏱️ 3 dk eşinle, sonra sınıfça\n\n"
@@ -153,7 +187,17 @@ AUG["gun2.ipynb"] = [
         "bir mantara ‘yenir’ demek mi?\n"
         "3. ‘Çok doğru ama %100 değil’ olan yapay zekâya başka **nerelerde** dikkatle güvenmeliyiz? "
         "(sürücüsüz arabalar, tıbbi teşhis, yüz tanıma…)\n\n"
-        "Her grup bir soruyu seçip **1 cümlelik** cevabını sınıfa söylesin.")]},
+        "Her grup bir soruyu seçip **1 cümlelik** cevabını sınıfa söylesin."),
+      P(
+        "<details>\n"
+        "<summary>🔑 Tartışma notları — eğitmen için</summary>\n\n"
+        "1. **Hayır** — %99 bile yetmez; kalan %1 **ölüm** olabilir. Hayati kararlarda yüksek doğruluk "
+        "*tek başına* yeterli değildir.\n"
+        "2. Daha tehlikeli hata: **zehirliye ‘yenir’ demek** (yanlış güven / False Negative) — ölümcüldür. "
+        "Yenebilire ‘zehirli’ demek ise sadece bir yemeği kaçırtır.\n"
+        "3. Hatanın bedeli yüksek olan her yerde dikkat: **tıbbi teşhis, sürücüsüz araba, ilaç dozu, uçak "
+        "otopilotu…** Buralarda AI tek başına karar vermemeli; **insan kontrolü** şarttır.\n\n"
+        "</details>")]},
     {"after": "Çıkan **RMSE** kaç",
      "cells": [P(
         "### 🛠️ Senin sıran — eşinle dene · ⏱️ ~7 dakika\n\n"
@@ -162,7 +206,16 @@ AUG["gun2.ipynb"] = [
         "- RMSE arttı mı, azaldı mı?\n"
         "- Yani **‘7 gün önceki sıcaklık’** yarını tahmin etmeye *yardım ediyor mu*?\n\n"
         "Önce tahmin edin, sonra deneyip görün. 💡 *İpucu: listeden bir satırı silmeniz yeterli; modeli "
-        "kuran hücreyi tekrar çalıştırmayı unutmayın.*")]},
+        "kuran hücreyi tekrar çalıştırmayı unutmayın.*"),
+      P(
+        "<details>\n"
+        "<summary>🔑 Cevap anahtarı — eğitmen için</summary>\n\n"
+        "- **RMSE:** 7 günlük özellikle ≈ **1,54 °C** · çıkarınca ≈ **1,53 °C** → neredeyse **aynı** "
+        "(hatta çok az *azalıyor*).\n"
+        "- **Yorum:** ‘7 gün önceki sıcaklık’ tahmine kayda değer katkı yapmıyor; çünkü **dünün** (`1gun`) "
+        "sıcaklığı zaten bilginin çoğunu taşıyor. Ders: **daha çok özellik = her zaman daha iyi değil**; "
+        "bazı özellikler gereksizdir, hatta gürültü ekleyebilir.\n\n"
+        "</details>")]},
 ]
 
 # ════════════════════════════════════════════════════════════════════
