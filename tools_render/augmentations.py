@@ -101,6 +101,28 @@ AUG["gun2.ipynb"] = [
           "doğruluğu %100'e tırmanır — ağaç veriyi *ezberler*. Asıl önemli olan **Test** sütunudur "
           "(görülmemiş veri). Eğitim yüksek ama test düşükse model **ezberlemiş ama öğrenememiştir**. "
           "En iyi derinlik, *testin en yüksek olduğu* yerdir."),
+        P("### 🔎 Tek bir penguen, derinliğe göre değişen cevap\n\n"
+          "Üstteki tablo **genel** doğruluğu gösteriyor. Peki **tek bir penguen** için ne olur? "
+          "Aşağıdaki **sınırda** penguene bak — gerçek türü **Adelie**, ama ölçüleri biraz "
+          "Chinstrap'a benziyor. Ağacın derinliğini 2'den 5'e çıkardıkça modelin cevabı **değişiyor**:"),
+        ("code",
+         "from sklearn.tree import DecisionTreeClassifier\n"
+         "# Sınırda bir penguen — gerçek türü: Adelie\n"
+         "sinirda = pd.DataFrame([{\n"
+         "    'gaga_uzunluk_mm': 44.1, 'gaga_derinlik_mm': 19.7, 'kanat_uzunluk_mm': 196,\n"
+         "    'vucut_agirlik_g': 4400, 'ada': 'Dream', 'cinsiyet': 'erkek'\n"
+         "}])\n"
+         "sinirda_X = pd.get_dummies(sinirda, columns=['ada', 'cinsiyet']).reindex(columns=X.columns, fill_value=0)\n"
+         "\n"
+         "print('Gerçek tür: Adelie 🐧')\n"
+         "for d in [2, 3, 4, 5]:\n"
+         "    agac_d = DecisionTreeClassifier(max_depth=d, random_state=42).fit(X_egitim, y_egitim)\n"
+         "    print(f'  Derinlik {d}  →  Model: {agac_d.predict(sinirda_X)[0]}')"),
+        P("📊 **Ne oldu?** Derinlik **2–3** bu pengueni **Chinstrap** sanıyor (yanlış); derinlik **4–5** "
+          "ise **Adelie** (doğru!) diyor. Daha derin ağaç, bu *sınırdaki* örneği ayırmak için fazladan "
+          "soru sorabildi. ⚠️ Ama dikkat: derinleşmek bazı örnekleri **düzeltir**, bazılarında ise yalnızca "
+          "eğitim verisini *ezberletip* yeni veride hata yaptırır (yukarıdaki **test** sütunu). Mesele, "
+          "**dengeyi** bulmaktır."),
      ]},
     {"after": "baslik='2024 Sıcaklık Tahmini'",
      "cells": [
